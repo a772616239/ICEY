@@ -1,0 +1,272 @@
+
+JumperFooter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Center
+  rotate: false
+  xy: 757, 764
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+CenterLight
+  rotate: false
+  xy: 996, 835
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Effect/Atk1/1
+  rotate: false
+  xy: 2, 36
+  size: 114, 24
+  orig: 114, 24
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 2, 15
+  size: 19, 71
+  orig: 19, 71
+  offset: 0, 0
+  index: -1
+Footer/Core
+  rotate: false
+  xy: 846, 786
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Footer/CoreLight
+  rotate: true
+  xy: 282, 262
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Footer/LArmor
+  rotate: false
+  xy: 536, 835
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Footer/LFootForeLight
+  rotate: false
+  xy: 846, 766
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+Footer/RFootForeToeLight
+  rotate: false
+  xy: 846, 766
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+Footer/LFootForeToe
+  rotate: true
+  xy: 935, 769
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+Footer/LFootToe
+  rotate: false
+  xy: 366, 262
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+Footer/LLeg
+  rotate: true
+  xy: 605, 922
+  size: 100, 259
+  orig: 100, 259
+  offset: 0, 0
+  index: -1
+Footer/LLegLight
+  rotate: false
+  xy: 362, 174
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Footer/LThigh
+  rotate: false
+  xy: 342, 705
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+Footer/RArmor
+  rotate: false
+  xy: 536, 765
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+Footer/RFootForeToe
+  rotate: true
+  xy: 281, 668
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+Footer/RFootToe
+  rotate: false
+  xy: 362, 215
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+Footer/RLeg
+  rotate: false
+  xy: 2, 279
+  size: 162, 218
+  orig: 162, 218
+  offset: 0, 0
+  index: -1
+Footer/RLegLight
+  rotate: true
+  xy: 342, 652
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Footer/RThigh
+  rotate: true
+  xy: 413, 731
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+LDefenseHand
+  rotate: false
+  xy: 165, 60
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+LDefenseHandLight
+  rotate: false
+  xy: 282, 296
+  size: 82, 201
+  orig: 82, 201
+  offset: 0, 0
+  index: -1
+LForeArmReadyLight
+  rotate: false
+  xy: 605, 860
+  size: 221, 60
+  orig: 221, 60
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: true
+  xy: 413, 684
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+LforeamIdle
+  rotate: false
+  xy: 2, 652
+  size: 277, 122
+  orig: 277, 122
+  offset: 0, 0
+  index: -1
+LforeamReady
+  rotate: false
+  xy: 359, 902
+  size: 244, 120
+  orig: 244, 120
+  offset: 0, 0
+  index: -1
+LforearmFlash
+  rotate: false
+  xy: 2, 776
+  size: 293, 127
+  orig: 293, 127
+  offset: 0, 0
+  index: -1
+LhandATKing
+  rotate: true
+  xy: 2, 62
+  size: 215, 161
+  orig: 215, 161
+  offset: 0, 0
+  index: -1
+LhandATKready
+  rotate: false
+  xy: 866, 877
+  size: 151, 145
+  orig: 151, 145
+  offset: 0, 0
+  index: -1
+LhandATKreadyLight
+  rotate: true
+  xy: 605, 756
+  size: 102, 150
+  orig: 102, 150
+  offset: 0, 0
+  index: -1
+RDefenseHand
+  rotate: false
+  xy: 267, 74
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+RDefenseHandLight
+  rotate: false
+  xy: 366, 309
+  size: 69, 188
+  orig: 69, 188
+  offset: 0, 0
+  index: -1
+RForeArmLight
+  rotate: false
+  xy: 297, 778
+  size: 237, 122
+  orig: 237, 122
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 267, 34
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+Rfoream
+  rotate: true
+  xy: 166, 262
+  size: 235, 114
+  orig: 235, 114
+  offset: 0, 0
+  index: -1
+RforearmFlash
+  rotate: false
+  xy: 2, 905
+  size: 355, 117
+  orig: 355, 117
+  offset: 0, 0
+  index: -1
+RhandATKing
+  rotate: false
+  xy: 2, 499
+  size: 232, 151
+  orig: 232, 151
+  offset: 0, 0
+  index: -1
+RhandATKready
+  rotate: true
+  xy: 236, 499
+  size: 151, 146
+  orig: 151, 146
+  offset: 0, 0
+  index: -1

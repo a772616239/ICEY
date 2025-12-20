@@ -1,0 +1,48 @@
+
+FooterPartA.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Core
+  rotate: false
+  xy: 2, 72
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+RArmor
+  rotate: false
+  xy: 2, 2
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+RFootForeToe
+  rotate: false
+  xy: 166, 317
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+RFootToe
+  rotate: false
+  xy: 166, 270
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: false
+  xy: 2, 163
+  size: 162, 218
+  orig: 162, 218
+  offset: 0, 0
+  index: -1
+RThigh
+  rotate: false
+  xy: 91, 79
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1

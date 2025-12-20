@@ -1,0 +1,607 @@
+
+GiantRobot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyLower
+  rotate: false
+  xy: 267, 799
+  size: 532, 557
+  orig: 532, 557
+  offset: 0, 0
+  index: -1
+BodyUpper
+  rotate: false
+  xy: 2, 1358
+  size: 578, 688
+  orig: 578, 688
+  offset: 0, 0
+  index: -1
+BodyUpperILight
+  rotate: true
+  xy: 1110, 1360
+  size: 186, 72
+  orig: 186, 72
+  offset: 0, 0
+  index: -1
+Core
+  rotate: true
+  xy: 1542, 806
+  size: 216, 265
+  orig: 216, 265
+  offset: 0, 0
+  index: -1
+CoreLight
+  rotate: true
+  xy: 1535, 366
+  size: 215, 254
+  orig: 215, 254
+  offset: 0, 0
+  index: -1
+Handle/LDownHandle
+  rotate: false
+  xy: 2, 119
+  size: 260, 573
+  orig: 260, 573
+  offset: 0, 0
+  index: -1
+Handle/LDownHandleBroken
+  rotate: false
+  xy: 2, 694
+  size: 263, 662
+  orig: 263, 662
+  offset: 0, 0
+  index: -1
+Handle/LUpHandle
+  rotate: false
+  xy: 1849, 1702
+  size: 196, 344
+  orig: 196, 344
+  offset: 0, 0
+  index: -1
+Handle/RDownHandle
+  rotate: false
+  xy: 264, 119
+  size: 260, 573
+  orig: 260, 573
+  offset: 0, 0
+  index: -1
+Handle/RUpHandle
+  rotate: false
+  xy: 1849, 1356
+  size: 196, 344
+  orig: 196, 344
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1542, 1024
+  size: 230, 277
+  orig: 230, 277
+  offset: 0, 0
+  index: -1
+HeadArmor
+  rotate: false
+  xy: 1789, 39
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+HeadLight
+  rotate: false
+  xy: 267, 695
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+LChestArmorLight
+  rotate: true
+  xy: 1184, 1365
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+LForeArm
+  rotate: true
+  xy: 801, 858
+  size: 498, 287
+  orig: 498, 287
+  offset: 0, 0
+  index: -1
+LForeArmArmor
+  rotate: true
+  xy: 1387, 1659
+  size: 387, 229
+  orig: 387, 229
+  offset: 0, 0
+  index: -1
+LForeArmDownArmor
+  rotate: true
+  xy: 1232, 164
+  size: 311, 90
+  orig: 311, 90
+  offset: 0, 0
+  index: -1
+LForeArmItem
+  rotate: true
+  xy: 1090, 942
+  size: 414, 139
+  orig: 414, 139
+  offset: 0, 0
+  index: -1
+LForeArmItemArmor
+  rotate: true
+  xy: 659, 4
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+LForeArmItemArmorILight
+  rotate: true
+  xy: 801, 801
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+LForeArmItemLight
+  rotate: false
+  xy: 410, 12
+  size: 247, 105
+  orig: 247, 105
+  offset: 0, 0
+  index: -1
+LForeArmLight
+  rotate: true
+  xy: 582, 1546
+  size: 500, 256
+  orig: 500, 256
+  offset: 0, 0
+  index: -1
+LForeArmUpArmor
+  rotate: false
+  xy: 582, 1358
+  size: 262, 186
+  orig: 262, 186
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: true
+  xy: 1343, 477
+  size: 253, 190
+  orig: 253, 190
+  offset: 0, 0
+  index: -1
+LHandLight
+  rotate: true
+  xy: 1841, 1203
+  size: 151, 201
+  orig: 151, 201
+  offset: 0, 0
+  index: -1
+LLauncherArmor
+  rotate: true
+  xy: 2, 2
+  size: 115, 107
+  orig: 115, 107
+  offset: 0, 0
+  index: -1
+LLauncherArmorILight
+  rotate: false
+  xy: 989, 802
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+LLauncherArmorShootLight
+  rotate: true
+  xy: 220, 6
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+LLauncherShootLight
+  rotate: true
+  xy: 969, 700
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: false
+  xy: 526, 163
+  size: 351, 533
+  orig: 351, 533
+  offset: 0, 0
+  index: -1
+LeftArmArmor1
+  rotate: true
+  xy: 1546, 1404
+  size: 146, 293
+  orig: 146, 293
+  offset: 0, 0
+  index: -1
+LeftArmArmor2
+  rotate: false
+  xy: 1372, 1139
+  size: 168, 224
+  orig: 168, 224
+  offset: 0, 0
+  index: -1
+LeftArmArmor3
+  rotate: false
+  xy: 1809, 614
+  size: 231, 321
+  orig: 231, 321
+  offset: 0, 0
+  index: -1
+LeftArmArmorILight1
+  rotate: true
+  xy: 1416, 170
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+LeftArmArmorILight3
+  rotate: true
+  xy: 1636, 1565
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+LeftArmArmorInner1
+  rotate: true
+  xy: 397, 698
+  size: 99, 284
+  orig: 99, 284
+  offset: 0, 0
+  index: -1
+LeftArmArmorInner2
+  rotate: false
+  xy: 1211, 702
+  size: 130, 238
+  orig: 130, 238
+  offset: 0, 0
+  index: -1
+LeftArmArmorLight1
+  rotate: true
+  xy: 600, 127
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+LeftArmArmorLight2
+  rotate: true
+  xy: 526, 125
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+LeftArmLight
+  rotate: true
+  xy: 1821, 937
+  size: 264, 221
+  orig: 264, 221
+  offset: 0, 0
+  index: -1
+LeftLauncher
+  rotate: true
+  xy: 985, 8
+  size: 153, 182
+  orig: 153, 182
+  offset: 0, 0
+  index: -1
+LeftLauncherILight
+  rotate: false
+  xy: 1091, 804
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+LeftLauncherLight
+  rotate: false
+  xy: 1123, 744
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+LeftRollLight
+  rotate: false
+  xy: 1232, 492
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: false
+  xy: 879, 163
+  size: 351, 533
+  orig: 351, 533
+  offset: 0, 0
+  index: -1
+RArmArmor1
+  rotate: true
+  xy: 1546, 1256
+  size: 146, 293
+  orig: 146, 293
+  offset: 0, 0
+  index: -1
+RArmArmor2
+  rotate: false
+  xy: 1372, 913
+  size: 168, 224
+  orig: 168, 224
+  offset: 0, 0
+  index: -1
+RArmArmor3
+  rotate: false
+  xy: 1556, 43
+  size: 231, 321
+  orig: 231, 321
+  offset: 0, 0
+  index: -1
+RArmArmorILight1
+  rotate: false
+  xy: 1232, 566
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+RArmArmorInner1
+  rotate: true
+  xy: 683, 698
+  size: 99, 284
+  orig: 99, 284
+  offset: 0, 0
+  index: -1
+RArmArmorInner2
+  rotate: true
+  xy: 1802, 482
+  size: 130, 238
+  orig: 130, 238
+  offset: 0, 0
+  index: -1
+RArmArmorLight1
+  rotate: true
+  xy: 629, 127
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+RArmArmorLight2
+  rotate: true
+  xy: 563, 125
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+RArmArmorLight3
+  rotate: true
+  xy: 1728, 1565
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+RArmLight
+  rotate: false
+  xy: 1536, 583
+  size: 264, 221
+  orig: 264, 221
+  offset: 0, 0
+  index: -1
+RChestArmor
+  rotate: false
+  xy: 1343, 732
+  size: 191, 179
+  orig: 191, 179
+  offset: 0, 0
+  index: -1
+RChestArmorLight
+  rotate: true
+  xy: 1365, 1365
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+RForeArm
+  rotate: true
+  xy: 1098, 1548
+  size: 498, 287
+  orig: 498, 287
+  offset: 0, 0
+  index: -1
+RForeArmArmor
+  rotate: true
+  xy: 1618, 1659
+  size: 387, 229
+  orig: 387, 229
+  offset: 0, 0
+  index: -1
+RForeArmDownArmor
+  rotate: true
+  xy: 1324, 164
+  size: 311, 90
+  orig: 311, 90
+  offset: 0, 0
+  index: -1
+RForeArmItem
+  rotate: true
+  xy: 1231, 949
+  size: 414, 139
+  orig: 414, 139
+  offset: 0, 0
+  index: -1
+RForeArmItemArmor
+  rotate: true
+  xy: 822, 4
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+RForeArmItemArmorILight
+  rotate: true
+  xy: 895, 801
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+RForeArmItemLight
+  rotate: false
+  xy: 1387, 1552
+  size: 247, 105
+  orig: 247, 105
+  offset: 0, 0
+  index: -1
+RForeArmLight
+  rotate: true
+  xy: 840, 1546
+  size: 500, 256
+  orig: 500, 256
+  offset: 0, 0
+  index: -1
+RForeArmUpArmor
+  rotate: false
+  xy: 846, 1358
+  size: 262, 186
+  orig: 262, 186
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 1791, 290
+  size: 253, 190
+  orig: 253, 190
+  offset: 0, 0
+  index: -1
+RHandLight
+  rotate: true
+  xy: 1353, 11
+  size: 151, 201
+  orig: 151, 201
+  offset: 0, 0
+  index: -1
+RLauncherArmor
+  rotate: true
+  xy: 111, 2
+  size: 115, 107
+  orig: 115, 107
+  offset: 0, 0
+  index: -1
+RLauncherArmorILight
+  rotate: false
+  xy: 1040, 802
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+RLauncherArmorShootLight
+  rotate: true
+  xy: 315, 6
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+RLauncherShootLight
+  rotate: true
+  xy: 1046, 701
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+RightLauncher
+  rotate: true
+  xy: 1169, 8
+  size: 153, 182
+  orig: 153, 182
+  offset: 0, 0
+  index: -1
+RightLauncherILight
+  rotate: true
+  xy: 1416, 246
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+RightLauncherLight
+  rotate: true
+  xy: 1416, 399
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+
+GiantRobot2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LChestArmor
+  rotate: false
+  xy: 2, 314
+  size: 190, 177
+  orig: 190, 177
+  offset: 0, 0
+  index: -1
+LUpperArmor
+  rotate: false
+  xy: 2, 171
+  size: 146, 141
+  orig: 146, 141
+  offset: 0, 0
+  index: -1
+LUpperArmorCore
+  rotate: false
+  xy: 150, 24
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+LUpperArmorLight
+  rotate: false
+  xy: 194, 350
+  size: 146, 141
+  orig: 146, 141
+  offset: 0, 0
+  index: -1
+LeftRoll
+  rotate: false
+  xy: 150, 167
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+RRoll
+  rotate: false
+  xy: 293, 60
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+RRollLight
+  rotate: false
+  xy: 420, 276
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+RUpperArmor
+  rotate: false
+  xy: 2, 28
+  size: 146, 141
+  orig: 146, 141
+  offset: 0, 0
+  index: -1
+RUpperArmorCore
+  rotate: false
+  xy: 277, 207
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+RUpperArmorLight
+  rotate: false
+  xy: 342, 350
+  size: 146, 141
+  orig: 146, 141
+  offset: 0, 0
+  index: -1

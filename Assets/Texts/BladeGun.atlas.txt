@@ -1,0 +1,223 @@
+
+BladeGun.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AimEffect
+  rotate: false
+  xy: 2, 334
+  size: 707, 670
+  orig: 707, 670
+  offset: 0, 0
+  index: -1
+BladeNor1
+  rotate: false
+  xy: 773, 169
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+BladeNor2
+  rotate: false
+  xy: 1599, 859
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+BladeNor3
+  rotate: false
+  xy: 1745, 859
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+BladeNor4
+  rotate: false
+  xy: 982, 844
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+BladeNor5
+  rotate: false
+  xy: 1144, 847
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+BladeRoll1
+  rotate: false
+  xy: 2, 78
+  size: 269, 254
+  orig: 269, 254
+  offset: 0, 0
+  index: -1
+BladeRoll2
+  rotate: false
+  xy: 711, 420
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+BladeRoll3
+  rotate: false
+  xy: 1303, 858
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+BladeRoll4
+  rotate: false
+  xy: 467, 172
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+BladeRoll5
+  rotate: false
+  xy: 711, 750
+  size: 269, 254
+  orig: 269, 254
+  offset: 0, 0
+  index: -1
+Buttom
+  rotate: false
+  xy: 1452, 859
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+Center
+  rotate: false
+  xy: 2, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 982, 794
+  size: 129, 48
+  orig: 129, 48
+  offset: 0, 0
+  index: -1
+GunLight
+  rotate: false
+  xy: 629, 311
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+RollEffect
+  rotate: false
+  xy: 273, 145
+  size: 192, 187
+  orig: 192, 187
+  offset: 0, 0
+  index: -1
+Turn/Buttom
+  rotate: true
+  xy: 996, 537
+  size: 112, 138
+  orig: 112, 138
+  offset: 0, 0
+  index: -1
+Turn/GunL
+  rotate: false
+  xy: 78, 10
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Turn/GunR
+  rotate: false
+  xy: 146, 12
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Turn/Nor1
+  rotate: true
+  xy: 987, 439
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+Turn/Nor2
+  rotate: true
+  xy: 467, 57
+  size: 113, 139
+  orig: 113, 139
+  offset: 0, 0
+  index: -1
+Turn/Nor3
+  rotate: true
+  xy: 1891, 758
+  size: 114, 138
+  orig: 114, 138
+  offset: 0, 0
+  index: -1
+Turn/Nor4
+  rotate: true
+  xy: 711, 297
+  size: 121, 151
+  orig: 121, 151
+  offset: 0, 0
+  index: -1
+Turn/Nor5
+  rotate: true
+  xy: 273, 21
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+Turn/Roll1
+  rotate: true
+  xy: 864, 482
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+Turn/Roll2
+  rotate: true
+  xy: 629, 174
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+Turn/Roll3
+  rotate: false
+  xy: 996, 651
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+Turn/Roll4
+  rotate: true
+  xy: 1891, 874
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+Turn/Roll5
+  rotate: false
+  xy: 864, 596
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+Turn/RollEffect
+  rotate: false
+  xy: 711, 569
+  size: 151, 179
+  orig: 151, 179
+  offset: 0, 0
+  index: -1
+Turn/Roller
+  rotate: true
+  xy: 861, 423
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1

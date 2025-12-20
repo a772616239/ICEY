@@ -1,0 +1,95 @@
+
+StickerAtk2Effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/StickerHammerHitGroundEffect4
+  rotate: false
+  xy: 2, 541
+  size: 1460, 1469
+  orig: 1460, 1469
+  offset: 0, 0
+  index: -1
+Effect/UpLight1
+  rotate: true
+  xy: 1464, 477
+  size: 659, 221
+  orig: 659, 221
+  offset: 0, 0
+  index: -1
+Effect/UpLight2
+  rotate: true
+  xy: 1464, 1138
+  size: 872, 205
+  orig: 872, 205
+  offset: 0, 0
+  index: -1
+Effect/UpLight3
+  rotate: false
+  xy: 2, 54
+  size: 835, 222
+  orig: 835, 222
+  offset: 0, 0
+  index: -1
+Effect/UpLight4
+  rotate: true
+  xy: 2, 2
+  size: 50, 299
+  orig: 50, 299
+  offset: 0, 0
+  index: -1
+Effect/UpLight5
+  rotate: true
+  xy: 1671, 1351
+  size: 659, 264
+  orig: 659, 264
+  offset: 0, 0
+  index: -1
+Effect/UpLight6
+  rotate: false
+  xy: 2, 278
+  size: 914, 261
+  orig: 914, 261
+  offset: 0, 0
+  index: -1
+
+StickerAtk2Effect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/StickerHammerHitGroundEffect1
+  rotate: true
+  xy: 910, 941
+  size: 908, 921
+  orig: 908, 921
+  offset: 0, 0
+  index: -1
+Effect/StickerHammerHitGroundEffect2
+  rotate: true
+  xy: 2, 955
+  size: 894, 906
+  orig: 894, 906
+  offset: 0, 0
+  index: -1
+Effect/StickerHammerHitGroundEffect3
+  rotate: false
+  xy: 2, 2
+  size: 937, 937
+  orig: 937, 937
+  offset: 0, 0
+  index: -1
+
+StickerAtk2Effect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/StickerHammerHitGroundEffect5
+  rotate: false
+  xy: 2, 2
+  size: 1460, 1469
+  orig: 1460, 1469
+  offset: 0, 0
+  index: -1

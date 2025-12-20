@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":false,"DelayTime":8.0,"enemyQueueArea":{"xMin":0.0,"xMax":1.0,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[]}

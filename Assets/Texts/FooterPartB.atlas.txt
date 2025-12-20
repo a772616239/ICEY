@@ -1,0 +1,41 @@
+
+FooterPartB.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LArmor
+  rotate: false
+  xy: 104, 299
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+LFootForeToe
+  rotate: true
+  xy: 2, 70
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+LFootToe
+  rotate: true
+  xy: 2, 2
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 2, 178
+  size: 100, 259
+  orig: 100, 259
+  offset: 0, 0
+  index: -1
+LThigh
+  rotate: false
+  xy: 104, 366
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1

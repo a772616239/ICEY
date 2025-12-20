@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: e02e7a4fdbb8469ea7e9e8cda0b69b51
+timeCreated: 1621819902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300004: forestRoad__0001_middle_pier_l1
+    21300006: forestRoad__0005_nfar
+    21300000: forestRoad__0004_middle_guitree1
+    21300008: forestRoad__0010_mfar
+    21300002: forestRoad__0000_near_tree
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestRoad__0001_middle_pier_l1
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1523
+        width: 475
+        height: 386
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -237.5, y: 193}
+        - {x: 237.5, y: 193}
+        - {x: -237.5, y: -193}
+      - - {x: -237.5, y: -193}
+        - {x: 237.5, y: 193}
+        - {x: 237.5, y: -193}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad__0005_nfar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1523
+        width: 1208
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: 104.5}
+        - {x: 604, y: 104.5}
+        - {x: -604, y: -104.5}
+      - - {x: -604, y: -104.5}
+        - {x: 604, y: 104.5}
+        - {x: 604, y: -104.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad__0004_middle_guitree1
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 797
+        height: 1521
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -398.5, y: 760.5}
+        - {x: 398.5, y: 760.5}
+        - {x: -398.5, y: -760.5}
+      - - {x: -398.5, y: -760.5}
+        - {x: 398.5, y: 760.5}
+        - {x: 398.5, y: -760.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad__0010_mfar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 1208
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: 104.5}
+        - {x: 604, y: 104.5}
+        - {x: -604, y: -104.5}
+      - - {x: -604, y: -104.5}
+        - {x: 604, y: 104.5}
+        - {x: 604, y: -104.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad__0000_near_tree
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 912
+        height: 1342
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -456, y: 671}
+        - {x: 456, y: 671}
+        - {x: -456, y: -671}
+      - - {x: -456, y: -671}
+        - {x: 456, y: 671}
+        - {x: 456, y: -671}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

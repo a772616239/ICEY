@@ -1,0 +1,55 @@
+
+DaoEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Atk1/1
+  rotate: false
+  xy: 478, 1701
+  size: 321, 263
+  orig: 321, 263
+  offset: 0, 0
+  index: -1
+Effect/Atk1/2
+  rotate: false
+  xy: 478, 1436
+  size: 321, 263
+  orig: 321, 263
+  offset: 0, 0
+  index: -1
+Effect/Atk1/3
+  rotate: false
+  xy: 801, 1701
+  size: 321, 263
+  orig: 321, 263
+  offset: 0, 0
+  index: -1
+Effect/Atk5/1
+  rotate: false
+  xy: 2, 1090
+  size: 236, 874
+  orig: 236, 874
+  offset: 0, 0
+  index: -1
+Effect/Atk5/2
+  rotate: false
+  xy: 2, 214
+  size: 236, 874
+  orig: 236, 874
+  offset: 0, 0
+  index: -1
+Effect/Atk5/3
+  rotate: false
+  xy: 240, 1090
+  size: 236, 874
+  orig: 236, 874
+  offset: 0, 0
+  index: -1
+Effect/Roll
+  rotate: false
+  xy: 2, 2
+  size: 189, 210
+  orig: 189, 210
+  offset: 0, 0
+  index: -1

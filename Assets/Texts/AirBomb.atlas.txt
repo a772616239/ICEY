@@ -1,0 +1,76 @@
+
+AirBomb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ButtomArmor
+  rotate: false
+  xy: 283, 449
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+CircleInner
+  rotate: false
+  xy: 2, 80
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+CircleOuter
+  rotate: false
+  xy: 2, 291
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+CoreArmor
+  rotate: false
+  xy: 221, 373
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+CoreLight
+  rotate: false
+  xy: 283, 463
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 221, 405
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+MainBody
+  rotate: false
+  xy: 221, 448
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+OuterLight
+  rotate: false
+  xy: 2, 42
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+TopArmor
+  rotate: false
+  xy: 64, 65
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1

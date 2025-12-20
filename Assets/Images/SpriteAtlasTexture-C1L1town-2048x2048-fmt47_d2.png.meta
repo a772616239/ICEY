@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: cd8653cdc14f4338b0ee0c30db6e1711
+timeCreated: 1621819793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300002: town__0000_middle_bunker
+    21300006: Town__0000_middle_tree1
+    21300008: town__0011_middle_light
+    21300004: town__0002_middle_box1
+    21300012: town__0014_middle_car
+    21300000: Town__0001_middle_tree2
+    21300014: town__0001_middle_board
+    21300010: town__0012_middle_light2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: town__0000_middle_bunker
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1245
+        width: 517
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -258.5, y: 110.5}
+        - {x: 258.5, y: 110.5}
+        - {x: -258.5, y: -110.5}
+      - - {x: -258.5, y: -110.5}
+        - {x: 258.5, y: 110.5}
+        - {x: 258.5, y: -110.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Town__0000_middle_tree1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 796
+        height: 956
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -398, y: 478}
+        - {x: 398, y: 478}
+        - {x: -398, y: -478}
+      - - {x: -398, y: -478}
+        - {x: 398, y: 478}
+        - {x: 398, y: -478}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: town__0011_middle_light
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 336
+        height: 885
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168, y: 442.5}
+        - {x: 168, y: 442.5}
+        - {x: -168, y: -442.5}
+      - - {x: -168, y: -442.5}
+        - {x: 168, y: 442.5}
+        - {x: 168, y: -442.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: town__0002_middle_box1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 217
+        width: 257
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 81.5}
+        - {x: 128.5, y: 81.5}
+        - {x: -128.5, y: -81.5}
+      - - {x: -128.5, y: -81.5}
+        - {x: 128.5, y: 81.5}
+        - {x: 128.5, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: town__0014_middle_car
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 887
+        width: 786
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -393, y: 178}
+        - {x: 393, y: 178}
+        - {x: -393, y: -178}
+      - - {x: -393, y: -178}
+        - {x: 393, y: 178}
+        - {x: 393, y: -178}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Town__0001_middle_tree2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 747
+        height: 1057
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -373.5, y: 528.5}
+        - {x: 373.5, y: 528.5}
+        - {x: -373.5, y: -528.5}
+      - - {x: -373.5, y: -528.5}
+        - {x: 373.5, y: 528.5}
+        - {x: 373.5, y: -528.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: town__0001_middle_board
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 571
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -285.5, y: 107.5}
+        - {x: 285.5, y: 107.5}
+        - {x: -285.5, y: -107.5}
+      - - {x: -285.5, y: -107.5}
+        - {x: 285.5, y: 107.5}
+        - {x: 285.5, y: -107.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: town__0012_middle_light2
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 16
+        height: 780
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 390}
+        - {x: 8, y: 390}
+        - {x: -8, y: -390}
+      - - {x: -8, y: -390}
+        - {x: 8, y: 390}
+        - {x: 8, y: -390}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

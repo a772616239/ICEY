@@ -1,0 +1,62 @@
+
+ScreenGame.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Handle1
+  rotate: false
+  xy: 2, 247
+  size: 32, 93
+  orig: 32, 93
+  offset: 0, 0
+  index: -1
+Handle2
+  rotate: false
+  xy: 891, 890
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+Item1
+  rotate: false
+  xy: 381, 583
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Item2
+  rotate: false
+  xy: 2, 342
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+Item3
+  rotate: false
+  xy: 550, 686
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+Window
+  rotate: false
+  xy: 2, 677
+  size: 546, 287
+  orig: 546, 287
+  offset: 0, 0
+  index: -1
+WindowBG
+  rotate: false
+  xy: 2, 449
+  size: 377, 226
+  orig: 377, 226
+  offset: 0, 0
+  index: -1
+WindowBGShade
+  rotate: false
+  xy: 550, 764
+  size: 339, 200
+  orig: 339, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+BombKillerIIPartA.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bodylower1
+  rotate: false
+  xy: 74, 156
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Bodylower2
+  rotate: false
+  xy: 166, 210
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Bodyupper
+  rotate: false
+  xy: 2, 141
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: false
+  xy: 2, 66
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: false
+  xy: 74, 203
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 122, 157
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1

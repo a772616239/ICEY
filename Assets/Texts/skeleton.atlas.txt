@@ -1,0 +1,293 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Calf
+  rotate: true
+  xy: 1520, 215
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+FootSide
+  rotate: false
+  xy: 425, 15
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+FootSideLong
+  rotate: false
+  xy: 1544, 215
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+armLeft
+  rotate: false
+  xy: 1077, 74
+  size: 21, 83
+  orig: 21, 83
+  offset: 0, 0
+  index: -1
+atk1Fire_0
+  rotate: true
+  xy: 2, 21
+  size: 233, 256
+  orig: 233, 256
+  offset: 0, 0
+  index: -1
+atk1Fire_1
+  rotate: true
+  xy: 260, 28
+  size: 226, 256
+  orig: 226, 256
+  offset: 0, 0
+  index: -1
+atk1Fire_2
+  rotate: true
+  xy: 518, 19
+  size: 235, 256
+  orig: 235, 256
+  offset: 0, 0
+  index: -1
+atk1Fire_3
+  rotate: true
+  xy: 776, 15
+  size: 239, 256
+  orig: 239, 256
+  offset: 0, 0
+  index: -1
+boduBack
+  rotate: false
+  xy: 1215, 174
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+bodyFrontAtk2
+  rotate: false
+  xy: 1353, 180
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+bodyFrontSide
+  rotate: false
+  xy: 1034, 69
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+bodySide
+  rotate: false
+  xy: 1256, 174
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+dai
+  rotate: true
+  xy: 1108, 80
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+dang
+  rotate: false
+  xy: 313, 4
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+disk
+  rotate: false
+  xy: 403, 4
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+flip
+  rotate: false
+  xy: 1034, 159
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 2, 9
+  size: 10, 105
+  orig: 10, 105
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 109, 13
+  size: 6, 79
+  orig: 6, 79
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1100, 78
+  size: 6, 79
+  orig: 6, 79
+  offset: 0, 0
+  index: -1
+headFrontSide
+  rotate: true
+  xy: 1833, 234
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+headSide
+  rotate: true
+  xy: 345, 5
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+headUpRightAtk2
+  rotate: false
+  xy: 1860, 234
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: true
+  xy: 260, 2
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+leftArmAtk2
+  rotate: false
+  xy: 1329, 177
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+leftCalfSide
+  rotate: true
+  xy: 1769, 231
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+leftLegFrontSide
+  rotate: true
+  xy: 1577, 228
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+leftLegSide
+  rotate: true
+  xy: 1400, 181
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+rightArmAtk2
+  rotate: false
+  xy: 1400, 210
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+rightArmBack
+  rotate: false
+  xy: 1311, 176
+  size: 16, 78
+  orig: 16, 78
+  offset: 0, 0
+  index: -1
+rightArmSide
+  rotate: false
+  xy: 375, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+rightCalfAtk1
+  rotate: true
+  xy: 1731, 228
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+rightCalfSide
+  rotate: true
+  xy: 1801, 231
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+rightHand
+  rotate: true
+  xy: 109, 2
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+rightLegCalfFrontSide
+  rotate: true
+  xy: 1462, 213
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+rightLegFly
+  rotate: true
+  xy: 1520, 227
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+rightLegLand
+  rotate: true
+  xy: 1631, 220
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+rightLegSide
+  rotate: false
+  xy: 1034, 12
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+rightUpArmSide
+  rotate: true
+  xy: 1682, 229
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+rightfootFrontSide
+  rotate: false
+  xy: 1883, 244
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shoulderFrontSide
+  rotate: false
+  xy: 1134, 168
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+shoulderSide
+  rotate: false
+  xy: 1177, 173
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":0.5,"enemyQueueArea":{"xMin":0.0,"xMax":1.0,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[{"name":"GiantRobot","position":{"x":16.9599990844727,"y":0.740000009536743},"guid":"0-0"}]}

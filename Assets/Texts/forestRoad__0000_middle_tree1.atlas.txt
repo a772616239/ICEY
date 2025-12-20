@@ -1,0 +1,13 @@
+
+forestRoad__0000_middle_tree1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tree1/forestRoad__0000_middle_tree1
+  rotate: false
+  xy: 2, 2
+  size: 797, 941
+  orig: 797, 941
+  offset: 0, 0
+  index: -1

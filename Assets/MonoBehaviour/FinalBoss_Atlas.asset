@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dbaac2d8f4f22431324391cffb065f, type: 3}
+  m_Name: "FinalBoss_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 4ac29dc0a9ad4cd297dd7f16d70c63ee, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 1df87bc98feb4a7680844393e9f0abed, type: 2}
+  - {fileID: 2100000, guid: 2cb41503242d468ba0d885e22896c4d8, type: 2}
+  - {fileID: 2100000, guid: 671df8585ee1408d99075369e7d99153, type: 2}

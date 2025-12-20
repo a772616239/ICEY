@@ -1,0 +1,7 @@
+{
+	"Atk2Ready":{"isOpen":false},
+	"Atk2":{"isOpen":false},
+	"Atk2End":{"isOpen":false},
+	"Atk3":{"isOpen":false}
+	
+}

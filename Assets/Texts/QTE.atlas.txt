@@ -1,0 +1,27 @@
+
+QTE.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buttom
+  rotate: false
+  xy: 2, 8
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Buttom_en
+  rotate: false
+  xy: 152, 152
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Cricle
+  rotate: false
+  xy: 2, 91
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1

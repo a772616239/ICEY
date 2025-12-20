@@ -1,0 +1,727 @@
+
+SupplyBoxEN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 118, 855
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+Buttom
+  rotate: true
+  xy: 79, 684
+  size: 149, 10
+  orig: 149, 10
+  offset: 0, 0
+  index: -1
+Cricle1
+  rotate: false
+  xy: 85, 533
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Cricle2
+  rotate: true
+  xy: 2, 532
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+Energy/FL/FLEnergyFrame
+  rotate: true
+  xy: 91, 680
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Energy/FL/FLEnergyFrame1
+  rotate: false
+  xy: 179, 678
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Energy/FL/FLEnergyFrame2
+  rotate: true
+  xy: 234, 638
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem1
+  rotate: false
+  xy: 383, 907
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem11
+  rotate: true
+  xy: 481, 883
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem12
+  rotate: false
+  xy: 999, 934
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem2
+  rotate: false
+  xy: 432, 907
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem21
+  rotate: true
+  xy: 116, 200
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem22
+  rotate: true
+  xy: 116, 245
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem3
+  rotate: false
+  xy: 383, 882
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem31
+  rotate: false
+  xy: 844, 931
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem32
+  rotate: true
+  xy: 72, 32
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem4
+  rotate: false
+  xy: 432, 882
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem41
+  rotate: true
+  xy: 91, 146
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Energy/FL/FlEItem42
+  rotate: false
+  xy: 88, 293
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Energy/FL/Flenergy
+  rotate: true
+  xy: 72, 67
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Energy/FL/Flenergy1
+  rotate: true
+  xy: 389, 628
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+Energy/FL/Flenergy2
+  rotate: false
+  xy: 516, 935
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+Energy/Normal/EItem1
+  rotate: false
+  xy: 383, 857
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/Normal/EItem2
+  rotate: false
+  xy: 432, 857
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/Normal/EItem3
+  rotate: true
+  xy: 91, 244
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/Normal/EItem4
+  rotate: true
+  xy: 91, 195
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Energy/Normal/EnergyFrame
+  rotate: false
+  xy: 294, 693
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+Energy/Normal/energy
+  rotate: false
+  xy: 79, 658
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem1
+  rotate: false
+  xy: 321, 847
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem11
+  rotate: true
+  xy: 893, 923
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem12
+  rotate: false
+  xy: 465, 826
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem2
+  rotate: true
+  xy: 352, 847
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem21
+  rotate: false
+  xy: 442, 795
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem22
+  rotate: true
+  xy: 506, 896
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem3
+  rotate: false
+  xy: 385, 826
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem31
+  rotate: false
+  xy: 409, 626
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem32
+  rotate: false
+  xy: 506, 884
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem4
+  rotate: true
+  xy: 91, 359
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem41
+  rotate: false
+  xy: 929, 923
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPItem42
+  rotate: false
+  xy: 454, 769
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+HP/FL/FLHPMAX
+  rotate: true
+  xy: 91, 402
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+HP/FL/FLHpMax1
+  rotate: false
+  xy: 327, 934
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+HP/FL/FLHpMax2
+  rotate: false
+  xy: 402, 781
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+HP/Normal/HPItem1
+  rotate: true
+  xy: 425, 826
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+HP/Normal/HPItem2
+  rotate: false
+  xy: 402, 795
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HP/Normal/HPItem3
+  rotate: true
+  xy: 409, 741
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HP/Normal/HPItem4
+  rotate: false
+  xy: 88, 313
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+HP/Normal/HPMAX
+  rotate: true
+  xy: 113, 402
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+Key/CIPHERCODE
+  rotate: true
+  xy: 72, 452
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+Key/FLCIPHERCODE
+  rotate: true
+  xy: 72, 373
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+Key/FLCIPHERCODE1
+  rotate: false
+  xy: 631, 937
+  size: 55, 15
+  orig: 55, 15
+  offset: 0, 0
+  index: -1
+Key/FLCIPHERCODE2
+  rotate: true
+  xy: 72, 293
+  size: 78, 14
+  orig: 78, 14
+  offset: 0, 0
+  index: -1
+Key/Frame/1
+  rotate: true
+  xy: 327, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/10
+  rotate: false
+  xy: 2, 32
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/11
+  rotate: true
+  xy: 827, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/12
+  rotate: false
+  xy: 251, 847
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/13
+  rotate: false
+  xy: 91, 735
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/2
+  rotate: false
+  xy: 2, 432
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/3
+  rotate: true
+  xy: 427, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/4
+  rotate: false
+  xy: 2, 332
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/5
+  rotate: true
+  xy: 527, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/6
+  rotate: false
+  xy: 2, 232
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/7
+  rotate: true
+  xy: 627, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/8
+  rotate: false
+  xy: 2, 132
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Key/Frame/9
+  rotate: true
+  xy: 727, 954
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+Left
+  rotate: false
+  xy: 321, 887
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+LeftInner
+  rotate: false
+  xy: 2, 626
+  size: 75, 207
+  orig: 75, 207
+  offset: 0, 0
+  index: -1
+LeftLight
+  rotate: true
+  xy: 443, 781
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMONEY
+  rotate: false
+  xy: 390, 932
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMONEY1
+  rotate: false
+  xy: 794, 936
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMONEY2
+  rotate: false
+  xy: 688, 934
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMoneyIcon
+  rotate: false
+  xy: 234, 693
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMoneyIcon1
+  rotate: true
+  xy: 319, 634
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+Money/Fl/FLMoneyIcon2
+  rotate: false
+  xy: 85, 589
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+Money/Normal/MONEY
+  rotate: false
+  xy: 453, 932
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+Money/Normal/MoneyIcon
+  rotate: false
+  xy: 349, 693
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+QMark
+  rotate: true
+  xy: 961, 929
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Right
+  rotate: false
+  xy: 352, 887
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+RightInner
+  rotate: true
+  xy: 118, 947
+  size: 75, 207
+  orig: 75, 207
+  offset: 0, 0
+  index: -1
+RightLight
+  rotate: false
+  xy: 440, 747
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+ScreenBG
+  rotate: false
+  xy: 2, 835
+  size: 114, 187
+  orig: 114, 187
+  offset: 0, 0
+  index: -1
+UNKNOW
+  rotate: true
+  xy: 135, 403
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW1
+  rotate: true
+  xy: 927, 958
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW11
+  rotate: true
+  xy: 227, 781
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW12
+  rotate: true
+  xy: 310, 781
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW2
+  rotate: true
+  xy: 409, 698
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW21
+  rotate: true
+  xy: 161, 737
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW22
+  rotate: false
+  xy: 482, 827
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW3
+  rotate: true
+  xy: 385, 781
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW31
+  rotate: false
+  xy: 118, 839
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW32
+  rotate: false
+  xy: 151, 668
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW4
+  rotate: false
+  xy: 2, 2
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW41
+  rotate: false
+  xy: 465, 839
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLW42
+  rotate: true
+  xy: 481, 857
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLWPOWER
+  rotate: true
+  xy: 72, 216
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLWPOWER1
+  rotate: false
+  xy: 575, 935
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+WPower/Fl/FLWPOWER2
+  rotate: false
+  xy: 741, 936
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+WPower/Normal/W1
+  rotate: false
+  xy: 161, 766
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+WPower/Normal/W2
+  rotate: true
+  xy: 409, 655
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+WPower/Normal/W3
+  rotate: true
+  xy: 137, 358
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+WPower/Normal/W4
+  rotate: false
+  xy: 49, 2
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+WPower/Normal/WPOWER
+  rotate: true
+  xy: 72, 139
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 91, 473
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":8.0,"enemyQueueArea":{"xMin":18.7000007629395,"xMax":31.3125,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_DahalF","position":{"x":24.1200008392334,"y":0.119999997317791},"guid":"8-0"},{"name":"Enemy_Jack","position":{"x":15.1900005340576,"y":0.280000001192093},"guid":"8-1"}]}

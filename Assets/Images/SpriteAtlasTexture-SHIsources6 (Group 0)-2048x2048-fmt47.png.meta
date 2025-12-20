@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: a140bfe2f6ba4333a80c253177b43179
+timeCreated: 1621819728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300008: window 1
+    21300002: window
+    21300012: moutain
+    21300006: gear2
+    21300000: back3
+    21300010: enter
+    21300004: cloud
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: window 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 504
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -252, y: 220}
+        - {x: 252, y: 220}
+        - {x: -252, y: -220}
+      - - {x: -252, y: -220}
+        - {x: 252, y: 220}
+        - {x: 252, y: -220}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: window
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 981
+        width: 504
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -252, y: 220}
+        - {x: 252, y: 220}
+        - {x: -252, y: -220}
+      - - {x: -252, y: -220}
+        - {x: 252, y: 220}
+        - {x: 252, y: -220}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: moutain
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960, y: 275.5}
+        - {x: 960, y: 275.5}
+        - {x: -960, y: -275.5}
+      - - {x: -960, y: -275.5}
+        - {x: 960, y: 275.5}
+        - {x: 960, y: -275.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gear2
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1423
+        width: 446
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223, y: 215}
+        - {x: 223, y: 215}
+        - {x: -223, y: -215}
+      - - {x: -223, y: -215}
+        - {x: 223, y: 215}
+        - {x: 223, y: -215}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: back3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 1505
+        height: 508
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -752.5, y: 254}
+        - {x: 752.5, y: 254}
+        - {x: -752.5, y: -254}
+      - - {x: -752.5, y: -254}
+        - {x: 752.5, y: 254}
+        - {x: 752.5, y: -254}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enter
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1491
+        width: 411
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205.5, y: 216}
+        - {x: 205.5, y: 216}
+        - {x: -205.5, y: -216}
+      - - {x: -205.5, y: -216}
+        - {x: 205.5, y: 216}
+        - {x: 205.5, y: -216}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cloud
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 1921
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -960.5, y: 213}
+        - {x: 960.5, y: 213}
+        - {x: -960.5, y: -213}
+      - - {x: -960.5, y: -213}
+        - {x: 960.5, y: 213}
+        - {x: 960.5, y: -213}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

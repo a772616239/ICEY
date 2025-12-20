@@ -1,0 +1,27 @@
+
+C3L1S14Fan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fan
+  rotate: false
+  xy: 368, 394
+  size: 315, 309
+  orig: 315, 309
+  offset: 0, 0
+  index: -1
+FanBG
+  rotate: false
+  xy: 2, 341
+  size: 364, 362
+  orig: 364, 362
+  offset: 0, 0
+  index: -1
+FanLight
+  rotate: false
+  xy: 2, 2
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1

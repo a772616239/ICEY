@@ -1,0 +1,125 @@
+
+Charging.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0Left
+  rotate: false
+  xy: 788, 702
+  size: 89, 122
+  orig: 89, 122
+  offset: 0, 0
+  index: -1
+0Right
+  rotate: true
+  xy: 879, 678
+  size: 75, 108
+  orig: 75, 108
+  offset: 0, 0
+  index: -1
+1Left
+  rotate: false
+  xy: 443, 390
+  size: 89, 169
+  orig: 89, 169
+  offset: 0, 0
+  index: -1
+1Right
+  rotate: false
+  xy: 2, 182
+  size: 208, 256
+  orig: 208, 256
+  offset: 0, 0
+  index: -1
+BodyLightLeve2
+  rotate: true
+  xy: 535, 677
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+BodyLightLeve31
+  rotate: false
+  xy: 634, 826
+  size: 232, 167
+  orig: 232, 167
+  offset: 0, 0
+  index: -1
+BodyLightLevel32
+  rotate: false
+  xy: 2, 4
+  size: 185, 176
+  orig: 185, 176
+  offset: 0, 0
+  index: -1
+BodyLightLevel33
+  rotate: false
+  xy: 270, 404
+  size: 171, 155
+  orig: 171, 155
+  offset: 0, 0
+  index: -1
+Circle1
+  rotate: false
+  xy: 2, 440
+  size: 266, 265
+  orig: 266, 265
+  offset: 0, 0
+  index: -1
+Circle2
+  rotate: false
+  xy: 2, 707
+  size: 287, 286
+  orig: 287, 286
+  offset: 0, 0
+  index: -1
+Flash
+  rotate: false
+  xy: 291, 700
+  size: 242, 134
+  orig: 242, 134
+  offset: 0, 0
+  index: -1
+FullLeft
+  rotate: true
+  xy: 868, 832
+  size: 161, 125
+  orig: 161, 125
+  offset: 0, 0
+  index: -1
+FullRight
+  rotate: false
+  xy: 627, 702
+  size: 159, 122
+  orig: 159, 122
+  offset: 0, 0
+  index: -1
+HandLight
+  rotate: false
+  xy: 493, 605
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 291, 836
+  size: 341, 157
+  orig: 341, 157
+  offset: 0, 0
+  index: -1
+SwordLight
+  rotate: false
+  xy: 270, 561
+  size: 221, 137
+  orig: 221, 137
+  offset: 0, 0
+  index: -1
+SwordLight2
+  rotate: false
+  xy: 879, 755
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1

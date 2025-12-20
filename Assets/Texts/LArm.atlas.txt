@@ -1,0 +1,27 @@
+
+LArm.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LUpArm
+  rotate: false
+  xy: 177, 360
+  size: 236, 324
+  orig: 236, 324
+  offset: 0, 0
+  index: -1
+LUpForeArm
+  rotate: false
+  xy: 2, 76
+  size: 173, 608
+  orig: 173, 608
+  offset: 0, 0
+  index: -1
+LUpForeArmArmor
+  rotate: false
+  xy: 2, 2
+  size: 124, 72
+  orig: 124, 72
+  offset: 0, 0
+  index: -1

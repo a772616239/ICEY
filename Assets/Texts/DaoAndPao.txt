@@ -1,0 +1,9 @@
+{
+  "AirDiePre":"Fall",
+  "AirDie":"FallHitGround",
+  "PaoAtk1ToIdle": "Idle",
+  "HitFall": "Fall",
+  "DaoAtk6_1": "DaoAtk1",
+  "DaoAtk6_2Ready": "DaoAtk2Ready",
+  "DaoAtk6_2": "DaoAtk2"
+}

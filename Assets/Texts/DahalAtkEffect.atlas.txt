@@ -1,0 +1,118 @@
+
+DahalAtkEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 566, 814
+  size: 562, 602
+  orig: 562, 602
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 2
+  size: 206, 497
+  orig: 206, 497
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1675, 1523
+  size: 206, 497
+  orig: 206, 497
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 1418
+  size: 562, 602
+  orig: 562, 602
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 814
+  size: 562, 602
+  orig: 562, 602
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 566, 1418
+  size: 562, 602
+  orig: 562, 602
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 210
+  size: 562, 602
+  orig: 562, 602
+  offset: 0, 0
+  index: -1
+CI/1
+  rotate: false
+  xy: 1130, 1669
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/2
+  rotate: false
+  xy: 1130, 1669
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/3
+  rotate: false
+  xy: 566, 461
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/4
+  rotate: false
+  xy: 566, 461
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/5
+  rotate: false
+  xy: 1130, 1316
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/6
+  rotate: false
+  xy: 1130, 1316
+  size: 543, 351
+  orig: 543, 351
+  offset: 0, 0
+  index: -1
+CI/Cricle1
+  rotate: true
+  xy: 566, 272
+  size: 187, 261
+  orig: 187, 261
+  offset: 0, 0
+  index: -1
+CI/Cricle2
+  rotate: false
+  xy: 1130, 1078
+  size: 160, 236
+  orig: 160, 236
+  offset: 0, 0
+  index: -1
+CI/Cricle3
+  rotate: false
+  xy: 1675, 1342
+  size: 131, 179
+  orig: 131, 179
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+{
+    "Atk5_1":"Atk4",
+    "Atk5_2":"Atk2",
+	"AirDiePre":"FlyToFall",
+    "DieFall":"Fall",
+  "AirDie": "HitGround",
+  "HitFall": "Fall"
+}

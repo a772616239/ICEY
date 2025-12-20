@@ -1,0 +1,48 @@
+
+JumperAtkEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atk1/1Red
+  rotate: false
+  xy: 2, 543
+  size: 240, 122
+  orig: 240, 122
+  offset: 0, 0
+  index: -1
+Atk1/2Red
+  rotate: false
+  xy: 246, 667
+  size: 240, 122
+  orig: 240, 122
+  offset: 0, 0
+  index: -1
+Atk1/3Red
+  rotate: false
+  xy: 2, 667
+  size: 242, 122
+  orig: 242, 122
+  offset: 0, 0
+  index: -1
+Atk1/Circle
+  rotate: false
+  xy: 2, 431
+  size: 24, 110
+  orig: 24, 110
+  offset: 0, 0
+  index: -1
+Atk1/Flash1
+  rotate: false
+  xy: 2, 892
+  size: 1013, 123
+  orig: 1013, 123
+  offset: 0, 0
+  index: -1
+Atk1/Flash2
+  rotate: false
+  xy: 2, 791
+  size: 1013, 99
+  orig: 1013, 99
+  offset: 0, 0
+  index: -1

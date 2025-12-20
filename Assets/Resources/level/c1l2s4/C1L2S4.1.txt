@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":true,"Limited":true,"DelayTime":0.5,"enemyQueueArea":{"xMin":10.8199996948242,"xMax":11.8199996948242,"yMin":4.6399998664856,"yMax":5.6399998664856},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_Footer","position":{"x":30.8600006103516,"y":4.32999992370605},"guid":"1-0"}]}

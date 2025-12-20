@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyHurtBox
+  - FXCamera
+  - Drag and Drop Root
+  - UI Root
+  - Windy
+  - Temp
+  - EnemyBullet
+  - World
+  - Core
+  - BattleZone
+  - Ceiling
+  - Ground
+  - BattleZoneTrigger
+  - Attackable
+  - launcherFire
+  - Gear
+  - Wall
+  - Land
+  - Lantern
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - PlayerBody
+  - EnemyBody
+  - Player
+  - FXCamera
+  - OnlyHitGround
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - OnlyCollidedPlayer
+  - OneWayPlatforms
+  - SoftCollidedImpact
+  - PhysicCheckLine
+  - Ceiling
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "FXParticle"
+    uniqueID: 240695697
+    locked: 0
+  - name: "Near"
+    uniqueID: 3467933595
+    locked: 0
+  - name: "CameraFX"
+    uniqueID: 1923000577
+    locked: 0

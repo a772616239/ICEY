@@ -1,0 +1,13 @@
+
+forestRoad__0000_nfar_tree1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tree2/forestRoad__0000_nfar_tree1
+  rotate: false
+  xy: 2, 2
+  size: 794, 1074
+  orig: 794, 1074
+  offset: 0, 0
+  index: -1

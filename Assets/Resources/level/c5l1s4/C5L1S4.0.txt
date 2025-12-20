@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":false,"DelayTime":6.0,"enemyQueueArea":{"xMin":0.0,"xMax":1.0,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[{"name":"Judges","position":{"x":13.9300003051758,"y":-9.38000011444092},"guid":"0-0"}]}

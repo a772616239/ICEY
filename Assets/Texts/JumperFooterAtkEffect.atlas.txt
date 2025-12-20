@@ -1,0 +1,48 @@
+
+JumperFooterAtkEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atk1/1Red
+  rotate: false
+  xy: 2, 769
+  size: 160, 81
+  orig: 160, 81
+  offset: 0, 0
+  index: -1
+Atk1/2Red
+  rotate: false
+  xy: 842, 921
+  size: 160, 81
+  orig: 160, 81
+  offset: 0, 0
+  index: -1
+Atk1/3Red
+  rotate: false
+  xy: 679, 921
+  size: 161, 81
+  orig: 161, 81
+  offset: 0, 0
+  index: -1
+Atk1/Circle
+  rotate: true
+  xy: 679, 903
+  size: 16, 73
+  orig: 16, 73
+  offset: 0, 0
+  index: -1
+Atk1/Flash1
+  rotate: false
+  xy: 2, 920
+  size: 675, 82
+  orig: 675, 82
+  offset: 0, 0
+  index: -1
+Atk1/Flash2
+  rotate: false
+  xy: 2, 852
+  size: 675, 66
+  orig: 675, 66
+  offset: 0, 0
+  index: -1

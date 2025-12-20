@@ -1,0 +1,188 @@
+
+Trinity.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyItem
+  rotate: true
+  xy: 42, 103
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+BodyLower
+  rotate: false
+  xy: 2, 287
+  size: 86, 217
+  orig: 86, 217
+  offset: 0, 0
+  index: -1
+BodyLowerBackLight
+  rotate: false
+  xy: 126, 344
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+BodyLowerFrontLight
+  rotate: false
+  xy: 42, 9
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+BodyLowerItemFront
+  rotate: true
+  xy: 145, 302
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+BodyUpper
+  rotate: false
+  xy: 2, 154
+  size: 61, 131
+  orig: 61, 131
+  offset: 0, 0
+  index: -1
+BodyUpperBackLight
+  rotate: false
+  xy: 176, 355
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+CricleBack
+  rotate: false
+  xy: 90, 466
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+CricleBreak1
+  rotate: false
+  xy: 126, 428
+  size: 109, 36
+  orig: 109, 36
+  offset: 0, 0
+  index: -1
+CricleBreak2
+  rotate: false
+  xy: 241, 468
+  size: 110, 36
+  orig: 110, 36
+  offset: 0, 0
+  index: -1
+CricleFront
+  rotate: true
+  xy: 2, 3
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 126, 328
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Face2
+  rotate: false
+  xy: 224, 412
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: true
+  xy: 433, 472
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: true
+  xy: 353, 468
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 181, 316
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+HeadBackLight
+  rotate: false
+  xy: 71, 58
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 90, 287
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: false
+  xy: 90, 328
+  size: 34, 136
+  orig: 34, 136
+  offset: 0, 0
+  index: -1
+RHandLight
+  rotate: false
+  xy: 142, 260
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+ScreenBack1
+  rotate: true
+  xy: 106, 171
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+ScreenBack2
+  rotate: true
+  xy: 42, 52
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+ScreenBack3
+  rotate: false
+  xy: 145, 284
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+ScreenFront1
+  rotate: true
+  xy: 65, 158
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+ScreenFront2
+  rotate: true
+  xy: 101, 226
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+ScreenFront3
+  rotate: true
+  xy: 65, 219
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1

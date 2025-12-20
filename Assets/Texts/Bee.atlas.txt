@@ -1,0 +1,62 @@
+
+Bee.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Core
+  rotate: false
+  xy: 124, 141
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 232, 226
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+WingL
+  rotate: false
+  xy: 2, 11
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+WingMovingLDown
+  rotate: false
+  xy: 80, 150
+  size: 42, 99
+  orig: 42, 99
+  offset: 0, 0
+  index: -1
+WingMovingLUp
+  rotate: false
+  xy: 2, 122
+  size: 44, 127
+  orig: 44, 127
+  offset: 0, 0
+  index: -1
+WingMovingRDown
+  rotate: true
+  xy: 124, 185
+  size: 33, 98
+  orig: 33, 98
+  offset: 0, 0
+  index: -1
+WingMovingRUP
+  rotate: false
+  xy: 48, 124
+  size: 30, 125
+  orig: 30, 125
+  offset: 0, 0
+  index: -1
+WingR
+  rotate: true
+  xy: 124, 220
+  size: 29, 106
+  orig: 29, 106
+  offset: 0, 0
+  index: -1

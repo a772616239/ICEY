@@ -1,0 +1,4 @@
+{
+  "JumpForward": "Jump",
+  "JumpBack": "Jump"
+}

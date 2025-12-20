@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":0.0,"enemyQueueArea":{"xMin":16.7000007629395,"xMax":17.7000007629395,"yMin":2.4300000667572,"yMax":3.4300000667572},"EnemyType":[]},"enemyJsonObject":[{"name":"Hammer","position":{"x":22.4799995422363,"y":1.94000005722046},"guid":"0-0"}]}

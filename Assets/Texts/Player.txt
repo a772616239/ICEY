@@ -1,0 +1,6 @@
+{
+	"DoubleFlash":{"isOpen":false},
+  "AtkHv3": { "isOpen": false },
+  "Atk14": { "isOpen": false },
+  "RollGround":{"isOpen":false}
+}

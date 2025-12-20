@@ -1,0 +1,1197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790495663562945316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790495663512613667}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -102.4109, y: -1.44375, z: 0}
+  m_LocalScale: {x: 0.003125, y: 0.003125, z: 0.003125}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790495663512613667
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790495663562945316}
+  - component: {fileID: 1790495665408439077}
+  m_Layer: 0
+  m_Name: "EffectGenerator"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790495665408439077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790495663512613667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3f48509e6cdef3f6f17fbba95991a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _fxSerializedData:
+  - id: 0
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4768f0ba191cd9142b9b25a959f9d5f5, type: 2}
+    scale: {x: 1.2, y: 1.2, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fAppear\x2fEnemyAppear"
+    functionName: "\u654C\u4EBA\u51FA\u73B0\u7279\u6548"
+  - id: 1
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 1
+    effect: {fileID: 1790495663562945317, guid: 398365680ec15b246b0541b40eab2313, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fSparkEffect\x2fSparkEffectOld"
+    functionName: "\u673A\u5668\u4EBA\u88AB\u51FB\u4E2D\u7279\u6548"
+  - id: 6
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 4
+    rotation: 2
+    effect: {fileID: 1790495663562945316, guid: 84c4da8dfa0f23241a61c7d37e1eaffc, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDust\x2fEnemyFall"
+    functionName: "\u673A\u5668\u4EBA\u5760\u5730\u5C18\u571F"
+  - id: 9
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945320, guid: 6352fef27f5cfd8448f66fd509ae48b9, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fExplosion\x2fBlueExplosion"
+    functionName: "\u84DD\u8272\u7206\u70B8"
+  - id: 14
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 11632e0497943cc49b6df4a51f4b2b75, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fSparkEffect\x2fNormalKillSparkEffect"
+    functionName: "\u654C\u4EBA\u666E\u901A\u6B7B\u4EA1\u84DD\u8272\u706B\u661F"
+  - id: 17
+    isFollow: 1
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 571c4b4bfd73689478a316bf64c2e98c, type: 2}
+    scale: {x: 3, y: 3, z: 3}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fHaloEffect\x2fHaloEffect"
+    functionName: "BOSS\u543C\u53EB\u7684\u5708"
+  - id: 22
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4c6e5141fb79f2847b94da1480aec883, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDust\x2fPlayerFall"
+    functionName: "\u4E3B\u89D2\u5C18\u571F"
+  - id: 23
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 5c31aab834afc6d499e3465c14cc9af0, type: 2}
+    scale: {x: 1, y: 1, z: 0.7}
+    prefabPath: "Prefab\x2fEffect\x2fFXEffect\x2fDisortEffect\x2fDistortionCore-PS4"
+    functionName: "\u7A7A\u6C14\u626D\u66F2"
+  - id: 40
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 3c977e0d94e92c345be0d142458ad880, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDust\x2fDustEffect"
+    functionName: "\u540E\u9000\u5C18\u571F"
+  - id: 48
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 5
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: b833487e66bb664448b83acf7ba99bea, type: 2}
+    scale: {x: 2.5, y: 2.5, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fFlashEffect\x2fFlash_Distort"
+    functionName: "\u98DE\u71D5\u7279\u6548"
+  - id: 49
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 5c31aab834afc6d499e3465c14cc9af0, type: 2}
+    scale: {x: 1, y: 1, z: 0.7}
+    prefabPath: "Prefab\x2fEffect\x2fFXEffect\x2fDisortEffect\x2fDistortionCore-PS4"
+    functionName: "\u666E\u901A\u626D\u66F2\u7A7A\u6C14\u7279\u6548"
+  - id: 61
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945317, guid: dae581b109cba5e4b91260a005483766, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDust\x2fPaoSisterDust"
+    functionName: "\u70AE\u59D0\u53D1\u5C04\u5C18\u571F"
+  - id: 70
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 2
+    effect: {fileID: 1790495663562945316, guid: 85b455c2eefc20d4d9a4291394db94d1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fEnemyHitEffect"
+    functionName: "\u4E3B\u89D2\u88AB\u653B\u51FB\u9EC4\u8272\u7279\u6548"
+  - id: 71
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 66be97bd16eccb34391417a5d0253830, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fEnemyHurt\x2fEnemyHurt"
+    functionName: "\u673A\u5668\u4EBA\u88AB\u653B\u51FB\u52A8\u753B"
+  - id: 76
+    isFollow: 1
+    maxCount: 10
+    effectStartCount: 5
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 51c958ce775dddd4e8e70b02321a123e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fSparkEffect\x2fPlayerArmorSpark01"
+    functionName: "\u4E3B\u89D2\u62A4\u76FE\u706B\u661F"
+  - id: 80
+    isFollow: 1
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: ec404f412d379744eb8a5b96aa408ec1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fSparkEffect\x2fPlayerArmorSpark02"
+    functionName: "\u4E3B\u89D2\u62A4\u76FE\u706B\u661F2"
+  - id: 90
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945326, guid: eac60196fa5cf8847ae0ae523a81d73e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBullet\x2fBulletExplosion"
+    functionName: "\u65E0\u5C5E\u6027\u5B50\u5F39\u7206\u70B8"
+  - id: 91
+    isFollow: 0
+    maxCount: 30
+    effectStartCount: 7
+    rotation: 3
+    effect: {fileID: 1790495663562945321, guid: b6445f25d09680b4ab8587eaec4c75fe, type: 2}
+    scale: {x: 0.4, y: 0.4, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnergyBall\x2fEnergyBallBlue2"
+    functionName: "\u84DD\u8272\u80FD\u91CF\u7403\u7279\u6548"
+  - id: 92
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 7
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 2523ef95f538c3546a7ffef5658e65b0, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBlockParticle_Enemy"
+    functionName: "\u654C\u4EBA\u6B7B\u4EA1\u5C0F\u65B9\u5757"
+  - id: 95
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 10
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 7f14fa33a9a76d0499c737990a14bd70, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fBullet\x2fLightGunHitGroundSpark"
+    functionName: "\u4E3B\u89D2\u8F7B\u653B\u51FB\u5B50\u5F39\u51FB\u4E2D\u5730\u9762"
+  - id: 98
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: f7e063253943e9346995a04008d5996d, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK1"
+    functionName: "\u900F\u660E\u5200\u5149ATK1"
+  - id: 99
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 16010ad5af78a4044a48a304d246ae51, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK2"
+    functionName: "\u5200\u5149ATK2"
+  - id: 100
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 8c9c435284a40b549894983395bdc74e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK15"
+    functionName: "\u5200\u5149ATK15"
+  - id: 101
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: a834f89d125ab204bba576a37e8e3576, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK5"
+    functionName: "\u5200\u5149ATK5"
+  - id: 102
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 882369d448494a547844a1ef0eedcf1f, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK23"
+    functionName: "\u5200\u5149ATK23"
+  - id: 103
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 98c4c4a5298d5054bb5059511045cde6, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATK1"
+    functionName: "\u900F\u660E\u5200\u5149ATK4"
+  - id: 104
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 89c93b4a0338d0b46a7c0e1873646410, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATK2"
+    functionName: "\u900F\u660E\u5200\u5149ATK5"
+  - id: 105
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: e8f4f49bfbb266142b70145d6b6f880e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATK6"
+    functionName: "\u7A7A\u4E2D\u5200\u5149ATK6"
+  - id: 106
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 708f5eaec4e321d45ac3b8f96794f12f, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewUpRising"
+    functionName: "\u5200\u5149\u4E0A\u6311"
+  - id: 107
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 49c1aa53b37403c4eae8fbc43968e03d, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHv1"
+    functionName: "\u7A81\u523A\u5200\u51491"
+  - id: 108
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 1f686eb1ca0d26647a19f6f46ebc769b, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHv2"
+    functionName: "\u7A81\u523A\u5200\u51492"
+  - id: 109
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 2e1cbae6609169a4684bf84817fc3b18, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHv3"
+    functionName: "\u7A81\u523A\u5200\u51493"
+  - id: 110
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 0df72123e7275fe4b94e9744b81821e0, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATKHv1"
+    functionName: "\u900F\u660E\u5200\u5149ATK7_5"
+  - id: 111
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: c57c03115bee6ef4e8f9f41ae8544589, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATKHv2"
+    functionName: "\u900F\u660E\u5200\u5149ATK7_6"
+  - id: 112
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 1cb75e237b477ca498b69fbd6497afd7, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATKHv5"
+    functionName: "\u900F\u660E\u5200\u5149ATK7_7"
+  - id: 114
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 11c7425f5d8bd084cad087a355d0f59a, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK16"
+    functionName: "\u67AA\u5203\u7A7A\u4E2D\u5200\u5149ATK1"
+  - id: 116
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: adbacf50abeec9e4e982c4e90a39837b, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKRollEnd"
+    functionName: "\u5200\u5149ATKRollEnd"
+  - id: 117
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: d89a4617ce5f07b4bb6b16bd595430f6, type: 2}
+    scale: {x: 1, y: 1, z: 0.1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHv1Push"
+    functionName: "\u4E0A\u6311\u5200\u5149"
+  - id: 118
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 015487c7e3c2c18409a2dda755328218, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKRollGround"
+    functionName: "\u4E0B\u5288\u5200\u5149"
+  - id: 121
+    isFollow: 0
+    maxCount: 3
+    effectStartCount: 1
+    rotation: 5
+    effect: {fileID: 1790495663562945316, guid: 261430ab7745c004fbc4525e88aa2461, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fCharging\x2fCharging1"
+    functionName: "\u84C4\u529B1"
+  - id: 124
+    isFollow: 0
+    maxCount: 3
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945326, guid: 8904b192c82a9974c994f832ed0e9be7, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fCharging\x2fChargingScreenEffect"
+    functionName: "\u84C4\u529B\u653B\u51FB"
+  - id: 125
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945322, guid: fcfa775f4e05abe43aac75c2381853f3, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fClipAbsorb\x2fChipAbsorb"
+    functionName: "\u82AF\u7247\u5438\u6536"
+  - id: 126
+    isFollow: 1
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 6f5245a7ecc76bd47b1baf35bfe5231a, type: 2}
+    scale: {x: 0.2, y: 0.17, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fClipAbsorb\x2fEnemyChip"
+    functionName: "\u84C4\u529B\u653B\u51FB"
+  - id: 127
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 5ad10c18de737ab45b07222f9a962f92, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fClipAbsorb\x2fChipExplosion"
+    functionName: "\u82AF\u7247\u751F\u6210\u98DE\u51FA"
+  - id: 128
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: eefa1055f3d1b524082fa143aef5a0b9, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fWarning"
+    functionName: "\u8B66\u544A"
+  - id: 131
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4d8733e958c49b64ebe9367f23a0cb09, type: 2}
+    scale: {x: 0.15, y: 0.15, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBullet\x2fDahalBullet"
+    functionName: "DahalBullet"
+  - id: 133
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 3a7dd59759758c442a4c7cc82270cd74, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBeelzebub\x2fBeelzebubATK3"
+    functionName: "\u66B4\u98DFATK3"
+  - id: 134
+    isFollow: 1
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 1
+    effect: {fileID: 1790495663562945316, guid: 1b5eca8de07ebdf4ba49b3edea4a8366, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBeelzebub\x2fBeelzebubATK1_1"
+    functionName: "\u66B4\u98DFATK1"
+  - id: 139
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 1
+    effect: {fileID: 1790495663562945316, guid: 131d7e4974cad1d4ab912a8c08e8cad1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fBeelzebub\x2fBeelzebubATK1_2"
+    functionName: "\u66B4\u98DF\u6280\u80FDATK1_2"
+  - id: 142
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945322, guid: 2000198f416af6046a6b468222ab9512, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fRealisticEffect\x2fIceExplosion"
+    functionName: "\u4F7F\u7528\u6280\u80FD\u53EC\u5524\u66B4\u98DF\u7838\u5230\u5730\u9762\u7684\u7206\u70B8"
+  - id: 144
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 1
+    effect: {fileID: 1790495663562945317, guid: cef3e3a623685764fb74fee56b74ce80, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fSparkEffect\x2fSparkEffectLongTime"
+    functionName: "\u5C0F\u602A\u88AB\u5904\u51B3\u6B7B\u7684\u65F6\u5019\u987A\u7740\u88C2\u7F1D\u6563\u843D\u7684\u7C92\u5B50"
+  - id: 145
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 5
+    effect: {fileID: 1790495663562945322, guid: 2000198f416af6046a6b468222ab9512, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fRealisticEffect\x2fIceExplosion"
+    functionName: "\u66B4\u98DF\u81EA\u5DF1\u7838\u5230\u5730\u9762\u7684\u7206\u70B8"
+  - id: 148
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 006264d9d7f55a944adff7aabcd51098, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fDahal\x2fDahalAtk4Bullet"
+    functionName: "\u8FBE\u54C8\u5C14\u706B\u7BAD"
+  - id: 149
+    isFollow: 0
+    maxCount: 3
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945320, guid: 1d89c1c6ecdeb164590547104e27ca91, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fDahal\x2fDahalATK6FallSpark"
+    functionName: "\u8FBE\u54C8\u5C14ATK6\u4E0B\u843D\u706B\u661F"
+  - id: 150
+    isFollow: 0
+    maxCount: 3
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: f8dd37661e0bf79438a53d8773335779, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fDahal\x2fDahalTansferSpark"
+    functionName: "\u8FBE\u54C8\u5C14\u5207\u6362\u72B6\u6001\u706B\u661F"
+  - id: 151
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 2
+    effect: {fileID: 1790495663562945317, guid: d2c2ae7af484e6b4485e07a007b7766a, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fEnemyHitEffect02"
+    functionName: "\u654C\u4EBA\u53D7\u4F24\u7279\u6548"
+  - id: 152
+    isFollow: 1
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 6
+    effect: {fileID: 1790495663562945316, guid: 829f86c383c7a4846a0330e8def3e38b, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fCloseEnemyEffect\x2fPlayer\x2fCloseEnemyEffect"
+    functionName: "\u4E3B\u89D2\u805A\u602A\u7279\u6548"
+  - id: 153
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 6
+    effect: {fileID: 1790495663562945316, guid: 74555244c0951af46ae6d6aee5832523, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fCloseEnemyEffect\x2fBlast\x2fCloseEnemyEffectBlast"
+    functionName: "\u4E3B\u89D2\u805A\u602A\u540E\u51B2\u523A\u7279\u6548"
+  - id: 154
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 6dce2d2efb63f7143945fddf9df11b45, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMosquito\x2fBeeLaser"
+    functionName: "\u6FC0\u5149\u7279\u6548"
+  - id: 155
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945320, guid: 59f671b2cf27baa44b75db3f87a8c753, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMosquito\x2fBeeLaser2"
+    functionName: "\u6FC0\u5149\u7279\u6548"
+  - id: 156
+    isFollow: 0
+    maxCount: 1
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945331, guid: bc533140b03479b42a9fd565125f4991, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fHeavyHitEffect\x2fHeavyHitEffect"
+    functionName: "\u91CD\u51FB\u7279\u6548"
+  - id: 157
+    isFollow: 1
+    maxCount: 1
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945323, guid: f79b5a1b6d11dd54b84099c4b48d1785, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fPlayerBlockEffect\x2fEnemyBlockEffect"
+    functionName: "\u654C\u4EBA\u9632\u5FA1\u7279\u6548"
+  - id: 158
+    isFollow: 1
+    maxCount: 1
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945322, guid: 38e460f661390c141bc5370f3e2a24ba, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fPlayerBlockEffect\x2fPlayerBlockEffect"
+    functionName: "\u4E3B\u89D2\u9632\u5FA1\u7279\u6548"
+  - id: 159
+    isFollow: 1
+    maxCount: 10
+    effectStartCount: 4
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 74de1109ad5f6e8448b308925b109a69, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fScene\x2fRedMoneyHalo"
+    functionName: "\u573A\u666F\u4E2D\u7684\u7EA2\u8272\u8D27\u5E01\u5149\u6655"
+  - id: 160
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 4
+    rotation: 3
+    effect: {fileID: 1790495663562945328, guid: fb1590319dad9404ebd4c633a9179df6, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fBreakShield\x2fBreakShieldEnemy"
+    functionName: "\u654C\u4EBA\u7834\u76FE\u7279\u6548"
+  - id: 161
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 4
+    rotation: 3
+    effect: {fileID: 1790495663562945326, guid: 9d261b46afac85a4e871998d1d64a748, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fBreakShield\x2fBreakShield"
+    functionName: "\u4E3B\u89D2\u7834\u76FE\u7279\u6548"
+  - id: 162
+    isFollow: 0
+    maxCount: 2
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945339, guid: fccb4375fd0419343a6f95111062fdc5, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fEnemyExplosion\x2fEnemyExplosion001"
+    functionName: "BOSS\u7206\u70B8\u7279\u6548"
+  - id: 163
+    isFollow: 1
+    maxCount: 2
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945333, guid: 062698ab3dd57d541a6db2309bc74347, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDeadEffect\x2fDeadEffect"
+    functionName: "\u602A\u7269\u6D88\u5931"
+  - id: 164
+    isFollow: 0
+    maxCount: 2
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: a6f804bec42b3064ca4a08060bdeafdf, type: 2}
+    scale: {x: 3, y: 3, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fFXEffect\x2fTwirlEffect\x2fTwirlEffect"
+    functionName: "\u5F00\u542F\u626D\u66F2"
+  - id: 165
+    isFollow: 0
+    maxCount: 2
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: e619899db20357340a6ec963d436789c, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fShadeAtk\x2fShadeAtk"
+    functionName: "\u5206\u8EAB\u65A9\u7279\u6548"
+  - id: 166
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: d6e9675c6b374c8469687e816d78f411, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHitGround2"
+    functionName: "\u4E3B\u89D2\u531D\u5730"
+  - id: 168
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: eb0098d5db97cea41b79effc2e24722c, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATKRoll"
+    functionName: "\u4E3B\u89D2\u7A7A\u4E2D\u4E0B\u5288\u8F6C"
+  - id: 169
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: d977cda73ffcb56488fe2f20fb218b98, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewHitGround"
+    functionName: "\u4E3B\u89D2\u5288\u8F6C"
+  - id: 170
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 077e1100a2b511f489bb971b947596d1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK3"
+    functionName: "\u4E3B\u89D2\u5288\u8F6C"
+  - id: 171
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 15d50558068aaaa4985cbded281b73e1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATK14"
+    functionName: "\u4E3B\u89D2\u5288\u8F6C"
+  - id: 172
+    isFollow: 1
+    maxCount: 1
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: e028db11c90619043ad7daf8944f71de, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewRoll"
+    functionName: "\u4E3B\u89D2\u5288\u8F6C"
+  - id: 173
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 250ce8b817818844084d23fc8a2d51a6, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKUpRising"
+    functionName: "\u4E3B\u89D2ATK\u4E0A\u6311"
+  - id: 174
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 9bd21c9a805f8314eb8d191dc43cfba5, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewRollEnd"
+    functionName: "\u4E3B\u89D2ATK\u4E0A\u6311"
+  - id: 175
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: f2a442ab9500e4644b6ceb5b9755d3fe, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATK7"
+    functionName: "\u4E3B\u89D2\u7A7A\u4E2DATK7"
+  - id: 176
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 0fc917b89713ebe47aaec51c2d073216, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewAirATKHv1Push"
+    functionName: "\u4E3B\u89D2\u7A7A\u4E2DATKHv1Push"
+  - id: 177
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 73053ab771e75d3468a1f0d2f6cbde52, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fShadeAtk\x2fShadeAtk_ToLeftAir"
+    functionName: "Dahal\u5904\u51B3\u5206\u8EAB\u65A9"
+  - id: 178
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: ca02931f0a9774c4a96506ac0fd9cdd3, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fQTEShadeAtk\x2fDahalQTEHurt"
+    functionName: "DahalQTE\u53D7\u4F24"
+  - id: 179
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4dd5841282ad35c4ba2e60ad19edc01a, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fQTEShadeAtk\x2fBeelzebubQTEHurt"
+    functionName: "\u66B4\u98DFQTE\u53D7\u4F24\u5206\u8EAB\u65A9"
+  - id: 180
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 8b5971ac67c9236459debaa8b22118af, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fShadeAtk\x2fShadeAtk_Down"
+    functionName: "\u9A91\u5175QTE\u6B7B\u4EA1\u5206\u8EAB\u65A9"
+  - id: 181
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 5
+    effect: {fileID: 1790495663562945316, guid: 1f367e9dc78c4e54fb86aff4b3e6dc79, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fCharging\x2fAirCharging1"
+    functionName: "\u7A7A\u4E2D\u84C4\u529B1"
+  - id: 182
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945317, guid: 5a3266dc173a6484cb0dd2f797e63dc1, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fShadeAtk\x2fShadeAtk_Chase"
+    functionName: "\u8FFD\u51FB\u5206\u8EAB\u65A9"
+  - id: 183
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4a5a0c9aee3884743a7ce77a82105808, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewDoubelFlash"
+    functionName: "\u5DE6\u53F3\u7A7F\u68AD\u5200\u5149"
+  - id: 184
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: b5c0c594b9b6dbd4fa856769f73a2b93, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewRollEndFrameGround"
+    functionName: "\u5730\u9762\u4E0B\u5288\u5200\u5149"
+  - id: 185
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: a9f14507f37bf664f965fc9a46098b1e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewRollEndFrame1"
+    functionName: "\u7A7A\u4E2D\u4E0B\u52882\u5200\u5149"
+  - id: 186
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 182153ae4981d2a43a57ed0924b129d7, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewRollEndFrame"
+    functionName: "\u7A7A\u4E2D\u4E0B\u52882\u5200\u5149"
+  - id: 188
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945364, guid: d683cae6aa8d4974fb49cf5e8445e951, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fSupplyBox\x2fSupplyBoxScreenEffect_Energy"
+    functionName: "Supply Box add Energy"
+  - id: 189
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945350, guid: 67992052cc8d94846b5ca04c98b05454, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fSupplyBox\x2fSupplyBoxScreenEffect_EnergyMatrix"
+    functionName: "Supply Box add Energy Matrix"
+  - id: 191
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945332, guid: 59323ae6a72596c45aa39b3075ef5665, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fShadeAtk\x2fShadeAtk_Skill"
+    functionName: "\u5206\u8EAB\u65A9\u6280\u80FD"
+  - id: 192
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 684d2c22f37f85f4599b410637d1a07a, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fMoney\x2fCoinGenerator"
+    functionName: "\u5B9D\u7BB1\u55B7\u91D1\u5E01"
+  - id: 193
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 015487c7e3c2c18409a2dda755328218, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKRollGround"
+    functionName: "\u5927\u98CE\u8F66\u7279\u6548"
+  - id: 194
+    isFollow: 1
+    maxCount: 6
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: b0e704eba20e2c642a7c75371c58ad6d, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewATKHv4"
+    functionName: "\u4E3B\u89D2\u7A81\u523A\u7279\u6548"
+  - id: 195
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 0cb31a4bb4cc3a744931c50fc693fa51, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fDust\x2fHammerATK1DustEffect"
+    functionName: "\u5927\u9524\u5C18\u571F"
+  - id: 197
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 77b694c517432414f908e8a0a45e1bc7, type: 2}
+    scale: {x: 0.25, y: 0.25, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMissile\x2fMissile"
+    functionName: "\u9524\u5B50\u5BFC\u5F39"
+  - id: 198
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 98add6fa17ccfc743afed11745d8f9bd, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fSticker\x2fMissileExplosion"
+    functionName: "\u9524\u5B50\u5BFC\u5F39\u7206\u70B8\u6548\u679C"
+  - id: 200
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 6
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: ab8c18ffc91366a41aff708104a96356, type: 2}
+    scale: {x: 0.7, y: 0.7, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fJack\x2fJackAim"
+    functionName: "Jack\u7784\u51C6\u7279\u6548"
+  - id: 201
+    isFollow: 0
+    maxCount: 6
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945372, guid: 75686bb8444081a499fd8c92d96c4d39, type: 2}
+    scale: {x: 0.7, y: 0.7, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fJack\x2fBaked\x2fJackAimEffect1"
+    functionName: "Jack\u771F\u7784\u51C6\u7279\u6548"
+  - id: 202
+    isFollow: 0
+    maxCount: 10
+    effectStartCount: 3
+    rotation: 3
+    effect: {fileID: 1790495663562945321, guid: e736f740413b4bf4ca16fd78dcca416e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fJack\x2fJackAimExplosion"
+    functionName: "Jack\u7784\u51C6\u7206\u70B8\u7279\u6548"
+  - id: 203
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 7da6697de453793469beff8aa37c3323, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMosquito\x2fGiantRobotLaser"
+    functionName: "\u5DE8\u578B\u673A\u5668\u4EBA\u6FC0\u5149"
+  - id: 204
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: c7d6c767449e4174d90eb3d23d47ba7c, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMosquito\x2fGiantRobotLaser 1"
+    functionName: "\u5DE8\u578B\u673A\u5668\u4EBA\u6FC0\u5149"
+  - id: 205
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 2ba3667108d6c2547a016c9c0a702046, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fMosquito\x2fJudgesLaser"
+    functionName: "\u72B9\u5927\u6FC0\u5149"
+  - id: 206
+    isFollow: 0
+    maxCount: 1
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945340, guid: 4fb3bf1aa9cee554aae709e6329b9f5d, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fHitEffect\x2fEnemyExplosion\x2fEnemyExplosion002"
+    functionName: "\u97F3\u4E50\u64AD\u653E\u5668\u7206\u70B8\u7279\u6548"
+  - id: 207
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945321, guid: c002ec600685eb548bb6277ad15a5ee3, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fFire\x2fFireShotGun01"
+    functionName: "\u9730\u5F39\u5229\u5203\u7684\u9730\u5F39"
+  - id: 208
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 1ca381d319144f347a98dbfb80a8aa0b, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fBoss\x2fDahal"
+    functionName: "\u8FBE\u54C8\u5C14\u611F\u8C22"
+  - id: 209
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945318, guid: 7334f261272950043a333ae5e0343d65, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fSticker\x2fStickerAtk2Effect"
+    functionName: "\u73E0\u5B50\u653B\u51FB2"
+  - id: 210
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945317, guid: 7cdab696a6a4a954da12ac7706d3ba04, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fCarlos\x2fEatingBossAtk4Effect"
+    functionName: "\u5361\u6D1B\u65AFAtk4\u7279\u6548"
+  - id: 211
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945330, guid: a57ec091d39be8043a51119e12d6c756, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fEnemyEffect\x2fJudges\x2fJudgesLightingEffect"
+    functionName: "\u72B9\u5927\u653B\u51FB2"
+  - id: 212
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 10
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 4ed5f37efb9bf3b4eb2653a5d8a320c6, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fNewPlayerEffect\x2fNewPlayerAirJumpEffect"
+    functionName: "\u8DF3\u8DC3\u7279\u6548"
+  - id: 213
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: e5abaa05bffb2454b918efc8c2cbd231, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fCameraEffectProxy\x2fShakePrefab\x2fExecuteBlack"
+    functionName: "\u654C\u4EBA\u5904\u51B3\u9ED1\u5C4F1"
+  - id: 214
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: c90efaac99238a64e85b9acfbe321142, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fCameraEffectProxy\x2fShakePrefab\x2fEnemyExecute"
+    functionName: "\u654C\u4EBA\u5904\u51B3\u5C4F\u5E55\u7279\u65481"
+  - id: 215
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945321, guid: 0e9541f0ae1fdfa49866d9a7e712c3c3, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: "Prefab\x2fEffect\x2fCloseScreenEffect"
+    functionName: "e26\u5173\u5C4F\u5E55"
+  - id: 216
+    isFollow: 0
+    maxCount: 2
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: c6fd65c16abee524bad3d29b34395e89, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u53D7\u4F24\u8702\u7A9D\u7279\u6548"
+  - id: 217
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 10
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 52b72253f74d9494b9ae324605912438, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u4E3B\u89D2\u6D0B\u8471\u76AE"
+  - id: 218
+    isFollow: 0
+    maxCount: 20
+    effectStartCount: 10
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: fd1f85c3de36447449a7d8f3d4800014, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u602A\u7269\u6D0B\u8471\u76AE"
+  - id: 219
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 38c3fbb3edd31b44fa49fafdde4b49e4, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5200\u54E5\u788E\u7247"
+  - id: 220
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: fb4ded55d6aa7e84fbde0eeb7f20fdac, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5200\u54E5\u788E\u7247"
+  - id: 221
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: dd42ad48372663a498f74fd1989ff5dc, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5200\u70AE\u788E\u7247"
+  - id: 222
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: ad38ef90be686684fada322c5a03978e, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5200\u70AE\u788E\u7247"
+  - id: 223
+    isFollow: 0
+    maxCount: 4
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 32b7342b7791aee4da4cf53d275e9b06, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u534A\u8EAB\u81EA\u7206\u788E\u7247"
+  - id: 224
+    isFollow: 0
+    maxCount: 4
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 9ecc8d2c808ac3843b4f4d86cf986243, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u534A\u8EAB\u81EA\u7206\u788E\u7247"
+  - id: 225
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: b3114b53d7081a442b002e0ce9949249, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5927\u811A\u788E\u7247"
+  - id: 226
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 1
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: 8c11a1b51a3478842aaae7607ae4fcb4, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u5927\u811A\u788E\u7247"
+  - id: 227
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: b23205b7edea7c84fb49ae06916ed19a, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u8DF3\u62F3\u788E\u7247"
+  - id: 228
+    isFollow: 0
+    maxCount: 5
+    effectStartCount: 2
+    rotation: 3
+    effect: {fileID: 1790495663562945316, guid: aa9b2c1f16ce2a248ad38a0f3ecb7fe3, type: 2}
+    scale: {x: 1, y: 1, z: 1}
+    prefabPath: 
+    functionName: "\u8DF3\u62F3\u788E\u7247"

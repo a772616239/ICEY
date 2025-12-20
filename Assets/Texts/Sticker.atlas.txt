@@ -1,0 +1,580 @@
+
+Sticker.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODYLOWER
+  rotate: true
+  xy: 684, 775
+  size: 142, 173
+  orig: 142, 173
+  offset: 0, 0
+  index: -1
+BODYUPPER
+  rotate: false
+  xy: 160, 535
+  size: 182, 191
+  orig: 182, 191
+  offset: 0, 0
+  index: -1
+BackpackArmor
+  rotate: false
+  xy: 476, 398
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+BackpackArmorLight
+  rotate: false
+  xy: 206, 6
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+BackpackInner
+  rotate: false
+  xy: 2, 487
+  size: 156, 239
+  orig: 156, 239
+  offset: 0, 0
+  index: -1
+BodyUpper2
+  rotate: false
+  xy: 472, 159
+  size: 121, 131
+  orig: 121, 131
+  offset: 0, 0
+  index: -1
+BodyUpperArmor
+  rotate: true
+  xy: 786, 484
+  size: 134, 135
+  orig: 134, 135
+  offset: 0, 0
+  index: -1
+BodyUpperLight
+  rotate: false
+  xy: 557, 524
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+HeadLight
+  rotate: true
+  xy: 579, 398
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+JumpEffect/1
+  rotate: true
+  xy: 452, 815
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+JumpEffect/2
+  rotate: false
+  xy: 975, 427
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+JumpEffect/3
+  rotate: true
+  xy: 370, 71
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+JumpEffect/4
+  rotate: true
+  xy: 647, 646
+  size: 127, 169
+  orig: 127, 169
+  offset: 0, 0
+  index: -1
+JumpEffect/5
+  rotate: true
+  xy: 411, 563
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1
+JumpEffect/6
+  rotate: false
+  xy: 370, 154
+  size: 100, 134
+  orig: 100, 134
+  offset: 0, 0
+  index: -1
+JumpEffect/7
+  rotate: false
+  xy: 378, 728
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 160, 415
+  size: 118, 191
+  orig: 118, 191
+  offset: 0, 0
+  index: -1
+LArmArmor1
+  rotate: true
+  xy: 333, 290
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+LArmArmor2
+  rotate: false
+  xy: 452, 292
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+LArmArmor3
+  rotate: false
+  xy: 818, 193
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+LColdItem1
+  rotate: true
+  xy: 367, 4
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LColdItem2
+  rotate: true
+  xy: 873, 415
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LColdItem3
+  rotate: false
+  xy: 564, 296
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LColdItemLight1
+  rotate: false
+  xy: 639, 215
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LColdItemLight2
+  rotate: true
+  xy: 721, 307
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LColdItemLight3
+  rotate: true
+  xy: 706, 240
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+LFoot
+  rotate: false
+  xy: 631, 317
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+LFootArmor
+  rotate: true
+  xy: 586, 74
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+LFootForeToe
+  rotate: false
+  xy: 142, 9
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+LFootForeToeLight
+  rotate: false
+  xy: 452, 398
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+LFootToe
+  rotate: false
+  xy: 580, 10
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+LForearm
+  rotate: false
+  xy: 2, 43
+  size: 136, 210
+  orig: 136, 210
+  offset: 0, 0
+  index: -1
+LForearmArmor1
+  rotate: true
+  xy: 848, 938
+  size: 84, 162
+  orig: 84, 162
+  offset: 0, 0
+  index: -1
+LForearmArmor2
+  rotate: false
+  xy: 140, 91
+  size: 119, 197
+  orig: 119, 197
+  offset: 0, 0
+  index: -1
+LForearmLight
+  rotate: true
+  xy: 353, 510
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+LForearmTop
+  rotate: true
+  xy: 823, 304
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+LHandItem1
+  rotate: false
+  xy: 639, 147
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+LHandItem2
+  rotate: true
+  xy: 634, 72
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: true
+  xy: 644, 510
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+LLegArmor1
+  rotate: false
+  xy: 252, 17
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+LLegArmor2
+  rotate: true
+  xy: 808, 244
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1
+LLegArmorLight
+  rotate: false
+  xy: 781, 153
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+LLegItem
+  rotate: false
+  xy: 995, 864
+  size: 14, 72
+  orig: 14, 72
+  offset: 0, 0
+  index: -1
+LThigh
+  rotate: false
+  xy: 261, 90
+  size: 107, 198
+  orig: 107, 198
+  offset: 0, 0
+  index: -1
+LThighArmor
+  rotate: false
+  xy: 579, 417
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: -1
+LThighArmorItem1
+  rotate: true
+  xy: 411, 510
+  size: 51, 144
+  orig: 51, 144
+  offset: 0, 0
+  index: -1
+LThighArmorItem2
+  rotate: false
+  xy: 469, 2
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+LThighItem
+  rotate: false
+  xy: 585, 549
+  size: 57, 139
+  orig: 57, 139
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 919, 281
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: false
+  xy: 131, 290
+  size: 200, 123
+  orig: 200, 123
+  offset: 0, 0
+  index: -1
+RColdItem1
+  rotate: true
+  xy: 753, 374
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+RColdItem2
+  rotate: false
+  xy: 980, 640
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+RColdItem3
+  rotate: true
+  xy: 140, 47
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+RColdItemLight1
+  rotate: true
+  xy: 865, 372
+  size: 41, 110
+  orig: 41, 110
+  offset: 0, 0
+  index: -1
+RColdItemLight2
+  rotate: false
+  xy: 595, 184
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+RColdItemLight3
+  rotate: true
+  xy: 706, 196
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+RFoot
+  rotate: false
+  xy: 897, 204
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+RFootArmor
+  rotate: false
+  xy: 696, 150
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+RFootForeToe
+  rotate: true
+  xy: 985, 363
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+RFootForeToeLight
+  rotate: false
+  xy: 895, 286
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+RFootToe
+  rotate: false
+  xy: 630, 23
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 818, 620
+  size: 130, 160
+  orig: 130, 160
+  offset: 0, 0
+  index: -1
+RLegArmor1
+  rotate: false
+  xy: 753, 417
+  size: 118, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+RLegArmor2
+  rotate: true
+  xy: 897, 152
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+RLegItem
+  rotate: false
+  xy: 985, 288
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+RLegLight
+  rotate: false
+  xy: 996, 592
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+RThigh
+  rotate: false
+  xy: 859, 752
+  size: 134, 184
+  orig: 134, 184
+  offset: 0, 0
+  index: -1
+RThighArmor
+  rotate: true
+  xy: 630, 442
+  size: 66, 121
+  orig: 66, 121
+  offset: 0, 0
+  index: -1
+RThighArmorItem1
+  rotate: false
+  xy: 923, 482
+  size: 71, 136
+  orig: 71, 136
+  offset: 0, 0
+  index: -1
+RThighArmorItem2
+  rotate: false
+  xy: 815, 145
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+RThighItem
+  rotate: true
+  xy: 353, 415
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+Sticker/Handle1
+  rotate: false
+  xy: 2, 12
+  size: 138, 29
+  orig: 138, 29
+  offset: 0, 0
+  index: -1
+Sticker/Handle2
+  rotate: false
+  xy: 630, 399
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+Sticker/RForearmStandBy
+  rotate: false
+  xy: 2, 255
+  size: 127, 230
+  orig: 127, 230
+  offset: 0, 0
+  index: -1
+Sticker/RHandStandBy
+  rotate: true
+  xy: 531, 2
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Sticker/WeaponButtom
+  rotate: false
+  xy: 344, 549
+  size: 65, 177
+  orig: 65, 177
+  offset: 0, 0
+  index: -1
+Sticker/WeaponDownArmor
+  rotate: false
+  xy: 472, 919
+  size: 374, 103
+  orig: 374, 103
+  offset: 0, 0
+  index: -1
+Sticker/WeaponInItem
+  rotate: false
+  xy: 452, 690
+  size: 193, 83
+  orig: 193, 83
+  offset: 0, 0
+  index: -1
+Sticker/WeaponMain1
+  rotate: false
+  xy: 2, 843
+  size: 468, 179
+  orig: 468, 179
+  offset: 0, 0
+  index: -1
+Sticker/WeaponMain2
+  rotate: false
+  xy: 472, 775
+  size: 210, 142
+  orig: 210, 142
+  offset: 0, 0
+  index: -1
+Sticker/WeaponUpArmor
+  rotate: false
+  xy: 2, 728
+  size: 374, 113
+  orig: 374, 113
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 484, 63
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1

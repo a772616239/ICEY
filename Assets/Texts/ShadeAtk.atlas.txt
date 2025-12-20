@@ -1,0 +1,153 @@
+
+ShadeAtk.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShadeAtk/1
+  rotate: false
+  xy: 2, 1844
+  size: 924, 195
+  orig: 924, 195
+  offset: 0, 0
+  index: -1
+ShadeAtk/101
+  rotate: false
+  xy: 942, 1765
+  size: 173, 144
+  orig: 173, 144
+  offset: 0, 0
+  index: -1
+ShadeAtk/102
+  rotate: false
+  xy: 1572, 1882
+  size: 218, 157
+  orig: 218, 157
+  offset: 0, 0
+  index: -1
+ShadeAtk/103
+  rotate: true
+  xy: 2, 2
+  size: 283, 204
+  orig: 283, 204
+  offset: 0, 0
+  index: -1
+ShadeAtk/2
+  rotate: false
+  xy: 2, 1648
+  size: 505, 194
+  orig: 505, 194
+  offset: 0, 0
+  index: -1
+ShadeAtk/21
+  rotate: true
+  xy: 2, 287
+  size: 299, 216
+  orig: 299, 216
+  offset: 0, 0
+  index: -1
+ShadeAtk/22
+  rotate: true
+  xy: 1117, 1794
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+ShadeAtk/23
+  rotate: false
+  xy: 2, 868
+  size: 267, 271
+  orig: 267, 271
+  offset: 0, 0
+  index: -1
+ShadeAtk/3
+  rotate: false
+  xy: 509, 1648
+  size: 262, 194
+  orig: 262, 194
+  offset: 0, 0
+  index: -1
+ShadeAtk/31
+  rotate: false
+  xy: 928, 1911
+  size: 393, 128
+  orig: 393, 128
+  offset: 0, 0
+  index: -1
+ShadeAtk/32
+  rotate: false
+  xy: 1323, 1925
+  size: 247, 114
+  orig: 247, 114
+  offset: 0, 0
+  index: -1
+ShadeAtk/33
+  rotate: false
+  xy: 2, 1428
+  size: 422, 218
+  orig: 422, 218
+  offset: 0, 0
+  index: -1
+ShadeAtk/41
+  rotate: true
+  xy: 773, 1648
+  size: 194, 167
+  orig: 194, 167
+  offset: 0, 0
+  index: -1
+ShadeAtk/42
+  rotate: false
+  xy: 942, 1633
+  size: 145, 130
+  orig: 145, 130
+  offset: 0, 0
+  index: -1
+ShadeAtk/43
+  rotate: true
+  xy: 426, 1410
+  size: 236, 244
+  orig: 236, 244
+  offset: 0, 0
+  index: -1
+ShadeAtk/61
+  rotate: true
+  xy: 2, 588
+  size: 278, 241
+  orig: 278, 241
+  offset: 0, 0
+  index: -1
+ShadeAtk/62
+  rotate: false
+  xy: 422, 1193
+  size: 219, 215
+  orig: 219, 215
+  offset: 0, 0
+  index: -1
+ShadeAtk/63
+  rotate: false
+  xy: 2, 1141
+  size: 271, 285
+  orig: 271, 285
+  offset: 0, 0
+  index: -1
+ShadeAtk/71
+  rotate: true
+  xy: 275, 1207
+  size: 219, 145
+  orig: 219, 145
+  offset: 0, 0
+  index: -1
+ShadeAtk/72
+  rotate: false
+  xy: 1792, 1908
+  size: 204, 131
+  orig: 204, 131
+  offset: 0, 0
+  index: -1
+ShadeAtk/73
+  rotate: false
+  xy: 672, 1460
+  size: 222, 186
+  orig: 222, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+RiderEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Atk1_1
+  rotate: false
+  xy: 2, 514
+  size: 731, 353
+  orig: 731, 353
+  offset: 0, 0
+  index: -1
+Effect/Atk1_2
+  rotate: false
+  xy: 2, 196
+  size: 698, 316
+  orig: 698, 316
+  offset: 0, 0
+  index: -1
+Effect/RiderATK2
+  rotate: false
+  xy: 2, 2
+  size: 746, 192
+  orig: 746, 192
+  offset: 0, 0
+  index: -1

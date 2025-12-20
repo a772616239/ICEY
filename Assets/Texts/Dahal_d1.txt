@@ -1,0 +1,10 @@
+{
+  "Atk1_1": "Atk11",
+  "Atk1_2": "Atk11",
+  "Atk1_3": "Atk11",
+  "Atk9": "Atk7",
+  "Atk1Move1": "Atk1Move",
+  "Atk1Move2": "Atk1Move",
+  "Atk1Move3": "Atk1Move",
+  "DieIdle":"Idle"
+}

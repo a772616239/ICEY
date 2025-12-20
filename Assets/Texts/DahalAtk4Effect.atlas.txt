@@ -1,0 +1,293 @@
+
+DahalAtk4Effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1,11
+  rotate: true
+  xy: 637, 789
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 838, 954
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 261, 488
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 261, 287
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1582, 1847
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1783, 1847
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 637, 1190
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 637, 989
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 870, 1356
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 838, 1155
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+Buttom5
+  rotate: false
+  xy: 2, 1396
+  size: 647, 650
+  orig: 647, 650
+  offset: 0, 0
+  index: -1
+Center2
+  rotate: false
+  xy: 454, 730
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 838, 765
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+Cricle1
+  rotate: false
+  xy: 1038, 1130
+  size: 22, 224
+  orig: 22, 224
+  offset: 0, 0
+  index: -1
+Ring54
+  rotate: false
+  xy: 1038, 1130
+  size: 22, 224
+  orig: 22, 224
+  offset: 0, 0
+  index: -1
+Cricle2
+  rotate: false
+  xy: 573, 897
+  size: 62, 497
+  orig: 62, 497
+  offset: 0, 0
+  index: -1
+CricleLeft5
+  rotate: false
+  xy: 1379, 1838
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1
+CricleMid6
+  rotate: true
+  xy: 651, 1391
+  size: 164, 217
+  orig: 164, 217
+  offset: 0, 0
+  index: -1
+CricleRight67
+  rotate: false
+  xy: 1984, 1857
+  size: 62, 189
+  orig: 62, 189
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 145, 100
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+Light3
+  rotate: false
+  xy: 261, 161
+  size: 199, 124
+  orig: 199, 124
+  offset: 0, 0
+  index: -1
+Light5
+  rotate: true
+  xy: 2, 689
+  size: 705, 450
+  orig: 705, 450
+  offset: 0, 0
+  index: -1
+Light6
+  rotate: false
+  xy: 651, 1643
+  size: 403, 403
+  orig: 403, 403
+  offset: 0, 0
+  index: -1
+Light6271
+  rotate: false
+  xy: 1056, 1725
+  size: 321, 321
+  orig: 321, 321
+  offset: 0, 0
+  index: -1
+Ring11
+  rotate: true
+  xy: 1379, 1730
+  size: 30, 136
+  orig: 30, 136
+  offset: 0, 0
+  index: -1
+Ring23
+  rotate: true
+  xy: 1379, 1730
+  size: 30, 136
+  orig: 30, 136
+  offset: 0, 0
+  index: -1
+Ring21
+  rotate: true
+  xy: 2, 15
+  size: 30, 140
+  orig: 30, 140
+  offset: 0, 0
+  index: -1
+Ring22
+  rotate: true
+  xy: 1056, 1642
+  size: 42, 175
+  orig: 42, 175
+  offset: 0, 0
+  index: -1
+Ring31
+  rotate: true
+  xy: 1278, 1705
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+Ring32
+  rotate: true
+  xy: 454, 701
+  size: 27, 114
+  orig: 27, 114
+  offset: 0, 0
+  index: -1
+Ring4
+  rotate: false
+  xy: 1035, 1571
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1
+Ring51
+  rotate: true
+  xy: 1056, 1686
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+Ring52
+  rotate: false
+  xy: 145, 165
+  size: 114, 522
+  orig: 114, 522
+  offset: 0, 0
+  index: -1
+Ring53
+  rotate: false
+  xy: 2, 47
+  size: 141, 640
+  orig: 141, 640
+  offset: 0, 0
+  index: -1
+Ring61
+  rotate: false
+  xy: 454, 864
+  size: 117, 530
+  orig: 117, 530
+  offset: 0, 0
+  index: -1
+Ring62
+  rotate: true
+  xy: 1582, 1825
+  size: 20, 192
+  orig: 20, 192
+  offset: 0, 0
+  index: -1
+Ring6371
+  rotate: true
+  xy: 651, 1557
+  size: 84, 382
+  orig: 84, 382
+  offset: 0, 0
+  index: -1
+Ring64
+  rotate: false
+  xy: 1038, 971
+  size: 16, 157
+  orig: 16, 157
+  offset: 0, 0
+  index: -1
+Spark2
+  rotate: true
+  xy: 1379, 1762
+  size: 74, 154
+  orig: 74, 154
+  offset: 0, 0
+  index: -1
+Spark3
+  rotate: true
+  xy: 145, 47
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+WhiteP
+  rotate: false
+  xy: 838, 1371
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

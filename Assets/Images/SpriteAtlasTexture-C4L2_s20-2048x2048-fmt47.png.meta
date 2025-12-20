@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 24f166dec9104ae699f77dd683787fda
+timeCreated: 1621819704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300002: C4L2_s20_0002_near_door_2
+    21300004: C4L2_s20_0003_near_door
+    21300000: C4L2_s20_0004_middle_door
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C4L2_s20_0002_near_door_2
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 492
+        height: 1477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -246, y: 738.5}
+        - {x: 246, y: 738.5}
+        - {x: -246, y: -738.5}
+      - - {x: -246, y: -738.5}
+        - {x: 246, y: 738.5}
+        - {x: 246, y: -738.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C4L2_s20_0003_near_door
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 511
+        height: 1477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -255.5, y: 738.5}
+        - {x: 255.5, y: 738.5}
+        - {x: -255.5, y: -738.5}
+      - - {x: -255.5, y: -738.5}
+        - {x: 255.5, y: 738.5}
+        - {x: 255.5, y: -738.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: C4L2_s20_0004_middle_door
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 220
+        height: 1030
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 515}
+        - {x: 110, y: 515}
+        - {x: -110, y: -515}
+      - - {x: -110, y: -515}
+        - {x: 110, y: 515}
+        - {x: 110, y: -515}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

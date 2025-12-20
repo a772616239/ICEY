@@ -1,0 +1,132 @@
+
+AirRobot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyLowItem1
+  rotate: true
+  xy: 332, 1004
+  size: 18, 225
+  orig: 18, 225
+  offset: 0, 0
+  index: -1
+BodyLowItem2
+  rotate: false
+  xy: 119, 362
+  size: 11, 186
+  orig: 11, 186
+  offset: 0, 0
+  index: -1
+BodyLowMain
+  rotate: false
+  xy: 138, 611
+  size: 102, 411
+  orig: 102, 411
+  offset: 0, 0
+  index: -1
+BodyLowMainLight
+  rotate: false
+  xy: 518, 966
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+BodyUpper
+  rotate: false
+  xy: 242, 823
+  size: 88, 199
+  orig: 88, 199
+  offset: 0, 0
+  index: -1
+BodyUpperItem
+  rotate: false
+  xy: 242, 613
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+Effect/1
+  rotate: true
+  xy: 79, 26
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Effect/2
+  rotate: false
+  xy: 459, 976
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Effect/3
+  rotate: false
+  xy: 459, 948
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: true
+  xy: 343, 696
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+LForearm
+  rotate: true
+  xy: 332, 832
+  size: 69, 134
+  orig: 69, 134
+  offset: 0, 0
+  index: -1
+LWeapon
+  rotate: false
+  xy: 2, 550
+  size: 134, 472
+  orig: 134, 472
+  offset: 0, 0
+  index: -1
+LWeaponItem
+  rotate: false
+  xy: 332, 903
+  size: 125, 99
+  orig: 125, 99
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: true
+  xy: 138, 563
+  size: 46, 113
+  orig: 46, 113
+  offset: 0, 0
+  index: -1
+RForearm
+  rotate: false
+  xy: 242, 701
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+RWeapon
+  rotate: false
+  xy: 2, 85
+  size: 115, 463
+  orig: 115, 463
+  offset: 0, 0
+  index: -1
+RWeaponItem
+  rotate: false
+  xy: 343, 738
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dbaac2d8f4f22431324391cffb065f, type: 3}
+  m_Name: "forestRoad__0000_middle_tree1_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 06b2d8a296704d8a88a35fe728ac06c7, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ba93aa2d18ba4f3ea311fe376041a98c, type: 2}

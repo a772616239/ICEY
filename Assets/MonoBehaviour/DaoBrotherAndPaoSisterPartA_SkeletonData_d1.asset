@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae9c7feab1b816f9032981b5a0d17d5, type: 3}
+  m_Name: DaoBrotherAndPaoSisterPartA_SkeletonData_d1
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: a5d2a87440e34088aab85419d577373f, type: 2}
+  skeletonJSON: {fileID: 4900000, guid: 162aa3d2f4b348889ec4639e8a1095ed, type: 3}
+  scale: 0.01
+  fromAnimation: []
+  toAnimation: []
+  duration: 
+  defaultMix: 0
+  controller: {fileID: 0}

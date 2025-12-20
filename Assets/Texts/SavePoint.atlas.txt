@@ -1,0 +1,195 @@
+
+SavePoint.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 579
+  size: 325, 168
+  orig: 325, 168
+  offset: 0, 0
+  index: -1
+ArmorItemL
+  rotate: true
+  xy: 702, 796
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+ArmorItemR
+  rotate: false
+  xy: 41, 309
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+ArmorL
+  rotate: false
+  xy: 329, 619
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+ArmorR
+  rotate: false
+  xy: 375, 659
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+BallArmorLightL
+  rotate: false
+  xy: 834, 815
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+BallArmorLightR
+  rotate: false
+  xy: 92, 365
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+BallItemB
+  rotate: false
+  xy: 938, 932
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+BallItemL
+  rotate: false
+  xy: 869, 860
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+BallItemR
+  rotate: false
+  xy: 909, 886
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+BallL
+  rotate: false
+  xy: 421, 702
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+BallR
+  rotate: false
+  xy: 909, 900
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Circle2
+  rotate: false
+  xy: 702, 813
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+DATE CENTER
+  rotate: false
+  xy: 2, 749
+  size: 371, 196
+  orig: 371, 196
+  offset: 0, 0
+  index: -1
+MainButtom
+  rotate: false
+  xy: 375, 789
+  size: 325, 156
+  orig: 325, 156
+  offset: 0, 0
+  index: -1
+MainTitle
+  rotate: false
+  xy: 2, 424
+  size: 310, 153
+  orig: 310, 153
+  offset: 0, 0
+  index: -1
+RollL1
+  rotate: true
+  xy: 329, 592
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+RollL2
+  rotate: true
+  xy: 375, 632
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+RollLightL
+  rotate: false
+  xy: 314, 551
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+RollLightR
+  rotate: true
+  xy: 92, 355
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+RollR1
+  rotate: true
+  xy: 514, 762
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+RollR2
+  rotate: false
+  xy: 2, 217
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Save
+  rotate: false
+  xy: 834, 874
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+SubButtom
+  rotate: false
+  xy: 2, 352
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+SubTitle1
+  rotate: true
+  xy: 2, 259
+  size: 91, 37
+  orig: 91, 37
+  offset: 0, 0
+  index: -1
+SubTitle2
+  rotate: false
+  xy: 421, 749
+  size: 91, 38
+  orig: 91, 38
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 128, 396
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+lantern.png
+size: 110,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+insideFire/10
+  rotate: true
+  xy: 2, 140
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+insideFire/11
+  rotate: false
+  xy: 74, 48
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+insideFire/12
+  rotate: false
+  xy: 38, 6
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+insideFire/13
+  rotate: false
+  xy: 68, 103
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+insideFire/15
+  rotate: true
+  xy: 2, 104
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+insideFire/16
+  rotate: true
+  xy: 2, 68
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+insideFire/17
+  rotate: false
+  xy: 2, 2
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+insideFire/18
+  rotate: false
+  xy: 76, 169
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+insideFire/9
+  rotate: false
+  xy: 76, 235
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+lanternBody
+  rotate: false
+  xy: 2, 176
+  size: 72, 123
+  orig: 72, 123
+  offset: 0, 0
+  index: -1

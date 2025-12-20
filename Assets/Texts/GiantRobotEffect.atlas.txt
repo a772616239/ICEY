@@ -1,0 +1,94 @@
+
+GiantRobotEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Circle3
+  rotate: false
+  xy: 2, 532
+  size: 1442, 1442
+  orig: 1442, 1442
+  offset: 0, 0
+  index: -1
+Effect/Light4
+  rotate: true
+  xy: 2, 2
+  size: 104, 484
+  orig: 104, 484
+  offset: 0, 0
+  index: -1
+Effect/Light5
+  rotate: true
+  xy: 1446, 597
+  size: 1377, 426
+  orig: 1377, 426
+  offset: 0, 0
+  index: -1
+Effect/Light6
+  rotate: false
+  xy: 2, 108
+  size: 1908, 422
+  orig: 1908, 422
+  offset: 0, 0
+  index: -1
+
+GiantRobotEffect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Circle1
+  rotate: false
+  xy: 2, 359
+  size: 1401, 1419
+  orig: 1401, 1419
+  offset: 0, 0
+  index: -1
+Effect/Light1
+  rotate: false
+  xy: 2, 2
+  size: 1375, 355
+  orig: 1375, 355
+  offset: 0, 0
+  index: -1
+Effect/Light3
+  rotate: true
+  xy: 1405, 33
+  size: 1745, 366
+  orig: 1745, 366
+  offset: 0, 0
+  index: -1
+
+GiantRobotEffect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Circle2
+  rotate: false
+  xy: 2, 428
+  size: 1379, 1395
+  orig: 1379, 1395
+  offset: 0, 0
+  index: -1
+Effect/Light2
+  rotate: true
+  xy: 1383, 2
+  size: 1821, 331
+  orig: 1821, 331
+  offset: 0, 0
+  index: -1
+
+GiantRobotEffect4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Circle4
+  rotate: false
+  xy: 2, 2
+  size: 1358, 1367
+  orig: 1358, 1367
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+FooterEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FooterEffect/Atk1/1
+  rotate: false
+  xy: 2, 1284
+  size: 694, 639
+  orig: 694, 639
+  offset: 0, 0
+  index: -1
+FooterEffect/Atk1/2
+  rotate: false
+  xy: 2, 643
+  size: 694, 639
+  orig: 694, 639
+  offset: 0, 0
+  index: -1
+FooterEffect/Atk1/3
+  rotate: false
+  xy: 698, 1284
+  size: 694, 639
+  orig: 694, 639
+  offset: 0, 0
+  index: -1
+FooterEffect/Atk1/4
+  rotate: false
+  xy: 2, 2
+  size: 694, 639
+  orig: 694, 639
+  offset: 0, 0
+  index: -1
+FooterEffect/Atk2/FooterAtk1
+  rotate: true
+  xy: 698, 553
+  size: 729, 344
+  orig: 729, 344
+  offset: 0, 0
+  index: -1
+FooterEffect/Atk2/FooterAtk2
+  rotate: true
+  xy: 1044, 586
+  size: 696, 321
+  orig: 696, 321
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,612 @@
+
+NewPlayerTestEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/HitGround1/1
+  rotate: false
+  xy: 1083, 183
+  size: 419, 278
+  orig: 419, 278
+  offset: 0, 0
+  index: -1
+Images/HitGround1/2
+  rotate: false
+  xy: 1504, 183
+  size: 419, 278
+  orig: 419, 278
+  offset: 0, 0
+  index: -1
+Images/HitGround2/1
+  rotate: true
+  xy: 1083, 463
+  size: 220, 945
+  orig: 220, 945
+  offset: 0, 0
+  index: -1
+Images/NewTX/1
+  rotate: false
+  xy: 2, 685
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/NewTX/2
+  rotate: false
+  xy: 757, 685
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/RollOnce/1
+  rotate: false
+  xy: 1512, 1584
+  size: 469, 462
+  orig: 469, 462
+  offset: 0, 0
+  index: -1
+Images/RollOnce/2
+  rotate: false
+  xy: 1512, 1120
+  size: 469, 462
+  orig: 469, 462
+  offset: 0, 0
+  index: -1
+Images/badao/badao1
+  rotate: false
+  xy: 1801, 933
+  size: 226, 86
+  orig: 226, 86
+  offset: 0, 0
+  index: -1
+Images/badao/badao10
+  rotate: true
+  xy: 1745, 3
+  size: 178, 146
+  orig: 178, 146
+  offset: 0, 0
+  index: -1
+Images/badao/badao11
+  rotate: true
+  xy: 1617, 691
+  size: 328, 182
+  orig: 328, 182
+  offset: 0, 0
+  index: -1
+Images/badao/badao13
+  rotate: false
+  xy: 521, 11
+  size: 316, 158
+  orig: 316, 158
+  offset: 0, 0
+  index: -1
+Images/badao/badao2
+  rotate: false
+  xy: 84, 11
+  size: 295, 106
+  orig: 295, 106
+  offset: 0, 0
+  index: -1
+Images/badao/badao5
+  rotate: false
+  xy: 1617, 1021
+  size: 364, 97
+  orig: 364, 97
+  offset: 0, 0
+  index: -1
+Images/badao/badao7
+  rotate: true
+  xy: 1512, 685
+  size: 423, 103
+  orig: 423, 103
+  offset: 0, 0
+  index: -1
+Images/badao/badao8
+  rotate: true
+  xy: 1983, 1626
+  size: 420, 63
+  orig: 420, 63
+  offset: 0, 0
+  index: -1
+Images/badao/badao9
+  rotate: false
+  xy: 1801, 785
+  size: 202, 146
+  orig: 202, 146
+  offset: 0, 0
+  index: -1
+Images/dafengche/14
+  rotate: true
+  xy: 1925, 186
+  size: 275, 121
+  orig: 275, 121
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/14
+  rotate: true
+  xy: 1925, 186
+  size: 275, 121
+  orig: 275, 121
+  offset: 0, 0
+  index: -1
+Images/dafengche/quan1
+  rotate: false
+  xy: 245, 171
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Images/shangtiao/quan1
+  rotate: false
+  xy: 245, 171
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Images/kanji/d2
+  rotate: true
+  xy: 2, 119
+  size: 564, 241
+  orig: 564, 241
+  offset: 0, 0
+  index: -1
+Images/kanji/feng1/0
+  rotate: false
+  xy: 947, 13
+  size: 105, 156
+  orig: 105, 156
+  offset: 0, 0
+  index: -1
+Images/kanji/feng1/1
+  rotate: false
+  xy: 839, 13
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1
+Images/kanji/feng1/2
+  rotate: true
+  xy: 1893, 89
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+Images/kanji/feng1/4
+  rotate: true
+  xy: 1893, 11
+  size: 76, 138
+  orig: 76, 138
+  offset: 0, 0
+  index: -1
+Images/kanji/fk2
+  rotate: false
+  xy: 1983, 1368
+  size: 60, 256
+  orig: 60, 256
+  offset: 0, 0
+  index: -1
+Images/kanji/g2
+  rotate: false
+  xy: 759, 171
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+Images/kanji/hot
+  rotate: true
+  xy: 1017, 179
+  size: 504, 64
+  orig: 504, 64
+  offset: 0, 0
+  index: -1
+Images/kanji/k1
+  rotate: true
+  xy: 245, 122
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+Images/shangtiao/h1
+  rotate: false
+  xy: 1983, 1042
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+Images/tuci/fk2
+  rotate: false
+  xy: 1983, 1110
+  size: 60, 256
+  orig: 60, 256
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/10
+  rotate: false
+  xy: 381, 2
+  size: 138, 167
+  orig: 138, 167
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/19
+  rotate: false
+  xy: 2, 10
+  size: 80, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/20
+  rotate: true
+  xy: 1896, 690
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/21
+  rotate: true
+  xy: 1801, 685
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/7
+  rotate: false
+  xy: 1054, 4
+  size: 256, 173
+  orig: 256, 173
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/8
+  rotate: false
+  xy: 1312, 3
+  size: 225, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/9
+  rotate: false
+  xy: 1539, 3
+  size: 204, 178
+  orig: 204, 178
+  offset: 0, 0
+  index: -1
+
+NewPlayerTestEffect2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/AirCombo/1
+  rotate: false
+  xy: 949, 272
+  size: 373, 388
+  orig: 373, 388
+  offset: 0, 0
+  index: -1
+Images/HitGround2/2
+  rotate: false
+  xy: 1512, 1098
+  size: 220, 945
+  orig: 220, 945
+  offset: 0, 0
+  index: -1
+Images/HitGround2/3
+  rotate: true
+  xy: 2, 440
+  size: 220, 945
+  orig: 220, 945
+  offset: 0, 0
+  index: -1
+Images/HitGround2/4
+  rotate: false
+  xy: 1734, 1098
+  size: 220, 945
+  orig: 220, 945
+  offset: 0, 0
+  index: -1
+Images/NewTX/3
+  rotate: false
+  xy: 2, 682
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/NewTX/4
+  rotate: false
+  xy: 757, 682
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/RollOnce/3
+  rotate: false
+  xy: 1512, 634
+  size: 469, 462
+  orig: 469, 462
+  offset: 0, 0
+  index: -1
+Images/badao/badao3
+  rotate: false
+  xy: 1266, 40
+  size: 387, 124
+  orig: 387, 124
+  offset: 0, 0
+  index: -1
+Images/badao/badao4
+  rotate: false
+  xy: 2, 15
+  size: 368, 91
+  orig: 368, 91
+  offset: 0, 0
+  index: -1
+Images/badao/badao6
+  rotate: true
+  xy: 1956, 1687
+  size: 356, 87
+  orig: 356, 87
+  offset: 0, 0
+  index: -1
+Images/dafengche/13
+  rotate: false
+  xy: 1655, 34
+  size: 284, 130
+  orig: 284, 130
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/13
+  rotate: false
+  xy: 1655, 34
+  size: 284, 130
+  orig: 284, 130
+  offset: 0, 0
+  index: -1
+Images/kanji/d1
+  rotate: false
+  xy: 911, 26
+  size: 353, 244
+  orig: 353, 244
+  offset: 0, 0
+  index: -1
+Images/kanji/d3
+  rotate: false
+  xy: 2, 108
+  size: 753, 198
+  orig: 753, 198
+  offset: 0, 0
+  index: -1
+Images/kanji/d4
+  rotate: false
+  xy: 2, 308
+  size: 918, 130
+  orig: 918, 130
+  offset: 0, 0
+  index: -1
+Images/kanji/feixing4
+  rotate: true
+  xy: 372, 74
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+Images/kanji/feng1/3
+  rotate: false
+  xy: 1941, 20
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+Images/shangtiao/dao1
+  rotate: true
+  xy: 1324, 166
+  size: 466, 691
+  orig: 466, 691
+  offset: 0, 0
+  index: -1
+Images/shangtiao/feixing4
+  rotate: false
+  xy: 1956, 1171
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+Images/tuci/Tail
+  rotate: false
+  xy: 2, 662
+  size: 1153, 18
+  orig: 1153, 18
+  offset: 0, 0
+  index: -1
+Images/tuci/fk1
+  rotate: false
+  xy: 1956, 1429
+  size: 75, 256
+  orig: 75, 256
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/22
+  rotate: false
+  xy: 630, 14
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/6
+  rotate: true
+  xy: 757, 31
+  size: 275, 152
+  orig: 275, 152
+  offset: 0, 0
+  index: -1
+
+NewPlayerTestEffect3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/AirCombo/2
+  rotate: false
+  xy: 1512, 963
+  size: 373, 388
+  orig: 373, 388
+  offset: 0, 0
+  index: -1
+Images/AirCombo/3
+  rotate: false
+  xy: 1166, 293
+  size: 373, 388
+  orig: 373, 388
+  offset: 0, 0
+  index: -1
+Images/AirCombo/4
+  rotate: false
+  xy: 1541, 315
+  size: 373, 388
+  orig: 373, 388
+  offset: 0, 0
+  index: -1
+Images/NewTX/5
+  rotate: false
+  xy: 2, 683
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/NewTX/6
+  rotate: false
+  xy: 757, 683
+  size: 753, 1361
+  orig: 753, 1361
+  offset: 0, 0
+  index: -1
+Images/RollOnce/4
+  rotate: false
+  xy: 695, 219
+  size: 469, 462
+  orig: 469, 462
+  offset: 0, 0
+  index: -1
+Images/dafengche/15
+  rotate: false
+  xy: 2, 87
+  size: 261, 126
+  orig: 261, 126
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/15
+  rotate: false
+  xy: 2, 87
+  size: 261, 126
+  orig: 261, 126
+  offset: 0, 0
+  index: -1
+Images/dafengche/16
+  rotate: false
+  xy: 265, 86
+  size: 260, 127
+  orig: 260, 127
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/16
+  rotate: false
+  xy: 265, 86
+  size: 260, 127
+  orig: 260, 127
+  offset: 0, 0
+  index: -1
+Images/dafengche/quan2
+  rotate: false
+  xy: 1770, 705
+  size: 251, 256
+  orig: 251, 256
+  offset: 0, 0
+  index: -1
+Images/dafengche/quan3
+  rotate: false
+  xy: 1512, 705
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Images/dafengche/quan4
+  rotate: false
+  xy: 1166, 35
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Images/dafengche/quan5
+  rotate: false
+  xy: 1424, 35
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Images/shangtiao/dao2
+  rotate: true
+  xy: 2, 215
+  size: 466, 691
+  orig: 466, 691
+  offset: 0, 0
+  index: -1
+Images/shangtiao/dao3
+  rotate: false
+  xy: 1512, 1353
+  size: 466, 691
+  orig: 466, 691
+  offset: 0, 0
+  index: -1
+Images/shangtiao/dao4
+  rotate: false
+  xy: 1512, 1353
+  size: 466, 691
+  orig: 466, 691
+  offset: 0, 0
+  index: -1
+Images/shangtiao/jianG
+  rotate: false
+  xy: 1887, 965
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+Images/shangtiao/line1
+  rotate: false
+  xy: 1916, 447
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Images/shangtiao/xi
+  rotate: false
+  xy: 1916, 317
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Images/tuci/daoshen2
+  rotate: false
+  xy: 1887, 1095
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Images/zhongji1/dao/18
+  rotate: true
+  xy: 2, 11
+  size: 74, 142
+  orig: 74, 142
+  offset: 0, 0
+  index: -1
+
+NewPlayerTestEffect4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/AirCombo/5
+  rotate: false
+  xy: 2, 2
+  size: 373, 388
+  orig: 373, 388
+  offset: 0, 0
+  index: -1

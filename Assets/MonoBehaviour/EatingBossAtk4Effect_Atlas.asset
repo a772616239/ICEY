@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dbaac2d8f4f22431324391cffb065f, type: 3}
+  m_Name: "EatingBossAtk4Effect_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 5169625ac1da4cd3a8fac546294b7eed, type: 3}
+  materials:
+  - {fileID: 2100000, guid: c3ad79906b0f4ff2b7df7d05d99b5e05, type: 2}
+  - {fileID: 2100000, guid: ff94f17ae892460f8372d031d4473394, type: 2}

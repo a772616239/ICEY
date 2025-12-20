@@ -1,0 +1,7 @@
+{
+	"DaoAtk1":"DaoAtk1",
+	"DaoAtk2":"DaoAtk2",
+	"DaoAtk3":"DaoAtk3",
+	"DaoAtk4":"DaoAtk4",
+	"DaoAtk5":"DaoAtk5"
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5dbaac2d8f4f22431324391cffb065f, type: 3}
+  m_Name: "NewPlayerTestEffect_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 77614222262b416fb97773d174ebba4d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 5ce303c63bdf42e393d589042abe9056, type: 2}
+  - {fileID: 2100000, guid: 9b0a17fa8fa044fe8a3712ab8eb268db, type: 2}
+  - {fileID: 2100000, guid: 3ad4a67d8823458086615bad9d98bd11, type: 2}
+  - {fileID: 2100000, guid: 611e8e0d469940f5bcd8b5a05b1d8139, type: 2}

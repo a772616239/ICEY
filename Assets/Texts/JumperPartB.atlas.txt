@@ -1,0 +1,55 @@
+
+JumperPartB.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Atk1/1
+  rotate: true
+  xy: 455, 390
+  size: 114, 24
+  orig: 114, 24
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 2, 16
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+LforeamIdle
+  rotate: false
+  xy: 2, 252
+  size: 278, 123
+  orig: 278, 123
+  offset: 0, 0
+  index: -1
+LforeamReady
+  rotate: true
+  xy: 219, 2
+  size: 248, 125
+  orig: 248, 125
+  offset: 0, 0
+  index: -1
+LforearmFlash
+  rotate: false
+  xy: 2, 377
+  size: 293, 127
+  orig: 293, 127
+  offset: 0, 0
+  index: -1
+LhandATKing
+  rotate: false
+  xy: 2, 90
+  size: 215, 160
+  orig: 215, 160
+  offset: 0, 0
+  index: -1
+LhandATKready
+  rotate: false
+  xy: 297, 355
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1

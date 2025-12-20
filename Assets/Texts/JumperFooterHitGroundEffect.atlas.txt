@@ -1,0 +1,27 @@
+
+JumperFooterHitGroundEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/Atk2/JumperHitGroundEffect1
+  rotate: false
+  xy: 2, 2
+  size: 409, 415
+  orig: 409, 415
+  offset: 0, 0
+  index: -1
+Effect/Atk2/JumperHitGroundEffect2
+  rotate: false
+  xy: 421, 428
+  size: 404, 408
+  orig: 404, 408
+  offset: 0, 0
+  index: -1
+Effect/Atk2/JumperHitGroundEffect3
+  rotate: false
+  xy: 2, 419
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ccb0a0ef8f1442e8b6af269ec3eab2bd
+timeCreated: 1621819839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300004: forestRoad__0012_ffar_tree2
+    21300000: middle_dachui
+    21300010: LeftMountain
+    21300008: forestRoad_0001s_0001_middle_ground
+    21300006: forestRoad__0005_nfar
+    21300002: forestRoad_0001s_0000_middle_grass
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestRoad__0012_ffar_tree2
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 373
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.5, y: 315}
+        - {x: 186.5, y: 315}
+        - {x: -186.5, y: -315}
+      - - {x: -186.5, y: -315}
+        - {x: 186.5, y: 315}
+        - {x: 186.5, y: -315}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: middle_dachui
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1085
+        height: 880
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -542.5, y: 440}
+        - {x: 542.5, y: 440}
+        - {x: -542.5, y: -440}
+      - - {x: -542.5, y: -440}
+        - {x: 542.5, y: 440}
+        - {x: 542.5, y: -440}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftMountain
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 501
+        height: 477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 238.5}
+        - {x: 250.5, y: 238.5}
+        - {x: -250.5, y: -238.5}
+      - - {x: -250.5, y: -238.5}
+        - {x: 250.5, y: 238.5}
+        - {x: 250.5, y: -238.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad_0001s_0001_middle_ground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 1715
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -857.5, y: 261}
+        - {x: 857.5, y: 261}
+        - {x: -857.5, y: -261}
+      - - {x: -857.5, y: -261}
+        - {x: 857.5, y: 261}
+        - {x: 857.5, y: -261}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad__0005_nfar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1628
+        width: 1208
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -604, y: 51}
+        - {x: 604, y: 51}
+        - {x: -604, y: -51}
+      - - {x: -604, y: -51}
+        - {x: 604, y: 51}
+        - {x: 604, y: -51}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: forestRoad_0001s_0000_middle_grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 1818
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -909, y: 110}
+        - {x: 909, y: 110}
+        - {x: -909, y: -110}
+      - - {x: -909, y: -110}
+        - {x: 909, y: 110}
+        - {x: 909, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+
+SpiderPart2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2down
+  rotate: false
+  xy: 2, 49
+  size: 55, 146
+  orig: 55, 146
+  offset: 0, 0
+  index: -1
+2up
+  rotate: false
+  xy: 2, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+3down
+  rotate: false
+  xy: 59, 51
+  size: 37, 144
+  orig: 37, 144
+  offset: 0, 0
+  index: -1
+3up
+  rotate: false
+  xy: 98, 155
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

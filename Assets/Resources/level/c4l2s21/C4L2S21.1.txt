@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":6.0,"enemyQueueArea":{"xMin":0.0,"xMax":1.0,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_RiderGun","position":{"x":25.310001373291,"y":1.21000003814697},"guid":"1-0"},{"name":"Enemy_Rider","position":{"x":37.5200004577637,"y":1.37999999523163},"guid":"1-1"}]}

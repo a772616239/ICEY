@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":0.5,"enemyQueueArea":{"xMin":0.0,"xMax":0.0,"yMin":0.0,"yMax":0.0},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_DaoBrother","position":{"x":15.1400012969971,"y":0.140000104904175},"guid":"0-0"},{"name":"Enemy_DaoBrother","position":{"x":21.7700004577637,"y":0.059999942779541},"guid":"0-1"}]}

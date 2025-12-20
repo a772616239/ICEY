@@ -1,0 +1,125 @@
+
+JackBossEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirRollEffect/1
+  rotate: false
+  xy: 436, 207
+  size: 308, 391
+  orig: 308, 391
+  offset: 0, 0
+  index: -1
+RollEffect1/1
+  rotate: false
+  xy: 436, 207
+  size: 308, 391
+  orig: 308, 391
+  offset: 0, 0
+  index: -1
+AirRollEffect/4
+  rotate: false
+  xy: 746, 234
+  size: 232, 374
+  orig: 232, 374
+  offset: 0, 0
+  index: -1
+RollEffect1/2
+  rotate: false
+  xy: 746, 234
+  size: 232, 374
+  orig: 232, 374
+  offset: 0, 0
+  index: -1
+AtkEffect/1
+  rotate: false
+  xy: 2, 179
+  size: 432, 419
+  orig: 432, 419
+  offset: 0, 0
+  index: -1
+AtkEffect/3
+  rotate: false
+  xy: 2, 1308
+  size: 741, 706
+  orig: 741, 706
+  offset: 0, 0
+  index: -1
+AtkEffect/4
+  rotate: false
+  xy: 2, 600
+  size: 741, 706
+  orig: 741, 706
+  offset: 0, 0
+  index: -1
+AtkEffect/5
+  rotate: false
+  xy: 745, 1308
+  size: 741, 706
+  orig: 741, 706
+  offset: 0, 0
+  index: -1
+UpAtkEffect/1
+  rotate: false
+  xy: 745, 610
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/2
+  rotate: false
+  xy: 1488, 1318
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/3
+  rotate: false
+  xy: 877, 610
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/4
+  rotate: false
+  xy: 1620, 1318
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/5
+  rotate: false
+  xy: 1009, 610
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/6
+  rotate: false
+  xy: 1752, 1318
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/7
+  rotate: false
+  xy: 1141, 610
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/8
+  rotate: false
+  xy: 1884, 1318
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1
+UpAtkEffect/9
+  rotate: false
+  xy: 1273, 610
+  size: 130, 696
+  orig: 130, 696
+  offset: 0, 0
+  index: -1

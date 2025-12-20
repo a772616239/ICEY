@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae9c7feab1b816f9032981b5a0d17d5, type: 3}
+  m_Name: "Sewer__0002_middle_robort1_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 616fe883306748fab8d8f53c878f4d7e, type: 2}
+  skeletonJSON: {fileID: 4900000, guid: 540f86eb4e3e44a19266ac0815ab6910, type: 3}
+  scale: 0.01
+  fromAnimation: []
+  toAnimation: []
+  duration: 
+  defaultMix: 0.2
+  controller: {fileID: 0}

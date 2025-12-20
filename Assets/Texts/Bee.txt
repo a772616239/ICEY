@@ -1,0 +1,7 @@
+{
+    "Atk3Ready":"Atk2Ready",
+    "Atk3_1":"Atk2",
+    "Atk3_2":"Atk2",
+    "Atk3_3":"Atk2",
+    "Atk3End":"Atk2End"
+}

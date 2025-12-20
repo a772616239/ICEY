@@ -1,0 +1,48 @@
+
+DaoBrotherAndPaoSisterPartB.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Type2/LFoot
+  rotate: false
+  xy: 2, 5
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Type2/LFootArmor
+  rotate: false
+  xy: 84, 48
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Type2/LForeToe
+  rotate: false
+  xy: 57, 48
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Type2/LToe
+  rotate: false
+  xy: 2, 27
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Type2/Lleg
+  rotate: false
+  xy: 2, 52
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+Type2/Lthigh
+  rotate: false
+  xy: 57, 72
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1

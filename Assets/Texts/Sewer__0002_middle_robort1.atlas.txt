@@ -1,0 +1,13 @@
+
+Sewer__0002_middle_robort1.png
+size: 256,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sewer__0002_middle_robort1
+  rotate: false
+  xy: 2, 2
+  size: 195, 1297
+  orig: 195, 1297
+  offset: 0, 0
+  index: -1

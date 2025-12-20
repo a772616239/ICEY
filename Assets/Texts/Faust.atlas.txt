@@ -1,0 +1,237 @@
+
+Faust.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CallLArm1
+  rotate: true
+  xy: 337, 459
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+CallLArm2
+  rotate: true
+  xy: 428, 464
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+CallLArm2Item
+  rotate: false
+  xy: 95, 254
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+CallLArmComEffect1
+  rotate: false
+  xy: 38, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+CallLArmComEffect2
+  rotate: false
+  xy: 245, 342
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+CallLBodyLower
+  rotate: false
+  xy: 2, 320
+  size: 127, 190
+  orig: 127, 190
+  offset: 0, 0
+  index: -1
+CallLBodyUpper
+  rotate: false
+  xy: 166, 349
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+CallLHead
+  rotate: false
+  xy: 356, 427
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+CallLHeadLight
+  rotate: false
+  xy: 143, 179
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+CallRArm1
+  rotate: true
+  xy: 95, 192
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+CallRArm2
+  rotate: false
+  xy: 245, 404
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+CallRArm2Item
+  rotate: false
+  xy: 109, 76
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+CallRArmComEffect1
+  rotate: true
+  xy: 326, 403
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+CallRArmComEffect2
+  rotate: false
+  xy: 218, 346
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IdleArm1
+  rotate: true
+  xy: 242, 462
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+IdleBackpack
+  rotate: false
+  xy: 326, 424
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IdleBodyLower
+  rotate: false
+  xy: 2, 136
+  size: 91, 182
+  orig: 91, 182
+  offset: 0, 0
+  index: -1
+IdleBodyLowerF
+  rotate: false
+  xy: 131, 336
+  size: 33, 174
+  orig: 33, 174
+  offset: 0, 0
+  index: -1
+IdleBodyLowerItem1
+  rotate: true
+  xy: 386, 440
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+IdleBodyLowerItem2
+  rotate: true
+  xy: 62, 6
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+IdleBodyUpper
+  rotate: false
+  xy: 2, 30
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+IdleBook
+  rotate: false
+  xy: 72, 30
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+IdleHead
+  rotate: true
+  xy: 2, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IdleHeadLight
+  rotate: true
+  xy: 496, 498
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IdleLArm2
+  rotate: false
+  xy: 286, 406
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+IdleLArm2Item
+  rotate: false
+  xy: 72, 70
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+IdleLArmComEffect1
+  rotate: false
+  xy: 245, 365
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IdleLArmComEffect2
+  rotate: false
+  xy: 112, 44
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+IdleRArm1
+  rotate: false
+  xy: 166, 442
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+IdleRArm2
+  rotate: false
+  xy: 95, 138
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+IdleRArm2Item
+  rotate: false
+  xy: 218, 368
+  size: 25, 72
+  orig: 25, 72
+  offset: 0, 0
+  index: -1
+IdleRArmComEffect1
+  rotate: true
+  xy: 112, 26
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IdleRArmComEffect2
+  rotate: true
+  xy: 131, 321
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1

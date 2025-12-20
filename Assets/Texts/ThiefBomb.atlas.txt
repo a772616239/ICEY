@@ -1,0 +1,118 @@
+
+ThiefBomb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 2, 244
+  size: 236, 227
+  orig: 236, 227
+  offset: 0, 0
+  index: -1
+BodyUpperBreak
+  rotate: false
+  xy: 135, 208
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Bodylower
+  rotate: false
+  xy: 240, 351
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+Bodyupper
+  rotate: false
+  xy: 2, 120
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 78, 75
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+HeadLight
+  rotate: false
+  xy: 212, 225
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+LForeArmLight
+  rotate: false
+  xy: 2, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 240, 306
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Lfoream
+  rotate: false
+  xy: 240, 415
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: false
+  xy: 309, 432
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Lthigh
+  rotate: false
+  xy: 269, 372
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+RForeArmLight
+  rotate: false
+  xy: 309, 416
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 356, 446
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Rfoream
+  rotate: false
+  xy: 2, 75
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 2, 16
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+Rthigh
+  rotate: false
+  xy: 135, 176
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1

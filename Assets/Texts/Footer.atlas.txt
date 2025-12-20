@@ -1,0 +1,132 @@
+
+Footer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Core
+  rotate: false
+  xy: 222, 125
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+CoreLight
+  rotate: false
+  xy: 460, 290
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+LArmor
+  rotate: false
+  xy: 330, 51
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+LFootFlash
+  rotate: false
+  xy: 2, 215
+  size: 179, 294
+  orig: 179, 294
+  offset: 0, 0
+  index: -1
+LFootForeLight
+  rotate: false
+  xy: 70, 31
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+RFootForeToeLight
+  rotate: false
+  xy: 70, 31
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+LFootForeToe
+  rotate: false
+  xy: 222, 64
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+LFootToe
+  rotate: false
+  xy: 2, 4
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 358, 250
+  size: 100, 259
+  orig: 100, 259
+  offset: 0, 0
+  index: -1
+LLegLight
+  rotate: true
+  xy: 460, 337
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+LThigh
+  rotate: true
+  xy: 358, 118
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+RArmor
+  rotate: false
+  xy: 431, 119
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+RFootFlash
+  rotate: false
+  xy: 183, 216
+  size: 173, 293
+  orig: 173, 293
+  offset: 0, 0
+  index: -1
+RFootForeToe
+  rotate: false
+  xy: 358, 189
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+RFootToe
+  rotate: true
+  xy: 460, 443
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 2, 51
+  size: 162, 218
+  orig: 162, 218
+  offset: 0, 0
+  index: -1
+RLegLight
+  rotate: true
+  xy: 460, 390
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+RThigh
+  rotate: false
+  xy: 311, 132
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1

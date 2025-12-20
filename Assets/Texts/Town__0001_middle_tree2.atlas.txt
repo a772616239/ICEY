@@ -1,0 +1,13 @@
+
+Town__0001_middle_tree2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tree7/Town__0001_middle_tree2
+  rotate: false
+  xy: 2, 2
+  size: 747, 1057
+  orig: 747, 1057
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae9c7feab1b816f9032981b5a0d17d5, type: 3}
+  m_Name: "Jumper_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 6c150dec55bd428bb0cc66cd5e31e407, type: 2}
+  skeletonJSON: {fileID: 4900000, guid: e89a68696bda421c81ce4179de8d6f5f, type: 3}
+  scale: 0.01
+  fromAnimation:
+  - "Move"
+  - "Ready"
+  - "Atk1"
+  - "Hit1"
+  - "Hit2"
+  - "GetUp"
+  - "Move"
+  - "Move"
+  - "Move"
+  - "Move"
+  - "Move"
+  - "Ready"
+  - "FlyToFall"
+  - "HitToFly2"
+  toAnimation:
+  - "Ready"
+  - "Atk1"
+  - "Ready"
+  - "Atk1"
+  - "Atk1"
+  - "Atk1"
+  - "Atk1"
+  - "Atk2"
+  - "Atk3"
+  - "Atk4"
+  - "Atk1"
+  - "Atk4"
+  - "HitToFly2"
+  - "FlyToFall"
+  duration: 
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.5
+  - 0.5
+  defaultMix: 0
+  controller: {fileID: 0}

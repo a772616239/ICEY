@@ -1,0 +1,139 @@
+
+SpiderBoss.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1down
+  rotate: false
+  xy: 342, 807
+  size: 147, 212
+  orig: 147, 212
+  offset: 0, 0
+  index: -1
+1up
+  rotate: false
+  xy: 620, 944
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+2down
+  rotate: false
+  xy: 342, 593
+  size: 147, 212
+  orig: 147, 212
+  offset: 0, 0
+  index: -1
+2up
+  rotate: false
+  xy: 342, 422
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+3down
+  rotate: false
+  xy: 491, 808
+  size: 127, 211
+  orig: 127, 211
+  offset: 0, 0
+  index: -1
+3up
+  rotate: false
+  xy: 491, 668
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+AtkEffect/1
+  rotate: false
+  xy: 2, 536
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+AtkEffect/2
+  rotate: false
+  xy: 2, 51
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+AtkEffect/3
+  rotate: false
+  xy: 172, 536
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+AtkEffect/4
+  rotate: false
+  xy: 172, 51
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 342, 499
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+HeadItemInnerB
+  rotate: false
+  xy: 342, 375
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+HeadItemInnerF
+  rotate: false
+  xy: 491, 621
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+HeadItemOuterB1
+  rotate: false
+  xy: 436, 545
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+HeadItemOuterB2
+  rotate: false
+  xy: 620, 902
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+HeadItemOuterF1
+  rotate: false
+  xy: 586, 760
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+HeadItemOuterF2
+  rotate: false
+  xy: 703, 979
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+HeadLight
+  rotate: false
+  xy: 491, 737
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+core
+  rotate: false
+  xy: 2, 2
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1

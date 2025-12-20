@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":0.5,"enemyQueueArea":{"xMin":1.18999862670898,"xMax":2.18999862670898,"yMin":0.940000057220459,"yMax":1.94000005722046},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_Jumper","position":{"x":5.88000106811523,"y":0.349999904632568},"guid":"1-0"}]}

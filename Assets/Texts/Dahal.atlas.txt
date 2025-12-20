@@ -1,0 +1,321 @@
+
+Dahal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyLower
+  rotate: false
+  xy: 592, 344
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+BodyUpperInner
+  rotate: true
+  xy: 862, 725
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+BodyUpperLight
+  rotate: true
+  xy: 257, 425
+  size: 107, 121
+  orig: 107, 121
+  offset: 0, 0
+  index: -1
+BodyUpperOuter
+  rotate: false
+  xy: 363, 222
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+CricleOButtom
+  rotate: false
+  xy: 2, 727
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+CricleOLight
+  rotate: false
+  xy: 2, 472
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 976, 846
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+LBlade
+  rotate: false
+  xy: 862, 809
+  size: 112, 213
+  orig: 112, 213
+  offset: 0, 0
+  index: -1
+LBladeLight
+  rotate: false
+  xy: 659, 344
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+LFoot
+  rotate: false
+  xy: 299, 762
+  size: 164, 260
+  orig: 164, 260
+  offset: 0, 0
+  index: -1
+LFootItem
+  rotate: false
+  xy: 2, 2
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+LFootLight
+  rotate: false
+  xy: 378, 575
+  size: 86, 185
+  orig: 86, 185
+  offset: 0, 0
+  index: -1
+LFootRed
+  rotate: false
+  xy: 2, 210
+  size: 164, 260
+  orig: 164, 260
+  offset: 0, 0
+  index: -1
+LForeArmArmor
+  rotate: false
+  xy: 566, 427
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+LForeArmArmorLight
+  rotate: true
+  xy: 643, 530
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+LForeArmRed
+  rotate: false
+  xy: 466, 603
+  size: 125, 166
+  orig: 125, 166
+  offset: 0, 0
+  index: -1
+LGun
+  rotate: true
+  xy: 250, 206
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+LGunRed
+  rotate: true
+  xy: 720, 519
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+LOGO
+  rotate: false
+  xy: 720, 749
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+LThigh
+  rotate: false
+  xy: 756, 420
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1
+LThighArmor
+  rotate: false
+  xy: 517, 340
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+LThighArmorLight
+  rotate: true
+  xy: 459, 430
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+Larm
+  rotate: false
+  xy: 833, 547
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: false
+  xy: 593, 603
+  size: 125, 166
+  orig: 125, 166
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: false
+  xy: 722, 359
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+LshoulderLight
+  rotate: false
+  xy: 299, 727
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Missile
+  rotate: false
+  xy: 789, 369
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+RBlade
+  rotate: false
+  xy: 257, 534
+  size: 119, 191
+  orig: 119, 191
+  offset: 0, 0
+  index: -1
+RFoot
+  rotate: false
+  xy: 465, 771
+  size: 147, 251
+  orig: 147, 251
+  offset: 0, 0
+  index: -1
+RFootItem
+  rotate: false
+  xy: 70, 5
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+RFootLight
+  rotate: true
+  xy: 466, 525
+  size: 76, 175
+  orig: 76, 175
+  offset: 0, 0
+  index: -1
+RFootRed
+  rotate: false
+  xy: 614, 771
+  size: 147, 251
+  orig: 147, 251
+  offset: 0, 0
+  index: -1
+RForeArmArmor
+  rotate: false
+  xy: 664, 427
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+RForeArmRed
+  rotate: true
+  xy: 720, 598
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+RGun
+  rotate: false
+  xy: 439, 332
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+RGunRed
+  rotate: false
+  xy: 380, 462
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+RThigh
+  rotate: false
+  xy: 361, 320
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 380, 434
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Rforearm
+  rotate: false
+  xy: 871, 573
+  size: 125, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+RingButtom
+  rotate: false
+  xy: 763, 724
+  size: 97, 298
+  orig: 97, 298
+  offset: 0, 0
+  index: -1
+RingLight
+  rotate: false
+  xy: 168, 214
+  size: 80, 256
+  orig: 80, 256
+  offset: 0, 0
+  index: -1
+RollBody
+  rotate: false
+  xy: 250, 285
+  size: 109, 138
+  orig: 109, 138
+  offset: 0, 0
+  index: -1
+RollEffect
+  rotate: false
+  xy: 2, 47
+  size: 155, 161
+  orig: 155, 161
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: true
+  xy: 976, 896
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Shooter
+  rotate: false
+  xy: 976, 936
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"PointId":0,"TriggerSize":{"x":1.0,"y":1.0},"TriggerOffset":{"x":16.1100006103516,"y":8.59000015258789},"isTriggerOnXAxis":false,"Rate":1.0,"HasWall":true,"canMultiTrigger":false,"DelayTime":0.5,"LeftWall":{"x":-14.539999961853,"y":0.0,"z":9.99999974737875E-05},"RightWall":{"x":21.6399993896484,"y":0.0,"z":9.99999974737875E-05},"HasStory":false,"StoryId":[]}

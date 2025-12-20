@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":8.0,"enemyQueueArea":{"xMin":0.0,"xMax":1.0,"yMin":0.0,"yMax":1.0},"EnemyType":[]},"enemyJsonObject":[{"name":"Enemy_BombKillerII","position":{"x":-18.2099990844727,"y":34.9700012207031},"guid":"0-0"},{"name":"Enemy_BombKillerII","position":{"x":-4.47999954223633,"y":20.9899997711182},"guid":"0-1"}]}

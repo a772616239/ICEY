@@ -1,0 +1,7 @@
+{
+  "HitFall": "Fall",
+  "AirDie": "HitToFly2",
+  "AirDieFlyToFall": "FlyToFall",
+  "AirDieFall": "Fall",
+  "AirDieHitGround": "HitGround"
+}

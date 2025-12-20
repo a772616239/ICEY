@@ -1,0 +1,5 @@
+{
+	"Angry":{"isOpen":false},
+	"Atk2":{"isOpen":false},
+	"Atk6":{"isOpen":false}
+}

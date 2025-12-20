@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":0,"Random":false,"Limited":true,"DelayTime":0.5,"enemyQueueArea":{"xMin":23.6800003051758,"xMax":41.6800003051758,"yMin":1.25,"yMax":2.25},"EnemyType":[]},"enemyJsonObject":[{"name":"Spider","position":{"x":19.8999996185303,"y":0.389999985694885},"guid":"0-0"}]}

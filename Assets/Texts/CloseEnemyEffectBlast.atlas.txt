@@ -1,0 +1,41 @@
+
+CloseEnemyEffectBlast.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cube1
+  rotate: false
+  xy: 2, 878
+  size: 237, 84
+  orig: 237, 84
+  offset: 0, 0
+  index: -1
+Cube2
+  rotate: false
+  xy: 392, 1103
+  size: 181, 79
+  orig: 181, 79
+  offset: 0, 0
+  index: -1
+Cube3
+  rotate: false
+  xy: 2, 964
+  size: 388, 218
+  orig: 388, 218
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 1525, 1634
+  size: 291, 182
+  orig: 291, 182
+  offset: 0, 0
+  index: -1
+LightBG
+  rotate: false
+  xy: 2, 1184
+  size: 1521, 632
+  orig: 1521, 632
+  offset: 0, 0
+  index: -1

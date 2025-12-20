@@ -1,0 +1,55 @@
+
+ClonePlayer.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bubble1
+  rotate: true
+  xy: 128, 4
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+Bubble2
+  rotate: true
+  xy: 2, 2
+  size: 41, 124
+  orig: 41, 124
+  offset: 0, 0
+  index: -1
+Bubble3
+  rotate: true
+  xy: 2, 90
+  size: 48, 157
+  orig: 48, 157
+  offset: 0, 0
+  index: -1
+Bubble4
+  rotate: true
+  xy: 2, 45
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+Lab1_0000_near_light
+  rotate: true
+  xy: 817, 171
+  size: 842, 809
+  orig: 842, 809
+  offset: 0, 0
+  index: -1
+Lab1_0001_near_body
+  rotate: false
+  xy: 1628, 336
+  size: 406, 677
+  orig: 406, 677
+  offset: 0, 0
+  index: -1
+Lab1__0000_near_2
+  rotate: true
+  xy: 2, 140
+  size: 873, 813
+  orig: 873, 813
+  offset: 0, 0
+  index: -1

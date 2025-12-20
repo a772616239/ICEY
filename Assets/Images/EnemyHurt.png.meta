@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 0ee2e78f597a4cdaa8e5277adb5c3017
+timeCreated: 1621819490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyHurt_01
+    21300006: EnemyHurt_04
+    21300008: EnemyHurt_05
+    21300010: EnemyHurt_06
+    21300004: EnemyHurt_03
+    21300002: EnemyHurt_02
+    21300012: EnemyHurt_07
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyHurt_01
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 344
+        width: 366
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4153005, y: 0.3823529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -183, y: 170}
+        - {x: 183, y: 170}
+        - {x: -183, y: -170}
+      - - {x: -183, y: -170}
+        - {x: 183, y: 170}
+        - {x: 183, y: -170}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 372
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5645161, y: 0.5428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186, y: 175}
+        - {x: 186, y: 175}
+        - {x: -186, y: -175}
+      - - {x: -186, y: -175}
+        - {x: 186, y: 175}
+        - {x: 186, y: -175}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_05
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 358
+        height: 344
+      alignment: 9
+      pivot: {x: 0.603352, y: 0.5755814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179, y: 172}
+        - {x: 179, y: 172}
+        - {x: -179, y: -172}
+      - - {x: -179, y: -172}
+        - {x: 179, y: 172}
+        - {x: 179, y: -172}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 310
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5419355, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155, y: 146}
+        - {x: 155, y: 146}
+        - {x: -155, y: -146}
+      - - {x: -155, y: -146}
+        - {x: 155, y: 146}
+        - {x: 155, y: -146}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 372
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5188172, y: 0.4601064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186, y: 188}
+        - {x: 186, y: 188}
+        - {x: -186, y: -188}
+      - - {x: -186, y: -188}
+        - {x: 186, y: 188}
+        - {x: 186, y: -188}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_02
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 684
+        width: 366
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4535519, y: 0.4264706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -183, y: 170}
+        - {x: 183, y: 170}
+        - {x: -183, y: -170}
+      - - {x: -183, y: -170}
+        - {x: 183, y: 170}
+        - {x: 183, y: -170}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyHurt_07
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 16
+        width: 298
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5302013, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149, y: 141}
+        - {x: 149, y: 141}
+        - {x: -149, y: -141}
+      - - {x: -149, y: -141}
+        - {x: 149, y: 141}
+        - {x: 149, y: -141}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

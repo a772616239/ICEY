@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 6a0e1a01d7db4818b600e9ce72520342
+timeCreated: 1621819749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300004: RCon
+    21300012: NoUseIcon
+    21300008: RConBreak1
+    21300006: RBGCon
+    21300010: Bcon
+    21300002: CrossIcon
+    21300000: RConBreak3
+    21300014: RConBreak2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RCon
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 440
+        width: 227
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: 77}
+        - {x: 113.5, y: 77}
+        - {x: -113.5, y: -77}
+      - - {x: -113.5, y: -77}
+        - {x: 113.5, y: 77}
+        - {x: 113.5, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NoUseIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 273
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: 136.5}
+        - {x: 136.5, y: 136.5}
+        - {x: -136.5, y: -136.5}
+      - - {x: -136.5, y: -136.5}
+        - {x: 136.5, y: 136.5}
+        - {x: 136.5, y: -136.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RConBreak1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 440
+        width: 318
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159, y: 98.5}
+        - {x: 159, y: 98.5}
+        - {x: -159, y: -98.5}
+      - - {x: -159, y: -98.5}
+        - {x: 159, y: 98.5}
+        - {x: 159, y: -98.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RBGCon
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 222
+        width: 326
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163, y: 108}
+        - {x: 163, y: 108}
+        - {x: -163, y: -108}
+      - - {x: -163, y: -108}
+        - {x: 163, y: 108}
+        - {x: 163, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 332
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166, y: 110}
+        - {x: 166, y: 110}
+        - {x: -166, y: -110}
+      - - {x: -166, y: -110}
+        - {x: 166, y: 110}
+        - {x: 166, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CrossIcon
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 270
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135, y: 136}
+        - {x: 135, y: 136}
+        - {x: -135, y: -136}
+      - - {x: -135, y: -136}
+        - {x: 135, y: 136}
+        - {x: 135, y: -136}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RConBreak3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 332
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -166, y: 110}
+        - {x: 166, y: 110}
+        - {x: -166, y: -110}
+      - - {x: -166, y: -110}
+        - {x: 166, y: 110}
+        - {x: 166, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RConBreak2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 324
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: 100.5}
+        - {x: 162, y: 100.5}
+        - {x: -162, y: -100.5}
+      - - {x: -162, y: -100.5}
+        - {x: 162, y: 100.5}
+        - {x: 162, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

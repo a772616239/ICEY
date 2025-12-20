@@ -1,0 +1,1 @@
+{"PointId":0,"TriggerSize":{"x":54.0,"y":34.0},"TriggerOffset":{"x":18.2399997711182,"y":9.73999977111816},"Rate":1.0,"HasWall":true,"canMultiTrigger":false,"DelayTime":0.5,"LeftWall":{"x":-2.89000010490417,"y":0.0,"z":-0.00300000002607703},"RightWall":{"x":39.939998626709,"y":0.0,"z":-0.00300000002607703},"HasStory":false,"StoryId":[],"battleRoundId":[3,4,5,6]}

@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: caa5e3edf7ab4832864de2eccb9f8cc8
+timeCreated: 1621819906
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300008: Word3
+    21300000: Word2_EN
+    21300006: DisappearLight
+    21300014: MainR3
+    21300028: MainR2
+    21300022: MainR1
+    21300030: WordPoint
+    21300018: Word2
+    21300020: Main1
+    21300016: MainL1
+    21300010: MainL3
+    21300004: Word1
+    21300026: MainStop
+    21300002: Word1_EN
+    21300024: MainL2
+    21300012: Word3_EN
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Word3
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 356
+        width: 132
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 66}
+        - {x: 66, y: 66}
+        - {x: -66, y: -66}
+      - - {x: -66, y: -66}
+        - {x: 66, y: 66}
+        - {x: 66, y: -66}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Word2_EN
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 356
+        width: 113
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 57.5}
+        - {x: 56.5, y: 57.5}
+        - {x: -56.5, y: -57.5}
+      - - {x: -56.5, y: -57.5}
+        - {x: 56.5, y: 57.5}
+        - {x: 56.5, y: -57.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DisappearLight
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 679
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -339.5, y: 101.5}
+        - {x: 339.5, y: 101.5}
+        - {x: -339.5, y: -101.5}
+      - - {x: -339.5, y: -101.5}
+        - {x: 339.5, y: 101.5}
+        - {x: 339.5, y: -101.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainR3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 599
+        width: 187
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 177}
+        - {x: 93.5, y: 177}
+        - {x: -93.5, y: -177}
+      - - {x: -93.5, y: -177}
+        - {x: 93.5, y: 177}
+        - {x: 93.5, y: -177}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainR2
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 205
+        width: 238
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: 197}
+        - {x: 119, y: 197}
+        - {x: -119, y: -197}
+      - - {x: -119, y: -197}
+        - {x: 119, y: 197}
+        - {x: 119, y: -197}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainR1
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 205
+        width: 213
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: 242}
+        - {x: 106.5, y: 242}
+        - {x: -106.5, y: -242}
+      - - {x: -106.5, y: -242}
+        - {x: 106.5, y: 242}
+        - {x: 106.5, y: -242}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WordPoint
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 734
+        width: 71
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 22}
+        - {x: 35.5, y: 22}
+        - {x: -35.5, y: -22}
+      - - {x: -35.5, y: -22}
+        - {x: 35.5, y: 22}
+        - {x: 35.5, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Word2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 691
+        width: 128
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 65.5}
+        - {x: 64, y: 65.5}
+        - {x: -64, y: -65.5}
+      - - {x: -64, y: -65.5}
+        - {x: 64, y: 65.5}
+        - {x: 64, y: -65.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 441
+        height: 597
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220.5, y: 298.5}
+        - {x: 220.5, y: 298.5}
+        - {x: -220.5, y: -298.5}
+      - - {x: -220.5, y: -298.5}
+        - {x: 220.5, y: 298.5}
+        - {x: 220.5, y: -298.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainL1
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 205
+        width: 213
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: 242}
+        - {x: 106.5, y: 242}
+        - {x: -106.5, y: -242}
+      - - {x: -106.5, y: -242}
+        - {x: 106.5, y: 242}
+        - {x: 106.5, y: -242}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainL3
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 0
+        width: 187
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 177}
+        - {x: 93.5, y: 177}
+        - {x: -93.5, y: -177}
+      - - {x: -93.5, y: -177}
+        - {x: 93.5, y: 177}
+        - {x: 93.5, y: -177}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Word1
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 490
+        width: 129
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 66}
+        - {x: 64.5, y: 66}
+        - {x: -64.5, y: -66}
+      - - {x: -64.5, y: -66}
+        - {x: 64.5, y: 66}
+        - {x: 64.5, y: -66}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainStop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 643
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -321.5, y: 308}
+        - {x: 321.5, y: 308}
+        - {x: -321.5, y: -308}
+      - - {x: -321.5, y: -308}
+        - {x: 321.5, y: 308}
+        - {x: 321.5, y: -308}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Word1_EN
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 618
+        width: 175
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.5, y: 57}
+        - {x: 87.5, y: 57}
+        - {x: -87.5, y: -57}
+      - - {x: -87.5, y: -57}
+        - {x: 87.5, y: 57}
+        - {x: 87.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainL2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 238
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: 197}
+        - {x: 119, y: 197}
+        - {x: -119, y: -197}
+      - - {x: -119, y: -197}
+        - {x: 119, y: 197}
+        - {x: 119, y: -197}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Word3_EN
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 599
+        width: 180
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: 49}
+        - {x: 90, y: 49}
+        - {x: -90, y: -49}
+      - - {x: -90, y: -49}
+        - {x: 90, y: 49}
+        - {x: 90, y: -49}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

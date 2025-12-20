@@ -1,0 +1,300 @@
+
+CallByFaustEffect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle
+  rotate: false
+  xy: 1659, 985
+  size: 245, 64
+  orig: 245, 64
+  offset: 0, 0
+  index: -1
+CoreFrame/1
+  rotate: false
+  xy: 1796, 1854
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/2
+  rotate: false
+  xy: 1796, 1660
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/3
+  rotate: false
+  xy: 1061, 782
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/4
+  rotate: false
+  xy: 1253, 786
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/5
+  rotate: false
+  xy: 1445, 786
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/6
+  rotate: false
+  xy: 1261, 592
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/7
+  rotate: false
+  xy: 1261, 398
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/8
+  rotate: false
+  xy: 1453, 592
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+CoreFrame/9
+  rotate: false
+  xy: 1453, 398
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+Flash
+  rotate: false
+  xy: 2, 132
+  size: 306, 42
+  orig: 306, 42
+  offset: 0, 0
+  index: -1
+PlayerFamre/1
+  rotate: true
+  xy: 1988, 1655
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/10
+  rotate: false
+  xy: 117, 72
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/2
+  rotate: false
+  xy: 463, 187
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/3
+  rotate: false
+  xy: 2, 72
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/4
+  rotate: false
+  xy: 1061, 722
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/5
+  rotate: false
+  xy: 1261, 338
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/6
+  rotate: false
+  xy: 1796, 1600
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/7
+  rotate: false
+  xy: 1796, 1600
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/8
+  rotate: false
+  xy: 578, 187
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+PlayerFamre/9
+  rotate: false
+  xy: 2, 12
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+ShieldFrame/1
+  rotate: false
+  xy: 1198, 1246
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/10
+  rotate: false
+  xy: 2, 1780
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/11
+  rotate: false
+  xy: 2, 1512
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/12
+  rotate: false
+  xy: 600, 1780
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/13
+  rotate: false
+  xy: 2, 1244
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/14
+  rotate: false
+  xy: 600, 1512
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/15
+  rotate: false
+  xy: 1198, 1780
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/16
+  rotate: false
+  xy: 2, 976
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/17
+  rotate: false
+  xy: 600, 1244
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/18
+  rotate: false
+  xy: 1198, 1512
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/19
+  rotate: false
+  xy: 2, 708
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/2
+  rotate: false
+  xy: 2, 442
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/20
+  rotate: false
+  xy: 600, 976
+  size: 596, 266
+  orig: 596, 266
+  offset: 0, 0
+  index: -1
+ShieldFrame/3
+  rotate: false
+  xy: 600, 710
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/4
+  rotate: false
+  xy: 1198, 980
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/5
+  rotate: false
+  xy: 2, 176
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/6
+  rotate: true
+  xy: 1659, 1051
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/7
+  rotate: true
+  xy: 463, 247
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/8
+  rotate: true
+  xy: 729, 249
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+ShieldFrame/9
+  rotate: true
+  xy: 995, 249
+  size: 459, 264
+  orig: 459, 264
+  offset: 0, 0
+  index: -1
+Wave
+  rotate: true
+  xy: 1988, 1770
+  size: 276, 57
+  orig: 276, 57
+  offset: 0, 0
+  index: -1

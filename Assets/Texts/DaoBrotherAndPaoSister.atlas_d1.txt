@@ -1,0 +1,153 @@
+
+DaoBrotherAndPaoSister.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Type2/Center
+  rotate: false
+  xy: 233, 361
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Type2/LFoot
+  rotate: false
+  xy: 57, 117
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Type2/LFootArmor
+  rotate: false
+  xy: 319, 393
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Type2/LForeToe
+  rotate: false
+  xy: 178, 229
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Type2/LRoll
+  rotate: false
+  xy: 289, 387
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Type2/LRollRun
+  rotate: false
+  xy: 2, 56
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Type2/LToe
+  rotate: false
+  xy: 126, 182
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Type2/Lazer
+  rotate: false
+  xy: 57, 139
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+Type2/Lleg
+  rotate: false
+  xy: 178, 345
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+Type2/Lthigh
+  rotate: true
+  xy: 126, 207
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Type2/RFoot
+  rotate: false
+  xy: 126, 160
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Type2/RFootArmor
+  rotate: false
+  xy: 2, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Type2/RForeToe
+  rotate: false
+  xy: 289, 363
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Type2/RRoll
+  rotate: false
+  xy: 2, 26
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Type2/RToe
+  rotate: false
+  xy: 178, 253
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Type2/Rleg
+  rotate: false
+  xy: 2, 88
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+Type2/Rthigh
+  rotate: true
+  xy: 178, 278
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Type2/Weapon
+  rotate: false
+  xy: 2, 160
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 160
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+Type2/WeaponFlash
+  rotate: false
+  xy: 2, 274
+  size: 174, 141
+  orig: 174, 141
+  offset: 0, 0
+  index: -1
+WeaponFlash
+  rotate: false
+  xy: 2, 274
+  size: 174, 141
+  orig: 174, 141
+  offset: 0, 0
+  index: -1

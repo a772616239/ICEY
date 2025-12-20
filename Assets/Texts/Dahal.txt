@@ -1,0 +1,9 @@
+{
+	"AirPush":"AirPush",
+	"AirPushEnd":"AirPushEnd",
+	"AirStandUp":"AirStandUp",
+	"Atk7":"Atk7",
+	"Atk8":"Atk7",
+	"Atk9":"Atk7",
+	"Atk72":"Atk72"
+}

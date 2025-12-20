@@ -1,0 +1,27 @@
+
+BombKillerIIPartB.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 59, 29
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Lforearm
+  rotate: false
+  xy: 2, 28
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 2, 2
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1

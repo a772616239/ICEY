@@ -1,0 +1,1 @@
+{"enemyQueueData":{"CheckEnemy":44,"Random":false,"Limited":false,"DelayTime":10.0,"enemyQueueArea":{"xMin":18.9600009918213,"xMax":44.872501373291,"yMin":1.12999999523163,"yMax":2.13000011444092},"EnemyType":[37]},"enemyJsonObject":[{"name":"Enemy_Carlos","position":{"x":23.6199893951416,"y":2.75999999046326},"guid":"7-0"}]}

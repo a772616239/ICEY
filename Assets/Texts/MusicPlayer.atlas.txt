@@ -1,0 +1,139 @@
+
+MusicPlayer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-TURN-
+  rotate: false
+  xy: 266, 610
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+ARTISTUN-KNOW
+  rotate: true
+  xy: 168, 342
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 616
+  size: 284, 294
+  orig: 284, 294
+  offset: 0, 0
+  index: -1
+Before
+  rotate: false
+  xy: 143, 228
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Buttom1
+  rotate: false
+  xy: 2, 246
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+Buttom2
+  rotate: false
+  xy: 2, 413
+  size: 189, 201
+  orig: 189, 201
+  offset: 0, 0
+  index: -1
+Buttom3
+  rotate: false
+  xy: 288, 743
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Buttom4
+  rotate: false
+  xy: 457, 765
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+Buttom5
+  rotate: false
+  xy: 2, 105
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+Item1
+  rotate: false
+  xy: 2, 2
+  size: 24, 101
+  orig: 24, 101
+  offset: 0, 0
+  index: -1
+Mid1
+  rotate: false
+  xy: 604, 815
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+Mid2
+  rotate: false
+  xy: 288, 634
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Mus
+  rotate: false
+  xy: 193, 533
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+NAMEUN-KNOW
+  rotate: false
+  xy: 457, 747
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+Next
+  rotate: false
+  xy: 288, 616
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+TitleBlank
+  rotate: true
+  xy: 397, 661
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+Top1
+  rotate: false
+  xy: 193, 502
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Top1Light
+  rotate: false
+  xy: 604, 776
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Top2
+  rotate: false
+  xy: 701, 860
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+BattleZoneGate.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1207, 150
+  size: 100, 734
+  orig: 100, 734
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 122, 966
+  orig: 122, 966
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 252
+  size: 174, 1562
+  orig: 174, 1562
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 126
+  size: 124, 1203
+  orig: 124, 1203
+  offset: 0, 0
+  index: -1

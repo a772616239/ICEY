@@ -1,0 +1,83 @@
+
+JackAimEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AimP
+  rotate: false
+  xy: 831, 687
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 2, 325
+  size: 325, 329
+  orig: 325, 329
+  offset: 0, 0
+  index: -1
+CircleRed
+  rotate: false
+  xy: 366, 702
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+InCircle
+  rotate: true
+  xy: 771, 627
+  size: 395, 58
+  orig: 395, 58
+  offset: 0, 0
+  index: -1
+InItem
+  rotate: false
+  xy: 992, 990
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 831, 743
+  size: 279, 63
+  orig: 279, 63
+  offset: 0, 0
+  index: -1
+OuterAimP
+  rotate: true
+  xy: 688, 677
+  size: 345, 81
+  orig: 345, 81
+  offset: 0, 0
+  index: -1
+OuterCircle
+  rotate: false
+  xy: 2, 656
+  size: 362, 366
+  orig: 362, 366
+  offset: 0, 0
+  index: -1
+OuterItem
+  rotate: true
+  xy: 896, 820
+  size: 202, 94
+  orig: 202, 94
+  offset: 0, 0
+  index: -1
+RedBG
+  rotate: false
+  xy: 2, 53
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+Ruler
+  rotate: true
+  xy: 274, 140
+  size: 183, 132
+  orig: 183, 132
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+JackBoss.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AirFrame
+  rotate: false
+  xy: 2, 228
+  size: 242, 282
+  orig: 242, 282
+  offset: 0, 0
+  index: -1
+Bodylower
+  rotate: false
+  xy: 2, 17
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+Bodyupper
+  rotate: false
+  xy: 177, 167
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Center
+  rotate: true
+  xy: 37, 47
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 37, 6
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+LArm
+  rotate: false
+  xy: 336, 480
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+LFoot
+  rotate: false
+  xy: 2, 159
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+LFootItem
+  rotate: false
+  xy: 291, 236
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+LFootWeapon
+  rotate: false
+  xy: 321, 430
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+LForearm
+  rotate: true
+  xy: 37, 91
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: false
+  xy: 469, 488
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+LHand2
+  rotate: true
+  xy: 283, 327
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 246, 429
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+LThigh
+  rotate: false
+  xy: 63, 160
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+LWeapon
+  rotate: false
+  xy: 246, 476
+  size: 88, 34
+  orig: 88, 34
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 291, 263
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: true
+  xy: 246, 298
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+RFoot
+  rotate: false
+  xy: 120, 166
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+RFootItem
+  rotate: false
+  xy: 283, 298
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+RFootWeapon
+  rotate: false
+  xy: 233, 189
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+RForearm
+  rotate: false
+  xy: 406, 489
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: true
+  xy: 309, 334
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+RHand2
+  rotate: true
+  xy: 303, 393
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+RHandFinger
+  rotate: false
+  xy: 303, 368
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+RHandFinger2
+  rotate: false
+  xy: 246, 213
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 246, 238
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+RThigh
+  rotate: false
+  xy: 246, 367
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+RWeapon
+  rotate: true
+  xy: 2, 68
+  size: 89, 33
+  orig: 89, 33
+  offset: 0, 0
+  index: -1

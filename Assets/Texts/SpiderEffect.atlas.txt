@@ -1,0 +1,48 @@
+
+SpiderEffect.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/AtkEffect/1
+  rotate: true
+  xy: 2, 2
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+Effect/AtkEffect/2
+  rotate: true
+  xy: 487, 2
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+Effect/AtkEffect/3
+  rotate: true
+  xy: 972, 2
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+Effect/AtkEffect/4
+  rotate: true
+  xy: 1457, 2
+  size: 168, 483
+  orig: 168, 483
+  offset: 0, 0
+  index: -1
+Effect/Silk/Silk1
+  rotate: false
+  xy: 2, 196
+  size: 1567, 22
+  orig: 1567, 22
+  offset: 0, 0
+  index: -1
+Effect/Silk/Silk2
+  rotate: false
+  xy: 2, 172
+  size: 1567, 22
+  orig: 1567, 22
+  offset: 0, 0
+  index: -1

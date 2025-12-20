@@ -1,0 +1,8 @@
+{
+  "JumpForward": "Jump",
+  "JumpBack": "Jump",
+  "HitFall": "Fall",
+  "AirDieFlyToFall": "FlyToFall",
+  "AirDieFall": "Fall",
+  "AirDieHitGround": "FallHitGround"
+}
