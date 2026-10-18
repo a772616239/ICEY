@@ -17,6 +17,7 @@ public class StoryE23P11 : BaseBehaviour
 		R.Ui.HideUI(true);
 		R.Mode.EnterMode(Mode.AllMode.Story);
 		R.Ui.Pause.Enabled = false;
+		Log.Info("[E23P11] Start：已进入 Story 模式，准备播放序章");
 		base.StartCoroutine(this.Sequence0());
 	}
 
@@ -27,16 +28,19 @@ public class StoryE23P11 : BaseBehaviour
 		this._errorBoom.SetActive(true);
 		AudioSource audiosource = R.Audio.PlayEffect(362, null);
 		audiosource.loop = true;
+		Log.Info("[E23P11] 序列开始，等待首次按键");
 		while (!Core.Input.AnyKey.OnClick)
 		{
 			yield return null;
 		}
+		Log.Info("[E23P11] 首次按键通过");
 		audiosource.loop = false;
 		audiosource.Stop();
 		this._errorBoom.SetActive(false);
 		CameraFilterUtils.Remove<CameraFilterPack_TV_80>(R.Ui.CameraGO);
 		R.Ui.Pause.Enabled = true;
 		yield return R.Ui.Terminal.OpenWithAnim(null);
+		Log.Info("[E23P11] 终端已打开，开始打印");
 		yield return R.Ui.Terminal.Println(ScriptLocalization.Story.e23s1, 0.1f);
 		yield return R.Ui.Terminal.Println(ScriptLocalization.Story.e23s1, 0.1f);
 		yield return R.Ui.Terminal.Println(ScriptLocalization.Story.e23s1, 0.1f);
@@ -59,10 +63,12 @@ public class StoryE23P11 : BaseBehaviour
 		{
 			yield return R.Ui.Terminal.ShowTexture(this._repairError, 1f, 1f);
 		}
+		Log.Info("[E23P11] 等待第二次按键（报错截图已显示）");
 		while (!Core.Input.AnyKey.OnClick)
 		{
 			yield return null;
 		}
+		Log.Info("[E23P11] 第二次按键通过");
 		yield return R.Ui.Terminal.HideTexture();
 		yield return R.Ui.Terminal.HideProgressBar();
 		yield return R.Ui.Terminal.Println(string.Empty, 0.1f);
@@ -71,6 +77,7 @@ public class StoryE23P11 : BaseBehaviour
 		yield return R.Ui.Terminal.Println(ScriptLocalization.Story.e23s4, 0.5f);
 		yield return R.Ui.Terminal.CloseWithoutAnim();
 		yield return R.Ui.LevelSelect.OpenWithAnim(false, false);
+		Log.Info("[E23P11] 章节选择已打开，等待 Start 按钮");
 		yield break;
 	}
 
@@ -92,6 +99,7 @@ public class StoryE23P11 : BaseBehaviour
 
 	private void StartButtonClickEvent(object sender, EventArgs args)
 	{
+		Log.Info("[E23P11] 章节选择 Start 被点击，开始进入关卡");
 		base.StartCoroutine(this.Sequence1());
 		R.Ui.LevelSelect.StartButtonClickEvent -= this.StartButtonClickEvent;
 	}
