@@ -78,7 +78,16 @@ namespace FBInput
 
 		private void UpdateGlobalInput()
 		{
-			Core.Input.AnyKey.Update(DS4Controller.AnyKey.Pressed || VirtualController.AnyKey.Pressed);
+			// 桌面端兜底：本工程的输入层只有两条通路——DS4 手柄(PS4InputPlayer) 与移动端虚拟按键(MobileInputPlayer)，
+			// 键盘/鼠标完全没有参与 AnyKey。而 Story 模式会把 MobileInputPlayer 面板整体隐藏(Mode.EnterMode)，
+			// 于是所有 "按任意键继续" 的故事脚本（StoryE23P11 / StoryE16P1-P4 / StoryE22P1 / StoryE1 跳过提示）
+			// 的 while(!AnyKey.OnClick) 会永久等待、且不抛异常 → 表现为黑屏卡死。
+			// 这里把键盘与鼠标按键并入 AnyKey，让桌面端（编辑器/PC）也能推进剧情。
+			bool keyboardOrMouse = UnityEngine.Input.anyKeyDown
+				|| UnityEngine.Input.GetMouseButtonDown(0)
+				|| UnityEngine.Input.GetMouseButtonDown(1)
+				|| UnityEngine.Input.GetMouseButtonDown(2);
+			Core.Input.AnyKey.Update(DS4Controller.AnyKey.Pressed || VirtualController.AnyKey.Pressed || keyboardOrMouse);
 		}
 
 		private void UpdateGameInput()
