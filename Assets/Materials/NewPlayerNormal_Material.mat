@@ -29,7 +29,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Cutoff: 0.1
-    - _EmissionStrength: 0.041493
+    - _EmissionStrength: 0.12188339
     - _LightStrength: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

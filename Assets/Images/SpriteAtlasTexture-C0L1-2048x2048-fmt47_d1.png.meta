@@ -1,37 +1,90 @@
 fileFormatVersion: 2
 guid: d70bc34e9fc24825a3c80d499be4a85b
-timeCreated: 1621819750
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300052: Lab__0000_near_1
-    21300014: OPEN_EN
-    21300040: Lab__0005_door_right
-    21300012: CLOSER_ZH_CN
-    21300010: CLOSE_ZH_CN
-    21300016: OPENR_EN
-    21300006: OPEN_ZH_CN
-    21300024: Lab__0006_door_left_1CN
-    21300042: OpenIcon
-    21300028: CLOSER_EN
-    21300038: Lab__0004_doorr_right_2CN
-    21300008: Lab__0003_door_right_1CN
-    21300026: CloseIcon
-    21300022: Lab__0007_door_left_2CN
-    21300004: Lab_0001_middle_left_ban
-    21300048: Lab1__0000_near_1
-    21300050: Lab3__0005_near_2
-    21300002: OPENR_ZH_CN
-    21300044: FloorLight_test
-    21300036: Lab__0001_middle_TV
-    21300034: OpenIconR
-    21300000: Lab__0000_middle_tv
-    21300020: Lab__0008_door_left
-    21300030: Lab_0002_middle_left_2
-    21300018: CloseIconR
-    21300032: Lab_0000_middle_left_1
-    21300046: CLOSE_EN
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Lab__0000_middle_tv
+  - first:
+      213: 21300002
+    second: OPENR_ZH_CN
+  - first:
+      213: 21300004
+    second: Lab_0001_middle_left_ban
+  - first:
+      213: 21300006
+    second: OPEN_ZH_CN
+  - first:
+      213: 21300008
+    second: Lab__0003_door_right_1CN
+  - first:
+      213: 21300010
+    second: CLOSE_ZH_CN
+  - first:
+      213: 21300012
+    second: CLOSER_ZH_CN
+  - first:
+      213: 21300014
+    second: OPEN_EN
+  - first:
+      213: 21300016
+    second: OPENR_EN
+  - first:
+      213: 21300018
+    second: CloseIconR
+  - first:
+      213: 21300020
+    second: Lab__0008_door_left
+  - first:
+      213: 21300022
+    second: Lab__0007_door_left_2CN
+  - first:
+      213: 21300024
+    second: Lab__0006_door_left_1CN
+  - first:
+      213: 21300026
+    second: CloseIcon
+  - first:
+      213: 21300028
+    second: CLOSER_EN
+  - first:
+      213: 21300030
+    second: Lab_0002_middle_left_2
+  - first:
+      213: 21300032
+    second: Lab_0000_middle_left_1
+  - first:
+      213: 21300034
+    second: OpenIconR
+  - first:
+      213: 21300036
+    second: Lab__0001_middle_TV
+  - first:
+      213: 21300038
+    second: Lab__0004_doorr_right_2CN
+  - first:
+      213: 21300040
+    second: Lab__0005_door_right
+  - first:
+      213: 21300042
+    second: OpenIcon
+  - first:
+      213: 21300044
+    second: FloorLight_test
+  - first:
+      213: 21300046
+    second: CLOSE_EN
+  - first:
+      213: 21300048
+    second: Lab1__0000_near_1
+  - first:
+      213: 21300050
+    second: Lab3__0005_near_2
+  - first:
+      213: 21300052
+    second: Lab__0000_near_1
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -39,6 +92,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -47,6 +102,9 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -54,10 +112,13 @@ TextureImporter:
   textureFormat: 47
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapMode: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -66,25 +127,60 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -108,6 +204,13 @@ TextureImporter:
         - {x: 226, y: -652}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OPEN_EN
       rect:
@@ -128,6 +231,13 @@ TextureImporter:
         - {x: 78, y: -42}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0005_door_right
       rect:
@@ -148,6 +258,13 @@ TextureImporter:
         - {x: 101, y: -320.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CLOSER_ZH_CN
       rect:
@@ -168,6 +285,13 @@ TextureImporter:
         - {x: 77.5, y: -42.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CLOSE_ZH_CN
       rect:
@@ -188,6 +312,13 @@ TextureImporter:
         - {x: 74, y: -41.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OPENR_EN
       rect:
@@ -208,6 +339,13 @@ TextureImporter:
         - {x: 79, y: -41.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OPEN_ZH_CN
       rect:
@@ -228,6 +366,13 @@ TextureImporter:
         - {x: 76, y: -40.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0006_door_left_1CN
       rect:
@@ -248,6 +393,13 @@ TextureImporter:
         - {x: 31, y: -279}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OpenIcon
       rect:
@@ -268,6 +420,13 @@ TextureImporter:
         - {x: 40, y: -44}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CLOSER_EN
       rect:
@@ -288,6 +447,13 @@ TextureImporter:
         - {x: 84.5, y: -44.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0004_doorr_right_2CN
       rect:
@@ -308,6 +474,13 @@ TextureImporter:
         - {x: 63.5, y: -272}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0003_door_right_1CN
       rect:
@@ -328,6 +501,13 @@ TextureImporter:
         - {x: 31, y: -279}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CloseIcon
       rect:
@@ -348,6 +528,13 @@ TextureImporter:
         - {x: 40, y: -45}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0007_door_left_2CN
       rect:
@@ -368,6 +555,13 @@ TextureImporter:
         - {x: 63.5, y: -272}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab_0001_middle_left_ban
       rect:
@@ -388,6 +582,13 @@ TextureImporter:
         - {x: 109.5, y: -109.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab1__0000_near_1
       rect:
@@ -408,6 +609,13 @@ TextureImporter:
         - {x: 127, y: -841}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab3__0005_near_2
       rect:
@@ -428,6 +636,13 @@ TextureImporter:
         - {x: 232, y: -653}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OPENR_ZH_CN
       rect:
@@ -448,6 +663,13 @@ TextureImporter:
         - {x: 78.5, y: -42.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FloorLight_test
       rect:
@@ -468,6 +690,13 @@ TextureImporter:
         - {x: 189.5, y: -39.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0001_middle_TV
       rect:
@@ -488,6 +717,13 @@ TextureImporter:
         - {x: 290, y: -169.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: OpenIconR
       rect:
@@ -508,6 +744,13 @@ TextureImporter:
         - {x: 40, y: -44}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0000_middle_tv
       rect:
@@ -528,6 +771,13 @@ TextureImporter:
         - {x: 114.5, y: -68}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab__0008_door_left
       rect:
@@ -548,6 +798,13 @@ TextureImporter:
         - {x: 101, y: -320.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab_0002_middle_left_2
       rect:
@@ -568,6 +825,13 @@ TextureImporter:
         - {x: 31.5, y: -66.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CloseIconR
       rect:
@@ -588,6 +852,13 @@ TextureImporter:
         - {x: 40, y: -45}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lab_0000_middle_left_1
       rect:
@@ -608,6 +879,13 @@ TextureImporter:
         - {x: 36, y: -75.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: CLOSE_EN
       rect:
@@ -628,9 +906,26 @@ TextureImporter:
         - {x: 85.5, y: -45}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,18 +1,33 @@
 fileFormatVersion: 2
 guid: b2ea0288260e4a058315f9c0b895ae0b
-timeCreated: 1621819652
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: C3L1_s6_0003_near_4
-    21300010: C3L1_s6_0001_near_2
-    21300004: C3L1_s6_0004_near_5
-    21300012: C3L1_s6_0000_near_1
-    21300014: C3L1_s6_0002_near_3
-    21300008: C3L1_s6_0007_near_8
-    21300002: C3L1_s6_0005_near_6
-    21300006: C3L1_s6_0006_near_7
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: C3L1_s6_0003_near_4
+  - first:
+      213: 21300002
+    second: C3L1_s6_0005_near_6
+  - first:
+      213: 21300004
+    second: C3L1_s6_0004_near_5
+  - first:
+      213: 21300006
+    second: C3L1_s6_0006_near_7
+  - first:
+      213: 21300008
+    second: C3L1_s6_0007_near_8
+  - first:
+      213: 21300010
+    second: C3L1_s6_0001_near_2
+  - first:
+      213: 21300012
+    second: C3L1_s6_0000_near_1
+  - first:
+      213: 21300014
+    second: C3L1_s6_0002_near_3
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,6 +35,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -28,6 +45,9 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -35,10 +55,13 @@ TextureImporter:
   textureFormat: 47
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapMode: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -47,25 +70,60 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -89,6 +147,13 @@ TextureImporter:
         - {x: 635, y: -122.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0001_near_2
       rect:
@@ -109,6 +174,13 @@ TextureImporter:
         - {x: 361, y: -85.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0004_near_5
       rect:
@@ -129,6 +201,13 @@ TextureImporter:
         - {x: 291.5, y: -191.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0000_near_1
       rect:
@@ -149,6 +228,13 @@ TextureImporter:
         - {x: 225, y: -85.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0002_near_3
       rect:
@@ -169,6 +255,13 @@ TextureImporter:
         - {x: 634.5, y: -86}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0007_near_8
       rect:
@@ -189,6 +282,13 @@ TextureImporter:
         - {x: 163, y: -288}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0005_near_6
       rect:
@@ -209,6 +309,13 @@ TextureImporter:
         - {x: 369.5, y: -85.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C3L1_s6_0006_near_7
       rect:
@@ -229,9 +336,26 @@ TextureImporter:
         - {x: 275.5, y: -127.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,36 +1,87 @@
 fileFormatVersion: 2
 guid: acaae547837f4ddbaa8057261096e31c
-timeCreated: 1621819722
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300032: C5L1_s4_0003_near_1
-    21300012: C5L1_s4_0008_far_day_1
-    21300026: far_nightCloud_3
-    21300046: C5L1_s4_0002_far_searchlight
-    21300020: C5L1_s4_0011_far_day_4
-    21300018: C5L1_s4_0018_middle_niaht_7
-    21300048: far_nightCloud_4
-    21300014: far_dayCloud_3
-    21300040: C5L1_s4_0013_middle_day_6
-    21300016: C5L1_s4_0004_far_night_1
-    21300004: C5L1_s4_0001_middle_searchlight
-    21300034: far_dayCloud_up_4
-    21300050: C5L1_s4_0019_middle_niaht_8
-    21300008: C5L1_s4_0000_near_searchlight
-    21300044: C5L1_s4_0006_far_night_3
-    21300038: C5L1_s4_0014_middle_day_7
-    21300024: C5L1_s4_0005_far_night_2
-    21300006: C5L1_s4_0003_light_2
-    21300010: C5L1_s4_0007_far_night_4
-    21300028: C5L1_s4_0017_middle_niaht_6
-    21300000: far_dayCloud_1
-    21300042: C5L1_s4_0004_near_2
-    21300030: C5L1_s4_0010_far_day_3
-    21300022: far_dayCloud_2
-    21300036: C5L1_s4_0005_middle_light
-    21300002: C5L1_s4_0016_middle_niaht_5
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: far_dayCloud_1
+  - first:
+      213: 21300002
+    second: C5L1_s4_0016_middle_niaht_5
+  - first:
+      213: 21300004
+    second: C5L1_s4_0001_middle_searchlight
+  - first:
+      213: 21300006
+    second: C5L1_s4_0003_light_2
+  - first:
+      213: 21300008
+    second: C5L1_s4_0000_near_searchlight
+  - first:
+      213: 21300010
+    second: C5L1_s4_0007_far_night_4
+  - first:
+      213: 21300012
+    second: C5L1_s4_0008_far_day_1
+  - first:
+      213: 21300014
+    second: far_dayCloud_3
+  - first:
+      213: 21300016
+    second: C5L1_s4_0004_far_night_1
+  - first:
+      213: 21300018
+    second: C5L1_s4_0018_middle_niaht_7
+  - first:
+      213: 21300020
+    second: C5L1_s4_0011_far_day_4
+  - first:
+      213: 21300022
+    second: far_dayCloud_2
+  - first:
+      213: 21300024
+    second: C5L1_s4_0005_far_night_2
+  - first:
+      213: 21300026
+    second: far_nightCloud_3
+  - first:
+      213: 21300028
+    second: C5L1_s4_0017_middle_niaht_6
+  - first:
+      213: 21300030
+    second: C5L1_s4_0010_far_day_3
+  - first:
+      213: 21300032
+    second: C5L1_s4_0003_near_1
+  - first:
+      213: 21300034
+    second: far_dayCloud_up_4
+  - first:
+      213: 21300036
+    second: C5L1_s4_0005_middle_light
+  - first:
+      213: 21300038
+    second: C5L1_s4_0014_middle_day_7
+  - first:
+      213: 21300040
+    second: C5L1_s4_0013_middle_day_6
+  - first:
+      213: 21300042
+    second: C5L1_s4_0004_near_2
+  - first:
+      213: 21300044
+    second: C5L1_s4_0006_far_night_3
+  - first:
+      213: 21300046
+    second: C5L1_s4_0002_far_searchlight
+  - first:
+      213: 21300048
+    second: far_nightCloud_4
+  - first:
+      213: 21300050
+    second: C5L1_s4_0019_middle_niaht_8
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -38,6 +89,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -46,6 +99,9 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -53,10 +109,13 @@ TextureImporter:
   textureFormat: 47
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapMode: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -65,25 +124,60 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -107,6 +201,13 @@ TextureImporter:
         - {x: 636.5, y: -168.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0008_far_day_1
       rect:
@@ -127,6 +228,13 @@ TextureImporter:
         - {x: 285.5, y: -110.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_nightCloud_3
       rect:
@@ -147,6 +255,13 @@ TextureImporter:
         - {x: 81, y: -30.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0002_far_searchlight
       rect:
@@ -167,6 +282,13 @@ TextureImporter:
         - {x: 77.5, y: -138}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0011_far_day_4
       rect:
@@ -187,6 +309,13 @@ TextureImporter:
         - {x: 192, y: -69.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0018_middle_niaht_7
       rect:
@@ -207,6 +336,13 @@ TextureImporter:
         - {x: 97.5, y: -32}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_nightCloud_4
       rect:
@@ -227,6 +363,13 @@ TextureImporter:
         - {x: 67.5, y: -30.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_dayCloud_3
       rect:
@@ -247,6 +390,13 @@ TextureImporter:
         - {x: 121, y: -45}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0013_middle_day_6
       rect:
@@ -267,6 +417,13 @@ TextureImporter:
         - {x: 160, y: -60}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0004_far_night_1
       rect:
@@ -287,6 +444,13 @@ TextureImporter:
         - {x: 161, y: -46}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0001_middle_searchlight
       rect:
@@ -307,6 +471,13 @@ TextureImporter:
         - {x: 148.5, y: -169.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_dayCloud_up_4
       rect:
@@ -327,6 +498,13 @@ TextureImporter:
         - {x: 174, y: -32.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0019_middle_niaht_8
       rect:
@@ -347,6 +525,13 @@ TextureImporter:
         - {x: 137.5, y: -32}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0000_near_searchlight
       rect:
@@ -367,6 +552,13 @@ TextureImporter:
         - {x: 88, y: -155.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0006_far_night_3
       rect:
@@ -387,6 +579,13 @@ TextureImporter:
         - {x: 141, y: -51}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0014_middle_day_7
       rect:
@@ -407,6 +606,13 @@ TextureImporter:
         - {x: 185.5, y: -71.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0005_far_night_2
       rect:
@@ -427,6 +633,13 @@ TextureImporter:
         - {x: 172.5, y: -62}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0003_light_2
       rect:
@@ -447,6 +660,13 @@ TextureImporter:
         - {x: 42.5, y: -131}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0007_far_night_4
       rect:
@@ -467,6 +687,13 @@ TextureImporter:
         - {x: 188.5, y: -64.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0017_middle_niaht_6
       rect:
@@ -487,6 +714,13 @@ TextureImporter:
         - {x: 180, y: -49}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_dayCloud_1
       rect:
@@ -507,6 +741,13 @@ TextureImporter:
         - {x: 96.5, y: -14.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0004_near_2
       rect:
@@ -527,6 +768,13 @@ TextureImporter:
         - {x: 68.5, y: -46}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0010_far_day_3
       rect:
@@ -547,6 +795,13 @@ TextureImporter:
         - {x: 114, y: -41}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: far_dayCloud_2
       rect:
@@ -567,6 +822,13 @@ TextureImporter:
         - {x: 77.5, y: -16}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0005_middle_light
       rect:
@@ -587,6 +849,13 @@ TextureImporter:
         - {x: 50.5, y: -51}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: C5L1_s4_0016_middle_niaht_5
       rect:
@@ -607,9 +876,26 @@ TextureImporter:
         - {x: 131.5, y: -77.5}
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
