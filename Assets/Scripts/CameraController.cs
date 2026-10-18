@@ -48,7 +48,11 @@ public class CameraController : SingletonMono<CameraController>
 	{
 		get
 		{
-			return this._pivot ?? R.Player.Transform;
+			if (this._pivot == null)
+			{
+				return R.Player.Transform;
+			}
+			return this._pivot;
 		}
 		set
 		{

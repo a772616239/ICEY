@@ -8,7 +8,7 @@ public static class CameraFilterUtils
 	{
 		if (CameraFilterUtils.CurrentFilterList.Contains(typeof(T)))
 		{
-			return (camera ?? R.Camera.GameObject).GetComponent<T>();
+			return ((camera == null) ? R.Camera.GameObject : camera).GetComponent<T>();
 		}
 		throw new NullReferenceException("滤镜" + typeof(T) + "不存在");
 	}
@@ -16,13 +16,13 @@ public static class CameraFilterUtils
 	public static T Create<T>(GameObject camera = null) where T : MonoBehaviour
 	{
 		CameraFilterUtils.CurrentFilterList.Add(typeof(T));
-		return (camera ?? R.Camera.GameObject).AddComponent<T>();
+		return ((camera == null) ? R.Camera.GameObject : camera).AddComponent<T>();
 	}
 
 	public static void Remove<T>(GameObject camera = null) where T : MonoBehaviour
 	{
 		CameraFilterUtils.CurrentFilterList.Remove(typeof(T));
-		UnityEngine.Object.Destroy((camera ?? R.Camera.GameObject).GetComponent<T>());
+		UnityEngine.Object.Destroy(((camera == null) ? R.Camera.GameObject : camera).GetComponent<T>());
 	}
 
 	public static readonly Type[] FilterTypes = new Type[]

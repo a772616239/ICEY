@@ -8,7 +8,7 @@ public class SetActiveByPlayerInCollision : BaseBehaviour
 	{
 		get
 		{
-			return this._gameObject ?? base.gameObject;
+			return (this._gameObject == null) ? base.gameObject : this._gameObject;
 		}
 	}
 

@@ -24,6 +24,10 @@ public class UITrophyController : MonoBehaviour
 
 	public void Close()
 	{
+		if (this._analogTv == null)
+		{
+			return;
+		}
 		this._analogTv.enabled = true;
 		R.Ui.Pause.Enabled = true;
 		this._pauseGameObject.SetActive(true);

@@ -9,7 +9,7 @@ public class SetActiveByPlayerInCollisionOneTime : BaseBehaviour
 		if (other.CompareTag("Player") && R.Enemy.Count == 0 && this.firstTime)
 		{
 			this.firstTime = false;
-			(this.chapt ?? base.gameObject).SetActive(true);
+			((this.chapt == null) ? base.gameObject : this.chapt).SetActive(true);
 		}
 	}
 
