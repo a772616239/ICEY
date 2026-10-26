@@ -9,6 +9,7 @@ public static class DB
 	{
 		get
 		{
+			DB.Preload();
 			return DB._audioClipData;
 		}
 	}

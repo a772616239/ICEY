@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using LitJson;
 using UnityEngine;
@@ -53,6 +54,20 @@ public class SpineAnimationController : BaseBehaviour
 		this._lastAnimSpeed = animSpeed;
 		if (loop && this.CurrentUnityAnim == animName && MathfX.isInMiddleRange(this._lastAnimSpeed, animSpeed, 0.1f))
 		{
+			return;
+		}
+		if (this._animation == null || this._animation[animName] == null)
+		{
+			if (this._missingAnimNames.Add(animName))
+			{
+				UnityEngine.Debug.LogError(string.Concat(new string[]
+				{
+					"动画 ",
+					animName,
+					" 不存在（已跳过播放，避免状态机卡死） gameObject=",
+					base.name
+				}));
+			}
 			return;
 		}
 		try
@@ -182,6 +197,8 @@ public class SpineAnimationController : BaseBehaviour
 	private SkeletonAnimation _skeletonAnimation;
 
 	private TimeController _timeController;
+
+	private readonly HashSet<string> _missingAnimNames = new HashSet<string>();
 
 	public bool AnimForceChange;
 

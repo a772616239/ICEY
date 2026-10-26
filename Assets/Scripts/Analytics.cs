@@ -34,8 +34,8 @@ public class Analytics : MonoBehaviour
 	public static void SetUser(string userId, TGTUserType userType, TGTUserSex userSex, int userAge, string userName)
 	{
 		TapDB.setUser(userId, userType, userSex, userAge, userName);
-		UnityEngine.Analytics.Analytics.SetUserId(userId);
-		UnityEngine.Analytics.Analytics.SetUserGender((Gender)userSex);
+		// UnityEngine.Analytics.Analytics.SetUserId / SetUserGender were removed in Unity 2020.1.
+		// TapDB.setUser above already carries the same identity data.
 	}
 
 	private static readonly string AppId = "lwqo2sdxkqa07p3y";

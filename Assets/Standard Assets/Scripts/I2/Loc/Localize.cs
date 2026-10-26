@@ -682,17 +682,10 @@ namespace I2.Loc
 
 		public void RegisterEvents_UnityStandard()
 		{
-			this.EventFindTarget += this.FindTarget_GUIText;
 			this.EventFindTarget += this.FindTarget_TextMesh;
 			this.EventFindTarget += this.FindTarget_AudioSource;
-			this.EventFindTarget += this.FindTarget_GUITexture;
 			this.EventFindTarget += this.FindTarget_Child;
 			this.EventFindTarget += this.FindTarget_SpriteRenderer;
-		}
-
-		private void FindTarget_GUIText()
-		{
-			this.FindAndCacheTarget<GUIText>(ref this.mTarget_GUIText, new Localize.DelegateSetFinalTerms(this.SetFinalTerms_GUIText), new Localize.DelegateDoLocalize(this.DoLocalize_GUIText), true, true, false);
 		}
 
 		private void FindTarget_TextMesh()
@@ -705,11 +698,6 @@ namespace I2.Loc
 			this.FindAndCacheTarget<AudioSource>(ref this.mTarget_AudioSource, new Localize.DelegateSetFinalTerms(this.SetFinalTerms_AudioSource), new Localize.DelegateDoLocalize(this.DoLocalize_AudioSource), false, false, false);
 		}
 
-		private void FindTarget_GUITexture()
-		{
-			this.FindAndCacheTarget<GUITexture>(ref this.mTarget_GUITexture, new Localize.DelegateSetFinalTerms(this.SetFinalTerms_GUITexture), new Localize.DelegateDoLocalize(this.DoLocalize_GUITexture), false, false, false);
-		}
-
 		private void FindTarget_Child()
 		{
 			this.FindAndCacheTarget(ref this.mTarget_Child, new Localize.DelegateSetFinalTerms(this.SetFinalTerms_Child), new Localize.DelegateDoLocalize(this.DoLocalize_Child), false, false, false);
@@ -720,31 +708,10 @@ namespace I2.Loc
 			this.FindAndCacheTarget<SpriteRenderer>(ref this.mTarget_SpriteRenderer, new Localize.DelegateSetFinalTerms(this.SetFinalTerms_SpriteRenderer), new Localize.DelegateDoLocalize(this.DoLocalize_SpriteRenderer), false, false, false);
 		}
 
-		public void SetFinalTerms_GUIText(string Main, string Secondary, out string PrimaryTerm, out string SecondaryTerm)
-		{
-			if (string.IsNullOrEmpty(Secondary) && this.mTarget_GUIText.font != null)
-			{
-				Secondary = this.mTarget_GUIText.font.name;
-			}
-			this.SetFinalTerms(this.mTarget_GUIText.text, Secondary, out PrimaryTerm, out SecondaryTerm, true);
-		}
-
 		public void SetFinalTerms_TextMesh(string Main, string Secondary, out string PrimaryTerm, out string SecondaryTerm)
 		{
 			string secondary = (!(this.mTarget_TextMesh.font != null)) ? string.Empty : this.mTarget_TextMesh.font.name;
 			this.SetFinalTerms(this.mTarget_TextMesh.text, secondary, out PrimaryTerm, out SecondaryTerm, true);
-		}
-
-		public void SetFinalTerms_GUITexture(string Main, string Secondary, out string PrimaryTerm, out string SecondaryTerm)
-		{
-			if (!this.mTarget_GUITexture || !this.mTarget_GUITexture.texture)
-			{
-				this.SetFinalTerms(string.Empty, string.Empty, out PrimaryTerm, out SecondaryTerm, false);
-			}
-			else
-			{
-				this.SetFinalTerms(this.mTarget_GUITexture.texture.name, string.Empty, out PrimaryTerm, out SecondaryTerm, false);
-			}
 		}
 
 		public void SetFinalTerms_AudioSource(string Main, string Secondary, out string PrimaryTerm, out string SecondaryTerm)
@@ -767,36 +734,6 @@ namespace I2.Loc
 		public void SetFinalTerms_SpriteRenderer(string Main, string Secondary, out string PrimaryTerm, out string SecondaryTerm)
 		{
 			this.SetFinalTerms((!(this.mTarget_SpriteRenderer.sprite != null)) ? string.Empty : this.mTarget_SpriteRenderer.sprite.name, string.Empty, out PrimaryTerm, out SecondaryTerm, false);
-		}
-
-		private void DoLocalize_GUIText(string MainTranslation, string SecondaryTranslation)
-		{
-			Font secondaryTranslatedObj = this.GetSecondaryTranslatedObj<Font>(ref MainTranslation, ref SecondaryTranslation);
-			if (secondaryTranslatedObj != null && this.mTarget_GUIText.font != secondaryTranslatedObj)
-			{
-				this.mTarget_GUIText.font = secondaryTranslatedObj;
-			}
-			if (this.mInitializeAlignment)
-			{
-				this.mInitializeAlignment = false;
-				this.mAlignmentStd_LTR = (this.mAlignmentStd_RTL = this.mTarget_GUIText.alignment);
-				if (LocalizationManager.IsRight2Left && this.mAlignmentStd_RTL == TextAlignment.Right)
-				{
-					this.mAlignmentStd_LTR = TextAlignment.Left;
-				}
-				if (!LocalizationManager.IsRight2Left && this.mAlignmentStd_LTR == TextAlignment.Left)
-				{
-					this.mAlignmentStd_RTL = TextAlignment.Right;
-				}
-			}
-			if (!string.IsNullOrEmpty(MainTranslation) && this.mTarget_GUIText.text != MainTranslation)
-			{
-				if (Localize.CurrentLocalizeComponent.CorrectAlignmentForRTL && this.mTarget_GUIText.alignment != TextAlignment.Center)
-				{
-					this.mTarget_GUIText.alignment = ((!LocalizationManager.IsRight2Left) ? this.mAlignmentStd_LTR : this.mAlignmentStd_RTL);
-				}
-				this.mTarget_GUIText.text = MainTranslation;
-			}
 		}
 
 		private void DoLocalize_TextMesh(string MainTranslation, string SecondaryTranslation)
@@ -842,15 +779,6 @@ namespace I2.Loc
 			if (isPlaying && this.mTarget_AudioSource.clip)
 			{
 				this.mTarget_AudioSource.Play();
-			}
-		}
-
-		private void DoLocalize_GUITexture(string MainTranslation, string SecondaryTranslation)
-		{
-			Texture texture = this.mTarget_GUITexture.texture;
-			if (texture != null && texture.name != MainTranslation)
-			{
-				this.mTarget_GUITexture.texture = this.FindTranslatedObject<Texture>(MainTranslation);
 			}
 		}
 
@@ -967,13 +895,9 @@ namespace I2.Loc
 
 		private TextAnchor mAlignmentUGUI_LTR;
 
-		private GUIText mTarget_GUIText;
-
 		private TextMesh mTarget_TextMesh;
 
 		private AudioSource mTarget_AudioSource;
-
-		private GUITexture mTarget_GUITexture;
 
 		private GameObject mTarget_Child;
 

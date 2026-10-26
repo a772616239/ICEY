@@ -37,7 +37,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 		private void Start()
 		{
 #if UNITY_HAS_VRCLASS
-			if (UnityEngine.XR.XRDevice.isPresent)
+			if (IsVrPresent())
 			{
 				return;
 			}
@@ -63,7 +63,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 		void Update()
 		{
 #if UNITY_HAS_VRCLASS
-			if (UnityEngine.XR.XRDevice.isPresent)
+			if (IsVrPresent())
 			{
 				// Mouse click translates to gear VR touch to reset view
 				if (_allowRecenter && (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space)))
@@ -116,6 +116,33 @@ namespace RenderHeads.Media.AVProVideo.Demos
 				}
 			}
 		}
+
+		/// <summary>
+		/// XRDevice.isPresent was removed in Unity 2020.1. Use the running state of the
+		/// active XRDisplaySubsystem instead. The list is reused so calling this every
+		/// frame from Update() does not allocate.
+		/// </summary>
+		private static bool IsVrPresent()
+		{
+#if UNITY_2020_1_OR_NEWER
+			UnityEngine.SubsystemManager.GetInstances(s_displaySubsystems);
+			for (int i = 0; i < s_displaySubsystems.Count; i++)
+			{
+				if (s_displaySubsystems[i] != null && s_displaySubsystems[i].running)
+				{
+					return true;
+				}
+			}
+			return false;
+#else
+			return UnityEngine.XR.XRDevice.isPresent;
+#endif
+		}
+
+#if UNITY_2020_1_OR_NEWER
+		private static readonly System.Collections.Generic.List<UnityEngine.XR.XRDisplaySubsystem> s_displaySubsystems =
+			new System.Collections.Generic.List<UnityEngine.XR.XRDisplaySubsystem>();
+#endif
 
 		void LateUpdate()
 		{
